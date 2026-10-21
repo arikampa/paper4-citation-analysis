@@ -1,0 +1,35 @@
+# Credentials / environment
+.env
+.env.*
+!.env.example
+*.pem
+*secret*
+**/.ipynb_checkpoints/
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+wandb/
+
+# Heavy external assets that can be regenerated (or require permission)
+oa_pdf/
+**/oa_pdf/
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+*.bin
+*.gguf
+*.h5
+**/saved_model/
+**/trainer_checkpoints/
+**/pretrained_citation_*/
+**/checkpoints/
+
+# Full-text/third-party corpora and generated per-paper predictions excluded from this draft
+local_data/
+restricted_data/
+original_uploads/
+*.rar
+*.zip
+.DS_Store

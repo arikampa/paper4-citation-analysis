@@ -1,0 +1,29 @@
+journal,journal_short,cumulative_N,milestone,journal_total_low_high,actual_coverage
+Frontiers in Communication,FCOMM,169,v1_coverage_30pct,564,0.299645390070922
+Frontiers in Research Metrics and Analytics,RMA,52,v1_coverage_30pct,173,0.30057803468208094
+Iberoamerican Journal of Science Measurement and Communication,IJSMC,8,v1_coverage_30pct,25,0.32
+Journal of Informetrics,JOI,91,v1_coverage_30pct,302,0.30132450331125826
+Journal of the Association for Information Science and Technology,JASIST,106,v1_coverage_30pct,355,0.29859154929577464
+Quantitative Science Studies,QSS,45,v1_coverage_30pct,150,0.3
+Scientometrics,SCIM,269,v1_coverage_30pct,896,0.3002232142857143
+Frontiers in Communication,FCOMM,282,v2_coverage_50pct,564,0.5
+Frontiers in Research Metrics and Analytics,RMA,86,v2_coverage_50pct,173,0.49710982658959535
+Iberoamerican Journal of Science Measurement and Communication,IJSMC,12,v2_coverage_50pct,25,0.48
+Journal of Informetrics,JOI,151,v2_coverage_50pct,302,0.5
+Journal of the Association for Information Science and Technology,JASIST,178,v2_coverage_50pct,355,0.5014084507042254
+Quantitative Science Studies,QSS,75,v2_coverage_50pct,150,0.5
+Scientometrics,SCIM,448,v2_coverage_50pct,896,0.5
+Frontiers in Communication,FCOMM,395,v3_coverage_70pct,564,0.700354609929078
+Frontiers in Research Metrics and Analytics,RMA,121,v3_coverage_70pct,173,0.6994219653179191
+Iberoamerican Journal of Science Measurement and Communication,IJSMC,18,v3_coverage_70pct,25,0.72
+Journal of Informetrics,JOI,211,v3_coverage_70pct,302,0.6986754966887417
+Journal of the Association for Information Science and Technology,JASIST,248,v3_coverage_70pct,355,0.6985915492957746
+Quantitative Science Studies,QSS,105,v3_coverage_70pct,150,0.7
+Scientometrics,SCIM,627,v3_coverage_70pct,896,0.6997767857142857
+Frontiers in Communication,FCOMM,564,v4_coverage_100pct,564,1.0
+Frontiers in Research Metrics and Analytics,RMA,173,v4_coverage_100pct,173,1.0
+Iberoamerican Journal of Science Measurement and Communication,IJSMC,25,v4_coverage_100pct,25,1.0
+Journal of Informetrics,JOI,302,v4_coverage_100pct,302,1.0
+Journal of the Association for Information Science and Technology,JASIST,355,v4_coverage_100pct,355,1.0
+Quantitative Science Studies,QSS,150,v4_coverage_100pct,150,1.0
+Scientometrics,SCIM,896,v4_coverage_100pct,896,1.0

@@ -1,0 +1,5 @@
+Scenario,Comparison,Added_feature,N,LR_statistic,df,p-value,AIC_M3,AIC_augmented,p_BH,significant_raw_0.05,significant_BH_0.05
+valid_only,M3_vs_M4_ratio_adjusted,less_frequent_citation_ratio,1031,2.2235356207668246,1,0.13592147517145717,1403.8732782158738,1403.649742595107,0.13592147517145717,False,False
+valid_only,M3_vs_M5_presence_adjusted,has_less_frequent_citation,1031,8.709915957957719,1,0.0031648379767314247,1403.8732782158738,1397.163362257916,0.006329675953462849,True,True
+full_dataset,M3_vs_M4_ratio_adjusted,less_frequent_citation_ratio,2465,1.9564171555398389,1,0.16189701609982224,3293.181511360021,3293.225094204481,0.16189701609982224,False,False
+full_dataset,M3_vs_M5_presence_adjusted,has_less_frequent_citation,2465,5.299568269802876,1,0.021330710754526177,3293.181511360021,3289.881943090218,0.042661421509052354,True,True

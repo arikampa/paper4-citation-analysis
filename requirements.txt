@@ -1,0 +1,27 @@
+# Indicative packages derived from notebook imports; these are NOT an exact locked environment.
+numpy
+pandas
+requests
+scipy
+scikit-learn
+statsmodels
+matplotlib
+seaborn
+shap
+nltk
+lxml
+tqdm
+pysbd
+rapidfuzz
+pyarrow
+spacy
+PyMuPDF
+huggingface-hub
+transformers
+datasets
+peft
+sentence-transformers
+torch
+accelerate
+wandb
+# Install GPU-specific bitsandbytes separately when hardware/CUDA supports it.

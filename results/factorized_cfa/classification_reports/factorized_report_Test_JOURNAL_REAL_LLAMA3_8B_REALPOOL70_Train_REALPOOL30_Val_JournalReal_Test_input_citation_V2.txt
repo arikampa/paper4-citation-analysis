@@ -1,0 +1,49 @@
+Test_JOURNAL_REAL — Factorized CFA
+======================================================================
+
+4-class function report
+                         precision    recall  f1-score   support
+
+Background_related_work       0.98      0.85      0.91      8975
+             Comparison       0.20      0.47      0.28       173
+         Using_the_work       0.32      0.77      0.45       501
+     Extending_the_work       0.15      0.52      0.23        86
+
+               accuracy                           0.84      9735
+              macro avg       0.41      0.65      0.47      9735
+           weighted avg       0.93      0.84      0.87      9735
+
+
+Derived 12-class reference report
+Reference = BERT-predicted sentiment × gold function
+Prediction = BERT-predicted sentiment × predicted function
+This is not a fully gold 12-class evaluation.
+                           precision    recall  f1-score   support
+
+   Constructive_extension       0.16      1.00      0.28         7
+   Supportive_application       0.32      0.72      0.44        36
+Aligned_contextualization       0.97      0.89      0.93      1738
+      Positive_comparison       0.19      0.37      0.25        65
+        Neutral_extension       0.14      0.47      0.22        78
+      Neutral_application       0.32      0.78      0.45       458
+Descriptive_backgrounding       0.98      0.83      0.90      6476
+      Balanced_comparison       0.18      0.48      0.26        86
+       Critical_extension       0.14      1.00      0.25         1
+    Misguided_application       0.25      0.43      0.32         7
+   Critical_backgrounding       0.99      0.94      0.97       761
+      Negative_comparison       0.33      0.77      0.47        22
+
+                 accuracy                           0.84      9735
+                macro avg       0.42      0.72      0.48      9735
+             weighted avg       0.93      0.84      0.87      9735
+
+
+Derived rare/non-rare reference report
+              precision    recall  f1-score   support
+
+    Non_rare       0.99      0.95      0.97      8758
+        Rare       0.68      0.91      0.78       977
+
+    accuracy                           0.95      9735
+   macro avg       0.84      0.93      0.88      9735
+weighted avg       0.96      0.95      0.95      9735

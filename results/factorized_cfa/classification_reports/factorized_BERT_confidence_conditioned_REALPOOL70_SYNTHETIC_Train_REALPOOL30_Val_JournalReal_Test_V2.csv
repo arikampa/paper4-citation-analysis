@@ -1,0 +1,3 @@
+split,bert_sentiment_confidence_threshold,n_full,n_high_confidence,retention_rate,function_macro_f1_high_confidence_subset,derived12_macro_f1_high_confidence_subset,derived_rare_f1_high_confidence_subset
+Validation_REAL_POOL_30,0.8,4421,4262,0.9640352861343587,0.6758254084347737,0.5782792639982776,0.7795527156549521
+Test_JOURNAL_REAL,0.8,9735,8784,0.9023112480739599,0.45324907109354,0.47393000921578005,0.7941834451901566

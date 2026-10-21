@@ -1,0 +1,3 @@
+Scenario,Model,Feature,N,Coefficient,OR_LFC1_vs_0,CI95_Lower,CI95_Upper,p-value
+valid_only,M5_presence_adjusted,has_less_frequent_citation,314,0.5118492297104066,1.6683735500129613,0.8845757069318911,3.146672783991758,0.11385380975359898
+full_dataset,M5_presence_adjusted,has_less_frequent_citation,740,0.3181144100981539,1.374533512745918,0.7495990703111851,2.5204705455108147,0.30380685774351723

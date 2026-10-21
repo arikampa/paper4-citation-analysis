@@ -1,0 +1,2466 @@
+filename,journal,journal_short,year,citation_bin,add_in_milestone,milestone_pct,milestone_order
+12.pdf,Frontiers in Communication,FCOMM,2016,high,v1_coverage_30pct,0.3,1
+10.pdf,Frontiers in Communication,FCOMM,2016,low,v1_coverage_30pct,0.3,1
+15.pdf,Frontiers in Communication,FCOMM,2017,high,v1_coverage_30pct,0.3,1
+26.pdf,Frontiers in Communication,FCOMM,2017,high,v1_coverage_30pct,0.3,1
+34.pdf,Frontiers in Communication,FCOMM,2017,high,v1_coverage_30pct,0.3,1
+21.pdf,Frontiers in Communication,FCOMM,2017,low,v1_coverage_30pct,0.3,1
+25.pdf,Frontiers in Communication,FCOMM,2017,low,v1_coverage_30pct,0.3,1
+42.pdf,Frontiers in Communication,FCOMM,2018,high,v1_coverage_30pct,0.3,1
+58.pdf,Frontiers in Communication,FCOMM,2018,high,v1_coverage_30pct,0.3,1
+64.pdf,Frontiers in Communication,FCOMM,2018,high,v1_coverage_30pct,0.3,1
+72.pdf,Frontiers in Communication,FCOMM,2018,high,v1_coverage_30pct,0.3,1
+80.pdf,Frontiers in Communication,FCOMM,2018,high,v1_coverage_30pct,0.3,1
+38.pdf,Frontiers in Communication,FCOMM,2018,low,v1_coverage_30pct,0.3,1
+43.pdf,Frontiers in Communication,FCOMM,2018,low,v1_coverage_30pct,0.3,1
+62.pdf,Frontiers in Communication,FCOMM,2018,low,v1_coverage_30pct,0.3,1
+63.pdf,Frontiers in Communication,FCOMM,2018,low,v1_coverage_30pct,0.3,1
+82.pdf,Frontiers in Communication,FCOMM,2018,low,v1_coverage_30pct,0.3,1
+123.pdf,Frontiers in Communication,FCOMM,2019,high,v1_coverage_30pct,0.3,1
+124.pdf,Frontiers in Communication,FCOMM,2019,high,v1_coverage_30pct,0.3,1
+137.pdf,Frontiers in Communication,FCOMM,2019,high,v1_coverage_30pct,0.3,1
+138.pdf,Frontiers in Communication,FCOMM,2019,high,v1_coverage_30pct,0.3,1
+141.pdf,Frontiers in Communication,FCOMM,2019,high,v1_coverage_30pct,0.3,1
+146.pdf,Frontiers in Communication,FCOMM,2019,high,v1_coverage_30pct,0.3,1
+159.pdf,Frontiers in Communication,FCOMM,2019,high,v1_coverage_30pct,0.3,1
+169.pdf,Frontiers in Communication,FCOMM,2019,high,v1_coverage_30pct,0.3,1
+109.pdf,Frontiers in Communication,FCOMM,2019,low,v1_coverage_30pct,0.3,1
+113.pdf,Frontiers in Communication,FCOMM,2019,low,v1_coverage_30pct,0.3,1
+131.pdf,Frontiers in Communication,FCOMM,2019,low,v1_coverage_30pct,0.3,1
+134.pdf,Frontiers in Communication,FCOMM,2019,low,v1_coverage_30pct,0.3,1
+139.pdf,Frontiers in Communication,FCOMM,2019,low,v1_coverage_30pct,0.3,1
+167.pdf,Frontiers in Communication,FCOMM,2019,low,v1_coverage_30pct,0.3,1
+93.pdf,Frontiers in Communication,FCOMM,2019,low,v1_coverage_30pct,0.3,1
+98.pdf,Frontiers in Communication,FCOMM,2019,low,v1_coverage_30pct,0.3,1
+190.pdf,Frontiers in Communication,FCOMM,2020,high,v1_coverage_30pct,0.3,1
+192.pdf,Frontiers in Communication,FCOMM,2020,high,v1_coverage_30pct,0.3,1
+197.pdf,Frontiers in Communication,FCOMM,2020,high,v1_coverage_30pct,0.3,1
+225.pdf,Frontiers in Communication,FCOMM,2020,high,v1_coverage_30pct,0.3,1
+226.pdf,Frontiers in Communication,FCOMM,2020,high,v1_coverage_30pct,0.3,1
+238.pdf,Frontiers in Communication,FCOMM,2020,high,v1_coverage_30pct,0.3,1
+244.pdf,Frontiers in Communication,FCOMM,2020,high,v1_coverage_30pct,0.3,1
+245.pdf,Frontiers in Communication,FCOMM,2020,high,v1_coverage_30pct,0.3,1
+256.pdf,Frontiers in Communication,FCOMM,2020,high,v1_coverage_30pct,0.3,1
+265.pdf,Frontiers in Communication,FCOMM,2020,high,v1_coverage_30pct,0.3,1
+273.pdf,Frontiers in Communication,FCOMM,2020,high,v1_coverage_30pct,0.3,1
+278.pdf,Frontiers in Communication,FCOMM,2020,high,v1_coverage_30pct,0.3,1
+178.pdf,Frontiers in Communication,FCOMM,2020,low,v1_coverage_30pct,0.3,1
+180.pdf,Frontiers in Communication,FCOMM,2020,low,v1_coverage_30pct,0.3,1
+182.pdf,Frontiers in Communication,FCOMM,2020,low,v1_coverage_30pct,0.3,1
+184.pdf,Frontiers in Communication,FCOMM,2020,low,v1_coverage_30pct,0.3,1
+199.pdf,Frontiers in Communication,FCOMM,2020,low,v1_coverage_30pct,0.3,1
+206.pdf,Frontiers in Communication,FCOMM,2020,low,v1_coverage_30pct,0.3,1
+218.pdf,Frontiers in Communication,FCOMM,2020,low,v1_coverage_30pct,0.3,1
+239.pdf,Frontiers in Communication,FCOMM,2020,low,v1_coverage_30pct,0.3,1
+270.pdf,Frontiers in Communication,FCOMM,2020,low,v1_coverage_30pct,0.3,1
+272.pdf,Frontiers in Communication,FCOMM,2020,low,v1_coverage_30pct,0.3,1
+286.pdf,Frontiers in Communication,FCOMM,2020,low,v1_coverage_30pct,0.3,1
+291.pdf,Frontiers in Communication,FCOMM,2020,low,v1_coverage_30pct,0.3,1
+314.pdf,Frontiers in Communication,FCOMM,2021,high,v1_coverage_30pct,0.3,1
+322.pdf,Frontiers in Communication,FCOMM,2021,high,v1_coverage_30pct,0.3,1
+333.pdf,Frontiers in Communication,FCOMM,2021,high,v1_coverage_30pct,0.3,1
+334.pdf,Frontiers in Communication,FCOMM,2021,high,v1_coverage_30pct,0.3,1
+335.pdf,Frontiers in Communication,FCOMM,2021,high,v1_coverage_30pct,0.3,1
+338.pdf,Frontiers in Communication,FCOMM,2021,high,v1_coverage_30pct,0.3,1
+359.pdf,Frontiers in Communication,FCOMM,2021,high,v1_coverage_30pct,0.3,1
+371.pdf,Frontiers in Communication,FCOMM,2021,high,v1_coverage_30pct,0.3,1
+376.pdf,Frontiers in Communication,FCOMM,2021,high,v1_coverage_30pct,0.3,1
+391.pdf,Frontiers in Communication,FCOMM,2021,high,v1_coverage_30pct,0.3,1
+397.pdf,Frontiers in Communication,FCOMM,2021,high,v1_coverage_30pct,0.3,1
+413.pdf,Frontiers in Communication,FCOMM,2021,high,v1_coverage_30pct,0.3,1
+415.pdf,Frontiers in Communication,FCOMM,2021,high,v1_coverage_30pct,0.3,1
+416.pdf,Frontiers in Communication,FCOMM,2021,high,v1_coverage_30pct,0.3,1
+417.pdf,Frontiers in Communication,FCOMM,2021,high,v1_coverage_30pct,0.3,1
+419.pdf,Frontiers in Communication,FCOMM,2021,high,v1_coverage_30pct,0.3,1
+430.pdf,Frontiers in Communication,FCOMM,2021,high,v1_coverage_30pct,0.3,1
+439.pdf,Frontiers in Communication,FCOMM,2021,high,v1_coverage_30pct,0.3,1
+446.pdf,Frontiers in Communication,FCOMM,2021,high,v1_coverage_30pct,0.3,1
+453.pdf,Frontiers in Communication,FCOMM,2021,high,v1_coverage_30pct,0.3,1
+462.pdf,Frontiers in Communication,FCOMM,2021,high,v1_coverage_30pct,0.3,1
+465.pdf,Frontiers in Communication,FCOMM,2021,high,v1_coverage_30pct,0.3,1
+467.pdf,Frontiers in Communication,FCOMM,2021,high,v1_coverage_30pct,0.3,1
+475.pdf,Frontiers in Communication,FCOMM,2021,high,v1_coverage_30pct,0.3,1
+500.pdf,Frontiers in Communication,FCOMM,2021,high,v1_coverage_30pct,0.3,1
+538.pdf,Frontiers in Communication,FCOMM,2021,high,v1_coverage_30pct,0.3,1
+296.pdf,Frontiers in Communication,FCOMM,2021,low,v1_coverage_30pct,0.3,1
+297.pdf,Frontiers in Communication,FCOMM,2021,low,v1_coverage_30pct,0.3,1
+306.pdf,Frontiers in Communication,FCOMM,2021,low,v1_coverage_30pct,0.3,1
+309.pdf,Frontiers in Communication,FCOMM,2021,low,v1_coverage_30pct,0.3,1
+310.pdf,Frontiers in Communication,FCOMM,2021,low,v1_coverage_30pct,0.3,1
+312.pdf,Frontiers in Communication,FCOMM,2021,low,v1_coverage_30pct,0.3,1
+318.pdf,Frontiers in Communication,FCOMM,2021,low,v1_coverage_30pct,0.3,1
+321.pdf,Frontiers in Communication,FCOMM,2021,low,v1_coverage_30pct,0.3,1
+339.pdf,Frontiers in Communication,FCOMM,2021,low,v1_coverage_30pct,0.3,1
+344.pdf,Frontiers in Communication,FCOMM,2021,low,v1_coverage_30pct,0.3,1
+347.pdf,Frontiers in Communication,FCOMM,2021,low,v1_coverage_30pct,0.3,1
+356.pdf,Frontiers in Communication,FCOMM,2021,low,v1_coverage_30pct,0.3,1
+365.pdf,Frontiers in Communication,FCOMM,2021,low,v1_coverage_30pct,0.3,1
+368.pdf,Frontiers in Communication,FCOMM,2021,low,v1_coverage_30pct,0.3,1
+372.pdf,Frontiers in Communication,FCOMM,2021,low,v1_coverage_30pct,0.3,1
+375.pdf,Frontiers in Communication,FCOMM,2021,low,v1_coverage_30pct,0.3,1
+390.pdf,Frontiers in Communication,FCOMM,2021,low,v1_coverage_30pct,0.3,1
+406.pdf,Frontiers in Communication,FCOMM,2021,low,v1_coverage_30pct,0.3,1
+456.pdf,Frontiers in Communication,FCOMM,2021,low,v1_coverage_30pct,0.3,1
+457.pdf,Frontiers in Communication,FCOMM,2021,low,v1_coverage_30pct,0.3,1
+493.pdf,Frontiers in Communication,FCOMM,2021,low,v1_coverage_30pct,0.3,1
+503.pdf,Frontiers in Communication,FCOMM,2021,low,v1_coverage_30pct,0.3,1
+504.pdf,Frontiers in Communication,FCOMM,2021,low,v1_coverage_30pct,0.3,1
+519.pdf,Frontiers in Communication,FCOMM,2021,low,v1_coverage_30pct,0.3,1
+527.pdf,Frontiers in Communication,FCOMM,2021,low,v1_coverage_30pct,0.3,1
+551.pdf,Frontiers in Communication,FCOMM,2021,low,v1_coverage_30pct,0.3,1
+561.pdf,Frontiers in Communication,FCOMM,2022,high,v1_coverage_30pct,0.3,1
+566.pdf,Frontiers in Communication,FCOMM,2022,high,v1_coverage_30pct,0.3,1
+575.pdf,Frontiers in Communication,FCOMM,2022,high,v1_coverage_30pct,0.3,1
+587.pdf,Frontiers in Communication,FCOMM,2022,high,v1_coverage_30pct,0.3,1
+602.pdf,Frontiers in Communication,FCOMM,2022,high,v1_coverage_30pct,0.3,1
+616.pdf,Frontiers in Communication,FCOMM,2022,high,v1_coverage_30pct,0.3,1
+626.pdf,Frontiers in Communication,FCOMM,2022,high,v1_coverage_30pct,0.3,1
+641.pdf,Frontiers in Communication,FCOMM,2022,high,v1_coverage_30pct,0.3,1
+676.pdf,Frontiers in Communication,FCOMM,2022,high,v1_coverage_30pct,0.3,1
+690.pdf,Frontiers in Communication,FCOMM,2022,high,v1_coverage_30pct,0.3,1
+695.pdf,Frontiers in Communication,FCOMM,2022,high,v1_coverage_30pct,0.3,1
+701.pdf,Frontiers in Communication,FCOMM,2022,high,v1_coverage_30pct,0.3,1
+704.pdf,Frontiers in Communication,FCOMM,2022,high,v1_coverage_30pct,0.3,1
+707.pdf,Frontiers in Communication,FCOMM,2022,high,v1_coverage_30pct,0.3,1
+714.pdf,Frontiers in Communication,FCOMM,2022,high,v1_coverage_30pct,0.3,1
+724.pdf,Frontiers in Communication,FCOMM,2022,high,v1_coverage_30pct,0.3,1
+732.pdf,Frontiers in Communication,FCOMM,2022,high,v1_coverage_30pct,0.3,1
+739.pdf,Frontiers in Communication,FCOMM,2022,high,v1_coverage_30pct,0.3,1
+740.pdf,Frontiers in Communication,FCOMM,2022,high,v1_coverage_30pct,0.3,1
+746.pdf,Frontiers in Communication,FCOMM,2022,high,v1_coverage_30pct,0.3,1
+748.pdf,Frontiers in Communication,FCOMM,2022,high,v1_coverage_30pct,0.3,1
+751.pdf,Frontiers in Communication,FCOMM,2022,high,v1_coverage_30pct,0.3,1
+752.pdf,Frontiers in Communication,FCOMM,2022,high,v1_coverage_30pct,0.3,1
+763.pdf,Frontiers in Communication,FCOMM,2022,high,v1_coverage_30pct,0.3,1
+768.pdf,Frontiers in Communication,FCOMM,2022,high,v1_coverage_30pct,0.3,1
+782.pdf,Frontiers in Communication,FCOMM,2022,high,v1_coverage_30pct,0.3,1
+807.pdf,Frontiers in Communication,FCOMM,2022,high,v1_coverage_30pct,0.3,1
+815.pdf,Frontiers in Communication,FCOMM,2022,high,v1_coverage_30pct,0.3,1
+832.pdf,Frontiers in Communication,FCOMM,2022,high,v1_coverage_30pct,0.3,1
+837.pdf,Frontiers in Communication,FCOMM,2022,high,v1_coverage_30pct,0.3,1
+564.pdf,Frontiers in Communication,FCOMM,2022,low,v1_coverage_30pct,0.3,1
+565.pdf,Frontiers in Communication,FCOMM,2022,low,v1_coverage_30pct,0.3,1
+572.pdf,Frontiers in Communication,FCOMM,2022,low,v1_coverage_30pct,0.3,1
+573.pdf,Frontiers in Communication,FCOMM,2022,low,v1_coverage_30pct,0.3,1
+578.pdf,Frontiers in Communication,FCOMM,2022,low,v1_coverage_30pct,0.3,1
+594.pdf,Frontiers in Communication,FCOMM,2022,low,v1_coverage_30pct,0.3,1
+604.pdf,Frontiers in Communication,FCOMM,2022,low,v1_coverage_30pct,0.3,1
+611.pdf,Frontiers in Communication,FCOMM,2022,low,v1_coverage_30pct,0.3,1
+612.pdf,Frontiers in Communication,FCOMM,2022,low,v1_coverage_30pct,0.3,1
+632.pdf,Frontiers in Communication,FCOMM,2022,low,v1_coverage_30pct,0.3,1
+649.pdf,Frontiers in Communication,FCOMM,2022,low,v1_coverage_30pct,0.3,1
+650.pdf,Frontiers in Communication,FCOMM,2022,low,v1_coverage_30pct,0.3,1
+653.pdf,Frontiers in Communication,FCOMM,2022,low,v1_coverage_30pct,0.3,1
+667.pdf,Frontiers in Communication,FCOMM,2022,low,v1_coverage_30pct,0.3,1
+668.pdf,Frontiers in Communication,FCOMM,2022,low,v1_coverage_30pct,0.3,1
+672.pdf,Frontiers in Communication,FCOMM,2022,low,v1_coverage_30pct,0.3,1
+702.pdf,Frontiers in Communication,FCOMM,2022,low,v1_coverage_30pct,0.3,1
+706.pdf,Frontiers in Communication,FCOMM,2022,low,v1_coverage_30pct,0.3,1
+717.pdf,Frontiers in Communication,FCOMM,2022,low,v1_coverage_30pct,0.3,1
+721.pdf,Frontiers in Communication,FCOMM,2022,low,v1_coverage_30pct,0.3,1
+733.pdf,Frontiers in Communication,FCOMM,2022,low,v1_coverage_30pct,0.3,1
+735.pdf,Frontiers in Communication,FCOMM,2022,low,v1_coverage_30pct,0.3,1
+758.pdf,Frontiers in Communication,FCOMM,2022,low,v1_coverage_30pct,0.3,1
+762.pdf,Frontiers in Communication,FCOMM,2022,low,v1_coverage_30pct,0.3,1
+785.pdf,Frontiers in Communication,FCOMM,2022,low,v1_coverage_30pct,0.3,1
+786.pdf,Frontiers in Communication,FCOMM,2022,low,v1_coverage_30pct,0.3,1
+787.pdf,Frontiers in Communication,FCOMM,2022,low,v1_coverage_30pct,0.3,1
+797.pdf,Frontiers in Communication,FCOMM,2022,low,v1_coverage_30pct,0.3,1
+799.pdf,Frontiers in Communication,FCOMM,2022,low,v1_coverage_30pct,0.3,1
+823.pdf,Frontiers in Communication,FCOMM,2022,low,v1_coverage_30pct,0.3,1
+845.pdf,Frontiers in Research Metrics and Analytics,RMA,2016,high,v1_coverage_30pct,0.3,1
+842.pdf,Frontiers in Research Metrics and Analytics,RMA,2016,low,v1_coverage_30pct,0.3,1
+851.pdf,Frontiers in Research Metrics and Analytics,RMA,2017,high,v1_coverage_30pct,0.3,1
+854.pdf,Frontiers in Research Metrics and Analytics,RMA,2017,high,v1_coverage_30pct,0.3,1
+859.pdf,Frontiers in Research Metrics and Analytics,RMA,2017,low,v1_coverage_30pct,0.3,1
+862.pdf,Frontiers in Research Metrics and Analytics,RMA,2018,high,v1_coverage_30pct,0.3,1
+869.pdf,Frontiers in Research Metrics and Analytics,RMA,2018,high,v1_coverage_30pct,0.3,1
+872.pdf,Frontiers in Research Metrics and Analytics,RMA,2018,high,v1_coverage_30pct,0.3,1
+887.pdf,Frontiers in Research Metrics and Analytics,RMA,2018,high,v1_coverage_30pct,0.3,1
+873.pdf,Frontiers in Research Metrics and Analytics,RMA,2018,low,v1_coverage_30pct,0.3,1
+877.pdf,Frontiers in Research Metrics and Analytics,RMA,2018,low,v1_coverage_30pct,0.3,1
+890.pdf,Frontiers in Research Metrics and Analytics,RMA,2018,low,v1_coverage_30pct,0.3,1
+892.pdf,Frontiers in Research Metrics and Analytics,RMA,2018,low,v1_coverage_30pct,0.3,1
+901.pdf,Frontiers in Research Metrics and Analytics,RMA,2019,high,v1_coverage_30pct,0.3,1
+904.pdf,Frontiers in Research Metrics and Analytics,RMA,2019,low,v1_coverage_30pct,0.3,1
+924.pdf,Frontiers in Research Metrics and Analytics,RMA,2020,high,v1_coverage_30pct,0.3,1
+926.pdf,Frontiers in Research Metrics and Analytics,RMA,2020,high,v1_coverage_30pct,0.3,1
+909.pdf,Frontiers in Research Metrics and Analytics,RMA,2020,low,v1_coverage_30pct,0.3,1
+927.pdf,Frontiers in Research Metrics and Analytics,RMA,2020,low,v1_coverage_30pct,0.3,1
+935.pdf,Frontiers in Research Metrics and Analytics,RMA,2021,high,v1_coverage_30pct,0.3,1
+945.pdf,Frontiers in Research Metrics and Analytics,RMA,2021,high,v1_coverage_30pct,0.3,1
+953.pdf,Frontiers in Research Metrics and Analytics,RMA,2021,high,v1_coverage_30pct,0.3,1
+960.pdf,Frontiers in Research Metrics and Analytics,RMA,2021,high,v1_coverage_30pct,0.3,1
+969.pdf,Frontiers in Research Metrics and Analytics,RMA,2021,high,v1_coverage_30pct,0.3,1
+979.pdf,Frontiers in Research Metrics and Analytics,RMA,2021,high,v1_coverage_30pct,0.3,1
+986.pdf,Frontiers in Research Metrics and Analytics,RMA,2021,high,v1_coverage_30pct,0.3,1
+988.pdf,Frontiers in Research Metrics and Analytics,RMA,2021,high,v1_coverage_30pct,0.3,1
+933.pdf,Frontiers in Research Metrics and Analytics,RMA,2021,low,v1_coverage_30pct,0.3,1
+940.pdf,Frontiers in Research Metrics and Analytics,RMA,2021,low,v1_coverage_30pct,0.3,1
+961.pdf,Frontiers in Research Metrics and Analytics,RMA,2021,low,v1_coverage_30pct,0.3,1
+963.pdf,Frontiers in Research Metrics and Analytics,RMA,2021,low,v1_coverage_30pct,0.3,1
+964.pdf,Frontiers in Research Metrics and Analytics,RMA,2021,low,v1_coverage_30pct,0.3,1
+965.pdf,Frontiers in Research Metrics and Analytics,RMA,2021,low,v1_coverage_30pct,0.3,1
+983.pdf,Frontiers in Research Metrics and Analytics,RMA,2021,low,v1_coverage_30pct,0.3,1
+992.pdf,Frontiers in Research Metrics and Analytics,RMA,2021,low,v1_coverage_30pct,0.3,1
+1017.pdf,Frontiers in Research Metrics and Analytics,RMA,2022,high,v1_coverage_30pct,0.3,1
+1031.pdf,Frontiers in Research Metrics and Analytics,RMA,2022,high,v1_coverage_30pct,0.3,1
+1047.pdf,Frontiers in Research Metrics and Analytics,RMA,2022,high,v1_coverage_30pct,0.3,1
+1057.pdf,Frontiers in Research Metrics and Analytics,RMA,2022,high,v1_coverage_30pct,0.3,1
+1058.pdf,Frontiers in Research Metrics and Analytics,RMA,2022,high,v1_coverage_30pct,0.3,1
+1068.pdf,Frontiers in Research Metrics and Analytics,RMA,2022,high,v1_coverage_30pct,0.3,1
+1092.pdf,Frontiers in Research Metrics and Analytics,RMA,2022,high,v1_coverage_30pct,0.3,1
+1095.pdf,Frontiers in Research Metrics and Analytics,RMA,2022,high,v1_coverage_30pct,0.3,1
+1016.pdf,Frontiers in Research Metrics and Analytics,RMA,2022,low,v1_coverage_30pct,0.3,1
+1025.pdf,Frontiers in Research Metrics and Analytics,RMA,2022,low,v1_coverage_30pct,0.3,1
+1036.pdf,Frontiers in Research Metrics and Analytics,RMA,2022,low,v1_coverage_30pct,0.3,1
+1039.pdf,Frontiers in Research Metrics and Analytics,RMA,2022,low,v1_coverage_30pct,0.3,1
+1048.pdf,Frontiers in Research Metrics and Analytics,RMA,2022,low,v1_coverage_30pct,0.3,1
+1061.pdf,Frontiers in Research Metrics and Analytics,RMA,2022,low,v1_coverage_30pct,0.3,1
+1070.pdf,Frontiers in Research Metrics and Analytics,RMA,2022,low,v1_coverage_30pct,0.3,1
+1076.pdf,Frontiers in Research Metrics and Analytics,RMA,2022,low,v1_coverage_30pct,0.3,1
+1096.pdf,Frontiers in Research Metrics and Analytics,RMA,2022,low,v1_coverage_30pct,0.3,1
+1099.pdf,Iberoamerican Journal of Science Measurement and Communication,IJSMC,2020,high,v1_coverage_30pct,0.3,1
+1110.pdf,Iberoamerican Journal of Science Measurement and Communication,IJSMC,2021,high,v1_coverage_30pct,0.3,1
+1114.pdf,Iberoamerican Journal of Science Measurement and Communication,IJSMC,2021,low,v1_coverage_30pct,0.3,1
+1115.pdf,Iberoamerican Journal of Science Measurement and Communication,IJSMC,2021,low,v1_coverage_30pct,0.3,1
+1127.pdf,Iberoamerican Journal of Science Measurement and Communication,IJSMC,2022,high,v1_coverage_30pct,0.3,1
+1130.pdf,Iberoamerican Journal of Science Measurement and Communication,IJSMC,2022,high,v1_coverage_30pct,0.3,1
+1125.pdf,Iberoamerican Journal of Science Measurement and Communication,IJSMC,2022,low,v1_coverage_30pct,0.3,1
+1133.pdf,Iberoamerican Journal of Science Measurement and Communication,IJSMC,2022,low,v1_coverage_30pct,0.3,1
+1140.pdf,Journal of Informetrics,JOI,2008,low,v1_coverage_30pct,0.3,1
+1141.pdf,Journal of Informetrics,JOI,2008,low,v1_coverage_30pct,0.3,1
+1144.pdf,Journal of Informetrics,JOI,2009,low,v1_coverage_30pct,0.3,1
+1147.pdf,Journal of Informetrics,JOI,2009,low,v1_coverage_30pct,0.3,1
+1153.pdf,Journal of Informetrics,JOI,2009,low,v1_coverage_30pct,0.3,1
+1156.pdf,Journal of Informetrics,JOI,2009,low,v1_coverage_30pct,0.3,1
+1177.pdf,Journal of Informetrics,JOI,2010,high,v1_coverage_30pct,0.3,1
+1165.pdf,Journal of Informetrics,JOI,2010,low,v1_coverage_30pct,0.3,1
+1180.pdf,Journal of Informetrics,JOI,2011,high,v1_coverage_30pct,0.3,1
+1181.pdf,Journal of Informetrics,JOI,2011,high,v1_coverage_30pct,0.3,1
+1197.pdf,Journal of Informetrics,JOI,2012,high,v1_coverage_30pct,0.3,1
+1199.pdf,Journal of Informetrics,JOI,2012,high,v1_coverage_30pct,0.3,1
+1205.pdf,Journal of Informetrics,JOI,2012,high,v1_coverage_30pct,0.3,1
+1208.pdf,Journal of Informetrics,JOI,2012,high,v1_coverage_30pct,0.3,1
+1211.pdf,Journal of Informetrics,JOI,2012,high,v1_coverage_30pct,0.3,1
+1225.pdf,Journal of Informetrics,JOI,2013,high,v1_coverage_30pct,0.3,1
+1241.pdf,Journal of Informetrics,JOI,2013,high,v1_coverage_30pct,0.3,1
+1217.pdf,Journal of Informetrics,JOI,2013,low,v1_coverage_30pct,0.3,1
+1232.pdf,Journal of Informetrics,JOI,2013,low,v1_coverage_30pct,0.3,1
+1233.pdf,Journal of Informetrics,JOI,2013,low,v1_coverage_30pct,0.3,1
+1244.pdf,Journal of Informetrics,JOI,2014,high,v1_coverage_30pct,0.3,1
+1245.pdf,Journal of Informetrics,JOI,2014,high,v1_coverage_30pct,0.3,1
+1246.pdf,Journal of Informetrics,JOI,2014,high,v1_coverage_30pct,0.3,1
+1250.pdf,Journal of Informetrics,JOI,2014,low,v1_coverage_30pct,0.3,1
+1251.pdf,Journal of Informetrics,JOI,2014,low,v1_coverage_30pct,0.3,1
+1270.pdf,Journal of Informetrics,JOI,2015,high,v1_coverage_30pct,0.3,1
+1272.pdf,Journal of Informetrics,JOI,2015,high,v1_coverage_30pct,0.3,1
+1275.pdf,Journal of Informetrics,JOI,2015,high,v1_coverage_30pct,0.3,1
+1297.pdf,Journal of Informetrics,JOI,2015,high,v1_coverage_30pct,0.3,1
+1281.pdf,Journal of Informetrics,JOI,2015,low,v1_coverage_30pct,0.3,1
+1283.pdf,Journal of Informetrics,JOI,2015,low,v1_coverage_30pct,0.3,1
+1287.pdf,Journal of Informetrics,JOI,2015,low,v1_coverage_30pct,0.3,1
+1290.pdf,Journal of Informetrics,JOI,2015,low,v1_coverage_30pct,0.3,1
+1294.pdf,Journal of Informetrics,JOI,2015,low,v1_coverage_30pct,0.3,1
+1302.pdf,Journal of Informetrics,JOI,2016,high,v1_coverage_30pct,0.3,1
+1305.pdf,Journal of Informetrics,JOI,2016,high,v1_coverage_30pct,0.3,1
+1306.pdf,Journal of Informetrics,JOI,2016,high,v1_coverage_30pct,0.3,1
+1328.pdf,Journal of Informetrics,JOI,2016,high,v1_coverage_30pct,0.3,1
+1346.pdf,Journal of Informetrics,JOI,2016,high,v1_coverage_30pct,0.3,1
+1321.pdf,Journal of Informetrics,JOI,2016,low,v1_coverage_30pct,0.3,1
+1329.pdf,Journal of Informetrics,JOI,2016,low,v1_coverage_30pct,0.3,1
+1333.pdf,Journal of Informetrics,JOI,2016,low,v1_coverage_30pct,0.3,1
+1334.pdf,Journal of Informetrics,JOI,2016,low,v1_coverage_30pct,0.3,1
+1345.pdf,Journal of Informetrics,JOI,2016,low,v1_coverage_30pct,0.3,1
+1370.pdf,Journal of Informetrics,JOI,2017,high,v1_coverage_30pct,0.3,1
+1373.pdf,Journal of Informetrics,JOI,2017,high,v1_coverage_30pct,0.3,1
+1384.pdf,Journal of Informetrics,JOI,2017,high,v1_coverage_30pct,0.3,1
+1385.pdf,Journal of Informetrics,JOI,2017,high,v1_coverage_30pct,0.3,1
+1390.pdf,Journal of Informetrics,JOI,2017,high,v1_coverage_30pct,0.3,1
+1355.pdf,Journal of Informetrics,JOI,2017,low,v1_coverage_30pct,0.3,1
+1358.pdf,Journal of Informetrics,JOI,2017,low,v1_coverage_30pct,0.3,1
+1363.pdf,Journal of Informetrics,JOI,2017,low,v1_coverage_30pct,0.3,1
+1366.pdf,Journal of Informetrics,JOI,2017,low,v1_coverage_30pct,0.3,1
+1368.pdf,Journal of Informetrics,JOI,2017,low,v1_coverage_30pct,0.3,1
+1398.pdf,Journal of Informetrics,JOI,2018,high,v1_coverage_30pct,0.3,1
+1401.pdf,Journal of Informetrics,JOI,2018,high,v1_coverage_30pct,0.3,1
+1415.pdf,Journal of Informetrics,JOI,2018,high,v1_coverage_30pct,0.3,1
+1436.pdf,Journal of Informetrics,JOI,2018,high,v1_coverage_30pct,0.3,1
+1438.pdf,Journal of Informetrics,JOI,2018,high,v1_coverage_30pct,0.3,1
+1396.pdf,Journal of Informetrics,JOI,2018,low,v1_coverage_30pct,0.3,1
+1400.pdf,Journal of Informetrics,JOI,2018,low,v1_coverage_30pct,0.3,1
+1408.pdf,Journal of Informetrics,JOI,2018,low,v1_coverage_30pct,0.3,1
+1419.pdf,Journal of Informetrics,JOI,2018,low,v1_coverage_30pct,0.3,1
+1434.pdf,Journal of Informetrics,JOI,2018,low,v1_coverage_30pct,0.3,1
+1455.pdf,Journal of Informetrics,JOI,2019,high,v1_coverage_30pct,0.3,1
+1460.pdf,Journal of Informetrics,JOI,2019,high,v1_coverage_30pct,0.3,1
+1465.pdf,Journal of Informetrics,JOI,2019,high,v1_coverage_30pct,0.3,1
+1476.pdf,Journal of Informetrics,JOI,2019,high,v1_coverage_30pct,0.3,1
+1449.pdf,Journal of Informetrics,JOI,2019,low,v1_coverage_30pct,0.3,1
+1459.pdf,Journal of Informetrics,JOI,2019,low,v1_coverage_30pct,0.3,1
+1474.pdf,Journal of Informetrics,JOI,2019,low,v1_coverage_30pct,0.3,1
+1477.pdf,Journal of Informetrics,JOI,2019,low,v1_coverage_30pct,0.3,1
+1499.pdf,Journal of Informetrics,JOI,2020,high,v1_coverage_30pct,0.3,1
+1502.pdf,Journal of Informetrics,JOI,2020,high,v1_coverage_30pct,0.3,1
+1507.pdf,Journal of Informetrics,JOI,2020,high,v1_coverage_30pct,0.3,1
+1511.pdf,Journal of Informetrics,JOI,2020,high,v1_coverage_30pct,0.3,1
+1490.pdf,Journal of Informetrics,JOI,2020,low,v1_coverage_30pct,0.3,1
+1500.pdf,Journal of Informetrics,JOI,2020,low,v1_coverage_30pct,0.3,1
+1514.pdf,Journal of Informetrics,JOI,2020,low,v1_coverage_30pct,0.3,1
+1536.pdf,Journal of Informetrics,JOI,2021,high,v1_coverage_30pct,0.3,1
+1542.pdf,Journal of Informetrics,JOI,2021,high,v1_coverage_30pct,0.3,1
+1547.pdf,Journal of Informetrics,JOI,2021,high,v1_coverage_30pct,0.3,1
+1524.pdf,Journal of Informetrics,JOI,2021,low,v1_coverage_30pct,0.3,1
+1546.pdf,Journal of Informetrics,JOI,2021,low,v1_coverage_30pct,0.3,1
+1548.pdf,Journal of Informetrics,JOI,2021,low,v1_coverage_30pct,0.3,1
+1564.pdf,Journal of Informetrics,JOI,2022,high,v1_coverage_30pct,0.3,1
+1570.pdf,Journal of Informetrics,JOI,2022,high,v1_coverage_30pct,0.3,1
+1582.pdf,Journal of Informetrics,JOI,2022,high,v1_coverage_30pct,0.3,1
+1565.pdf,Journal of Informetrics,JOI,2022,low,v1_coverage_30pct,0.3,1
+1569.pdf,Journal of Informetrics,JOI,2022,low,v1_coverage_30pct,0.3,1
+1574.pdf,Journal of Informetrics,JOI,2022,low,v1_coverage_30pct,0.3,1
+1596.pdf,Journal of the Association for Information Science and Technology,JASIST,2013,high,v1_coverage_30pct,0.3,1
+1600.pdf,Journal of the Association for Information Science and Technology,JASIST,2013,high,v1_coverage_30pct,0.3,1
+1590.pdf,Journal of the Association for Information Science and Technology,JASIST,2013,low,v1_coverage_30pct,0.3,1
+1598.pdf,Journal of the Association for Information Science and Technology,JASIST,2013,low,v1_coverage_30pct,0.3,1
+1617.pdf,Journal of the Association for Information Science and Technology,JASIST,2014,high,v1_coverage_30pct,0.3,1
+1625.pdf,Journal of the Association for Information Science and Technology,JASIST,2014,high,v1_coverage_30pct,0.3,1
+1629.pdf,Journal of the Association for Information Science and Technology,JASIST,2014,high,v1_coverage_30pct,0.3,1
+1633.pdf,Journal of the Association for Information Science and Technology,JASIST,2014,high,v1_coverage_30pct,0.3,1
+1649.pdf,Journal of the Association for Information Science and Technology,JASIST,2014,high,v1_coverage_30pct,0.3,1
+1655.pdf,Journal of the Association for Information Science and Technology,JASIST,2014,high,v1_coverage_30pct,0.3,1
+1603.pdf,Journal of the Association for Information Science and Technology,JASIST,2014,low,v1_coverage_30pct,0.3,1
+1620.pdf,Journal of the Association for Information Science and Technology,JASIST,2014,low,v1_coverage_30pct,0.3,1
+1637.pdf,Journal of the Association for Information Science and Technology,JASIST,2014,low,v1_coverage_30pct,0.3,1
+1643.pdf,Journal of the Association for Information Science and Technology,JASIST,2014,low,v1_coverage_30pct,0.3,1
+1644.pdf,Journal of the Association for Information Science and Technology,JASIST,2014,low,v1_coverage_30pct,0.3,1
+1646.pdf,Journal of the Association for Information Science and Technology,JASIST,2014,low,v1_coverage_30pct,0.3,1
+1675.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,high,v1_coverage_30pct,0.3,1
+1678.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,high,v1_coverage_30pct,0.3,1
+1684.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,high,v1_coverage_30pct,0.3,1
+1705.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,high,v1_coverage_30pct,0.3,1
+1714.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,high,v1_coverage_30pct,0.3,1
+1724.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,high,v1_coverage_30pct,0.3,1
+1735.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,high,v1_coverage_30pct,0.3,1
+1739.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,high,v1_coverage_30pct,0.3,1
+1748.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,high,v1_coverage_30pct,0.3,1
+1756.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,high,v1_coverage_30pct,0.3,1
+1661.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,low,v1_coverage_30pct,0.3,1
+1672.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,low,v1_coverage_30pct,0.3,1
+1679.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,low,v1_coverage_30pct,0.3,1
+1692.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,low,v1_coverage_30pct,0.3,1
+1694.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,low,v1_coverage_30pct,0.3,1
+1718.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,low,v1_coverage_30pct,0.3,1
+1722.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,low,v1_coverage_30pct,0.3,1
+1731.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,low,v1_coverage_30pct,0.3,1
+1738.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,low,v1_coverage_30pct,0.3,1
+1751.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,low,v1_coverage_30pct,0.3,1
+1779.pdf,Journal of the Association for Information Science and Technology,JASIST,2016,high,v1_coverage_30pct,0.3,1
+1783.pdf,Journal of the Association for Information Science and Technology,JASIST,2016,high,v1_coverage_30pct,0.3,1
+1784.pdf,Journal of the Association for Information Science and Technology,JASIST,2016,high,v1_coverage_30pct,0.3,1
+1802.pdf,Journal of the Association for Information Science and Technology,JASIST,2016,high,v1_coverage_30pct,0.3,1
+1759.pdf,Journal of the Association for Information Science and Technology,JASIST,2016,low,v1_coverage_30pct,0.3,1
+1764.pdf,Journal of the Association for Information Science and Technology,JASIST,2016,low,v1_coverage_30pct,0.3,1
+1772.pdf,Journal of the Association for Information Science and Technology,JASIST,2016,low,v1_coverage_30pct,0.3,1
+1776.pdf,Journal of the Association for Information Science and Technology,JASIST,2016,low,v1_coverage_30pct,0.3,1
+1807.pdf,Journal of the Association for Information Science and Technology,JASIST,2017,high,v1_coverage_30pct,0.3,1
+1811.pdf,Journal of the Association for Information Science and Technology,JASIST,2017,high,v1_coverage_30pct,0.3,1
+1823.pdf,Journal of the Association for Information Science and Technology,JASIST,2017,high,v1_coverage_30pct,0.3,1
+1832.pdf,Journal of the Association for Information Science and Technology,JASIST,2017,high,v1_coverage_30pct,0.3,1
+1847.pdf,Journal of the Association for Information Science and Technology,JASIST,2017,high,v1_coverage_30pct,0.3,1
+1808.pdf,Journal of the Association for Information Science and Technology,JASIST,2017,low,v1_coverage_30pct,0.3,1
+1815.pdf,Journal of the Association for Information Science and Technology,JASIST,2017,low,v1_coverage_30pct,0.3,1
+1819.pdf,Journal of the Association for Information Science and Technology,JASIST,2017,low,v1_coverage_30pct,0.3,1
+1829.pdf,Journal of the Association for Information Science and Technology,JASIST,2017,low,v1_coverage_30pct,0.3,1
+1846.pdf,Journal of the Association for Information Science and Technology,JASIST,2017,low,v1_coverage_30pct,0.3,1
+1861.pdf,Journal of the Association for Information Science and Technology,JASIST,2018,high,v1_coverage_30pct,0.3,1
+1862.pdf,Journal of the Association for Information Science and Technology,JASIST,2018,high,v1_coverage_30pct,0.3,1
+1868.pdf,Journal of the Association for Information Science and Technology,JASIST,2018,high,v1_coverage_30pct,0.3,1
+1879.pdf,Journal of the Association for Information Science and Technology,JASIST,2018,high,v1_coverage_30pct,0.3,1
+1854.pdf,Journal of the Association for Information Science and Technology,JASIST,2018,low,v1_coverage_30pct,0.3,1
+1857.pdf,Journal of the Association for Information Science and Technology,JASIST,2018,low,v1_coverage_30pct,0.3,1
+1859.pdf,Journal of the Association for Information Science and Technology,JASIST,2018,low,v1_coverage_30pct,0.3,1
+1866.pdf,Journal of the Association for Information Science and Technology,JASIST,2018,low,v1_coverage_30pct,0.3,1
+1892.pdf,Journal of the Association for Information Science and Technology,JASIST,2019,high,v1_coverage_30pct,0.3,1
+1901.pdf,Journal of the Association for Information Science and Technology,JASIST,2019,high,v1_coverage_30pct,0.3,1
+1916.pdf,Journal of the Association for Information Science and Technology,JASIST,2019,high,v1_coverage_30pct,0.3,1
+1919.pdf,Journal of the Association for Information Science and Technology,JASIST,2019,high,v1_coverage_30pct,0.3,1
+1925.pdf,Journal of the Association for Information Science and Technology,JASIST,2019,high,v1_coverage_30pct,0.3,1
+1930.pdf,Journal of the Association for Information Science and Technology,JASIST,2019,high,v1_coverage_30pct,0.3,1
+1943.pdf,Journal of the Association for Information Science and Technology,JASIST,2019,high,v1_coverage_30pct,0.3,1
+1891.pdf,Journal of the Association for Information Science and Technology,JASIST,2019,low,v1_coverage_30pct,0.3,1
+1895.pdf,Journal of the Association for Information Science and Technology,JASIST,2019,low,v1_coverage_30pct,0.3,1
+1917.pdf,Journal of the Association for Information Science and Technology,JASIST,2019,low,v1_coverage_30pct,0.3,1
+1940.pdf,Journal of the Association for Information Science and Technology,JASIST,2019,low,v1_coverage_30pct,0.3,1
+1942.pdf,Journal of the Association for Information Science and Technology,JASIST,2019,low,v1_coverage_30pct,0.3,1
+1948.pdf,Journal of the Association for Information Science and Technology,JASIST,2019,low,v1_coverage_30pct,0.3,1
+1951.pdf,Journal of the Association for Information Science and Technology,JASIST,2019,low,v1_coverage_30pct,0.3,1
+1962.pdf,Journal of the Association for Information Science and Technology,JASIST,2020,high,v1_coverage_30pct,0.3,1
+1966.pdf,Journal of the Association for Information Science and Technology,JASIST,2020,high,v1_coverage_30pct,0.3,1
+1970.pdf,Journal of the Association for Information Science and Technology,JASIST,2020,high,v1_coverage_30pct,0.3,1
+1985.pdf,Journal of the Association for Information Science and Technology,JASIST,2020,high,v1_coverage_30pct,0.3,1
+1967.pdf,Journal of the Association for Information Science and Technology,JASIST,2020,low,v1_coverage_30pct,0.3,1
+1975.pdf,Journal of the Association for Information Science and Technology,JASIST,2020,low,v1_coverage_30pct,0.3,1
+1986.pdf,Journal of the Association for Information Science and Technology,JASIST,2020,low,v1_coverage_30pct,0.3,1
+1991.pdf,Journal of the Association for Information Science and Technology,JASIST,2020,low,v1_coverage_30pct,0.3,1
+2009.pdf,Journal of the Association for Information Science and Technology,JASIST,2021,high,v1_coverage_30pct,0.3,1
+2037.pdf,Journal of the Association for Information Science and Technology,JASIST,2021,high,v1_coverage_30pct,0.3,1
+2038.pdf,Journal of the Association for Information Science and Technology,JASIST,2021,high,v1_coverage_30pct,0.3,1
+2042.pdf,Journal of the Association for Information Science and Technology,JASIST,2021,high,v1_coverage_30pct,0.3,1
+2055.pdf,Journal of the Association for Information Science and Technology,JASIST,2021,high,v1_coverage_30pct,0.3,1
+2056.pdf,Journal of the Association for Information Science and Technology,JASIST,2021,high,v1_coverage_30pct,0.3,1
+2057.pdf,Journal of the Association for Information Science and Technology,JASIST,2021,high,v1_coverage_30pct,0.3,1
+2018.pdf,Journal of the Association for Information Science and Technology,JASIST,2021,low,v1_coverage_30pct,0.3,1
+2036.pdf,Journal of the Association for Information Science and Technology,JASIST,2021,low,v1_coverage_30pct,0.3,1
+2043.pdf,Journal of the Association for Information Science and Technology,JASIST,2021,low,v1_coverage_30pct,0.3,1
+2044.pdf,Journal of the Association for Information Science and Technology,JASIST,2021,low,v1_coverage_30pct,0.3,1
+2050.pdf,Journal of the Association for Information Science and Technology,JASIST,2021,low,v1_coverage_30pct,0.3,1
+2054.pdf,Journal of the Association for Information Science and Technology,JASIST,2021,low,v1_coverage_30pct,0.3,1
+2062.pdf,Journal of the Association for Information Science and Technology,JASIST,2022,high,v1_coverage_30pct,0.3,1
+2067.pdf,Journal of the Association for Information Science and Technology,JASIST,2022,high,v1_coverage_30pct,0.3,1
+2073.pdf,Journal of the Association for Information Science and Technology,JASIST,2022,high,v1_coverage_30pct,0.3,1
+2083.pdf,Journal of the Association for Information Science and Technology,JASIST,2022,high,v1_coverage_30pct,0.3,1
+2095.pdf,Journal of the Association for Information Science and Technology,JASIST,2022,high,v1_coverage_30pct,0.3,1
+2076.pdf,Journal of the Association for Information Science and Technology,JASIST,2022,low,v1_coverage_30pct,0.3,1
+2082.pdf,Journal of the Association for Information Science and Technology,JASIST,2022,low,v1_coverage_30pct,0.3,1
+2099.pdf,Journal of the Association for Information Science and Technology,JASIST,2022,low,v1_coverage_30pct,0.3,1
+2101.pdf,Journal of the Association for Information Science and Technology,JASIST,2022,low,v1_coverage_30pct,0.3,1
+2114.pdf,Quantitative Science Studies,QSS,2019,high,v1_coverage_30pct,0.3,1
+2116.pdf,Quantitative Science Studies,QSS,2019,high,v1_coverage_30pct,0.3,1
+2110.pdf,Quantitative Science Studies,QSS,2019,low,v1_coverage_30pct,0.3,1
+2126.pdf,Quantitative Science Studies,QSS,2019,low,v1_coverage_30pct,0.3,1
+2141.pdf,Quantitative Science Studies,QSS,2020,high,v1_coverage_30pct,0.3,1
+2146.pdf,Quantitative Science Studies,QSS,2020,high,v1_coverage_30pct,0.3,1
+2152.pdf,Quantitative Science Studies,QSS,2020,high,v1_coverage_30pct,0.3,1
+2153.pdf,Quantitative Science Studies,QSS,2020,high,v1_coverage_30pct,0.3,1
+2158.pdf,Quantitative Science Studies,QSS,2020,high,v1_coverage_30pct,0.3,1
+2159.pdf,Quantitative Science Studies,QSS,2020,high,v1_coverage_30pct,0.3,1
+2175.pdf,Quantitative Science Studies,QSS,2020,high,v1_coverage_30pct,0.3,1
+2194.pdf,Quantitative Science Studies,QSS,2020,high,v1_coverage_30pct,0.3,1
+2154.pdf,Quantitative Science Studies,QSS,2020,low,v1_coverage_30pct,0.3,1
+2165.pdf,Quantitative Science Studies,QSS,2020,low,v1_coverage_30pct,0.3,1
+2167.pdf,Quantitative Science Studies,QSS,2020,low,v1_coverage_30pct,0.3,1
+2177.pdf,Quantitative Science Studies,QSS,2020,low,v1_coverage_30pct,0.3,1
+2178.pdf,Quantitative Science Studies,QSS,2020,low,v1_coverage_30pct,0.3,1
+2185.pdf,Quantitative Science Studies,QSS,2020,low,v1_coverage_30pct,0.3,1
+2186.pdf,Quantitative Science Studies,QSS,2020,low,v1_coverage_30pct,0.3,1
+2197.pdf,Quantitative Science Studies,QSS,2020,low,v1_coverage_30pct,0.3,1
+2208.pdf,Quantitative Science Studies,QSS,2021,high,v1_coverage_30pct,0.3,1
+2218.pdf,Quantitative Science Studies,QSS,2021,high,v1_coverage_30pct,0.3,1
+2225.pdf,Quantitative Science Studies,QSS,2021,high,v1_coverage_30pct,0.3,1
+2236.pdf,Quantitative Science Studies,QSS,2021,high,v1_coverage_30pct,0.3,1
+2241.pdf,Quantitative Science Studies,QSS,2021,high,v1_coverage_30pct,0.3,1
+2252.pdf,Quantitative Science Studies,QSS,2021,high,v1_coverage_30pct,0.3,1
+2267.pdf,Quantitative Science Studies,QSS,2021,high,v1_coverage_30pct,0.3,1
+2276.pdf,Quantitative Science Studies,QSS,2021,high,v1_coverage_30pct,0.3,1
+2215.pdf,Quantitative Science Studies,QSS,2021,low,v1_coverage_30pct,0.3,1
+2234.pdf,Quantitative Science Studies,QSS,2021,low,v1_coverage_30pct,0.3,1
+2237.pdf,Quantitative Science Studies,QSS,2021,low,v1_coverage_30pct,0.3,1
+2240.pdf,Quantitative Science Studies,QSS,2021,low,v1_coverage_30pct,0.3,1
+2245.pdf,Quantitative Science Studies,QSS,2021,low,v1_coverage_30pct,0.3,1
+2254.pdf,Quantitative Science Studies,QSS,2021,low,v1_coverage_30pct,0.3,1
+2263.pdf,Quantitative Science Studies,QSS,2021,low,v1_coverage_30pct,0.3,1
+2269.pdf,Quantitative Science Studies,QSS,2021,low,v1_coverage_30pct,0.3,1
+2308.pdf,Quantitative Science Studies,QSS,2022,high,v1_coverage_30pct,0.3,1
+2316.pdf,Quantitative Science Studies,QSS,2022,high,v1_coverage_30pct,0.3,1
+2321.pdf,Quantitative Science Studies,QSS,2022,high,v1_coverage_30pct,0.3,1
+2324.pdf,Quantitative Science Studies,QSS,2022,high,v1_coverage_30pct,0.3,1
+2303.pdf,Quantitative Science Studies,QSS,2022,low,v1_coverage_30pct,0.3,1
+2310.pdf,Quantitative Science Studies,QSS,2022,low,v1_coverage_30pct,0.3,1
+2318.pdf,Quantitative Science Studies,QSS,2022,low,v1_coverage_30pct,0.3,1
+2326.pdf,Quantitative Science Studies,QSS,2022,low,v1_coverage_30pct,0.3,1
+2327.pdf,Quantitative Science Studies,QSS,2022,low,v1_coverage_30pct,0.3,1
+2402.pdf,Scientometrics,SCIM,2010,high,v1_coverage_30pct,0.3,1
+2405.pdf,Scientometrics,SCIM,2010,high,v1_coverage_30pct,0.3,1
+2409.pdf,Scientometrics,SCIM,2010,high,v1_coverage_30pct,0.3,1
+2443.pdf,Scientometrics,SCIM,2010,high,v1_coverage_30pct,0.3,1
+2445.pdf,Scientometrics,SCIM,2010,high,v1_coverage_30pct,0.3,1
+2418.pdf,Scientometrics,SCIM,2010,low,v1_coverage_30pct,0.3,1
+2427.pdf,Scientometrics,SCIM,2010,low,v1_coverage_30pct,0.3,1
+2428.pdf,Scientometrics,SCIM,2010,low,v1_coverage_30pct,0.3,1
+2435.pdf,Scientometrics,SCIM,2010,low,v1_coverage_30pct,0.3,1
+2441.pdf,Scientometrics,SCIM,2010,low,v1_coverage_30pct,0.3,1
+2454.pdf,Scientometrics,SCIM,2011,high,v1_coverage_30pct,0.3,1
+2458.pdf,Scientometrics,SCIM,2011,high,v1_coverage_30pct,0.3,1
+2459.pdf,Scientometrics,SCIM,2011,high,v1_coverage_30pct,0.3,1
+2486.pdf,Scientometrics,SCIM,2011,high,v1_coverage_30pct,0.3,1
+2494.pdf,Scientometrics,SCIM,2011,high,v1_coverage_30pct,0.3,1
+2457.pdf,Scientometrics,SCIM,2011,low,v1_coverage_30pct,0.3,1
+2465.pdf,Scientometrics,SCIM,2011,low,v1_coverage_30pct,0.3,1
+2484.pdf,Scientometrics,SCIM,2011,low,v1_coverage_30pct,0.3,1
+2485.pdf,Scientometrics,SCIM,2011,low,v1_coverage_30pct,0.3,1
+2488.pdf,Scientometrics,SCIM,2011,low,v1_coverage_30pct,0.3,1
+2507.pdf,Scientometrics,SCIM,2012,high,v1_coverage_30pct,0.3,1
+2526.pdf,Scientometrics,SCIM,2012,high,v1_coverage_30pct,0.3,1
+2527.pdf,Scientometrics,SCIM,2012,high,v1_coverage_30pct,0.3,1
+2537.pdf,Scientometrics,SCIM,2012,high,v1_coverage_30pct,0.3,1
+2552.pdf,Scientometrics,SCIM,2012,high,v1_coverage_30pct,0.3,1
+2560.pdf,Scientometrics,SCIM,2012,high,v1_coverage_30pct,0.3,1
+2501.pdf,Scientometrics,SCIM,2012,low,v1_coverage_30pct,0.3,1
+2502.pdf,Scientometrics,SCIM,2012,low,v1_coverage_30pct,0.3,1
+2505.pdf,Scientometrics,SCIM,2012,low,v1_coverage_30pct,0.3,1
+2513.pdf,Scientometrics,SCIM,2012,low,v1_coverage_30pct,0.3,1
+2536.pdf,Scientometrics,SCIM,2012,low,v1_coverage_30pct,0.3,1
+2538.pdf,Scientometrics,SCIM,2012,low,v1_coverage_30pct,0.3,1
+2573.pdf,Scientometrics,SCIM,2013,high,v1_coverage_30pct,0.3,1
+2583.pdf,Scientometrics,SCIM,2013,high,v1_coverage_30pct,0.3,1
+2585.pdf,Scientometrics,SCIM,2013,high,v1_coverage_30pct,0.3,1
+2595.pdf,Scientometrics,SCIM,2013,high,v1_coverage_30pct,0.3,1
+2606.pdf,Scientometrics,SCIM,2013,high,v1_coverage_30pct,0.3,1
+2619.pdf,Scientometrics,SCIM,2013,high,v1_coverage_30pct,0.3,1
+2563.pdf,Scientometrics,SCIM,2013,low,v1_coverage_30pct,0.3,1
+2565.pdf,Scientometrics,SCIM,2013,low,v1_coverage_30pct,0.3,1
+2568.pdf,Scientometrics,SCIM,2013,low,v1_coverage_30pct,0.3,1
+2580.pdf,Scientometrics,SCIM,2013,low,v1_coverage_30pct,0.3,1
+2598.pdf,Scientometrics,SCIM,2013,low,v1_coverage_30pct,0.3,1
+2603.pdf,Scientometrics,SCIM,2013,low,v1_coverage_30pct,0.3,1
+2651.pdf,Scientometrics,SCIM,2014,high,v1_coverage_30pct,0.3,1
+2654.pdf,Scientometrics,SCIM,2014,high,v1_coverage_30pct,0.3,1
+2660.pdf,Scientometrics,SCIM,2014,high,v1_coverage_30pct,0.3,1
+2669.pdf,Scientometrics,SCIM,2014,high,v1_coverage_30pct,0.3,1
+2678.pdf,Scientometrics,SCIM,2014,high,v1_coverage_30pct,0.3,1
+2681.pdf,Scientometrics,SCIM,2014,high,v1_coverage_30pct,0.3,1
+2622.pdf,Scientometrics,SCIM,2014,low,v1_coverage_30pct,0.3,1
+2645.pdf,Scientometrics,SCIM,2014,low,v1_coverage_30pct,0.3,1
+2652.pdf,Scientometrics,SCIM,2014,low,v1_coverage_30pct,0.3,1
+2658.pdf,Scientometrics,SCIM,2014,low,v1_coverage_30pct,0.3,1
+2668.pdf,Scientometrics,SCIM,2014,low,v1_coverage_30pct,0.3,1
+2670.pdf,Scientometrics,SCIM,2014,low,v1_coverage_30pct,0.3,1
+2714.pdf,Scientometrics,SCIM,2015,high,v1_coverage_30pct,0.3,1
+2719.pdf,Scientometrics,SCIM,2015,high,v1_coverage_30pct,0.3,1
+2721.pdf,Scientometrics,SCIM,2015,high,v1_coverage_30pct,0.3,1
+2731.pdf,Scientometrics,SCIM,2015,high,v1_coverage_30pct,0.3,1
+2735.pdf,Scientometrics,SCIM,2015,high,v1_coverage_30pct,0.3,1
+2737.pdf,Scientometrics,SCIM,2015,high,v1_coverage_30pct,0.3,1
+2746.pdf,Scientometrics,SCIM,2015,high,v1_coverage_30pct,0.3,1
+2685.pdf,Scientometrics,SCIM,2015,low,v1_coverage_30pct,0.3,1
+2705.pdf,Scientometrics,SCIM,2015,low,v1_coverage_30pct,0.3,1
+2707.pdf,Scientometrics,SCIM,2015,low,v1_coverage_30pct,0.3,1
+2709.pdf,Scientometrics,SCIM,2015,low,v1_coverage_30pct,0.3,1
+2720.pdf,Scientometrics,SCIM,2015,low,v1_coverage_30pct,0.3,1
+2723.pdf,Scientometrics,SCIM,2015,low,v1_coverage_30pct,0.3,1
+2757.pdf,Scientometrics,SCIM,2016,high,v1_coverage_30pct,0.3,1
+2767.pdf,Scientometrics,SCIM,2016,high,v1_coverage_30pct,0.3,1
+2769.pdf,Scientometrics,SCIM,2016,high,v1_coverage_30pct,0.3,1
+2774.pdf,Scientometrics,SCIM,2016,high,v1_coverage_30pct,0.3,1
+2779.pdf,Scientometrics,SCIM,2016,high,v1_coverage_30pct,0.3,1
+2787.pdf,Scientometrics,SCIM,2016,high,v1_coverage_30pct,0.3,1
+2810.pdf,Scientometrics,SCIM,2016,high,v1_coverage_30pct,0.3,1
+2822.pdf,Scientometrics,SCIM,2016,high,v1_coverage_30pct,0.3,1
+2832.pdf,Scientometrics,SCIM,2016,high,v1_coverage_30pct,0.3,1
+2837.pdf,Scientometrics,SCIM,2016,high,v1_coverage_30pct,0.3,1
+2838.pdf,Scientometrics,SCIM,2016,high,v1_coverage_30pct,0.3,1
+2857.pdf,Scientometrics,SCIM,2016,high,v1_coverage_30pct,0.3,1
+2755.pdf,Scientometrics,SCIM,2016,low,v1_coverage_30pct,0.3,1
+2770.pdf,Scientometrics,SCIM,2016,low,v1_coverage_30pct,0.3,1
+2792.pdf,Scientometrics,SCIM,2016,low,v1_coverage_30pct,0.3,1
+2797.pdf,Scientometrics,SCIM,2016,low,v1_coverage_30pct,0.3,1
+2802.pdf,Scientometrics,SCIM,2016,low,v1_coverage_30pct,0.3,1
+2817.pdf,Scientometrics,SCIM,2016,low,v1_coverage_30pct,0.3,1
+2840.pdf,Scientometrics,SCIM,2016,low,v1_coverage_30pct,0.3,1
+2841.pdf,Scientometrics,SCIM,2016,low,v1_coverage_30pct,0.3,1
+2843.pdf,Scientometrics,SCIM,2016,low,v1_coverage_30pct,0.3,1
+2846.pdf,Scientometrics,SCIM,2016,low,v1_coverage_30pct,0.3,1
+2850.pdf,Scientometrics,SCIM,2016,low,v1_coverage_30pct,0.3,1
+2854.pdf,Scientometrics,SCIM,2016,low,v1_coverage_30pct,0.3,1
+2866.pdf,Scientometrics,SCIM,2017,high,v1_coverage_30pct,0.3,1
+2868.pdf,Scientometrics,SCIM,2017,high,v1_coverage_30pct,0.3,1
+2870.pdf,Scientometrics,SCIM,2017,high,v1_coverage_30pct,0.3,1
+2888.pdf,Scientometrics,SCIM,2017,high,v1_coverage_30pct,0.3,1
+2889.pdf,Scientometrics,SCIM,2017,high,v1_coverage_30pct,0.3,1
+2901.pdf,Scientometrics,SCIM,2017,high,v1_coverage_30pct,0.3,1
+2903.pdf,Scientometrics,SCIM,2017,high,v1_coverage_30pct,0.3,1
+2906.pdf,Scientometrics,SCIM,2017,high,v1_coverage_30pct,0.3,1
+2917.pdf,Scientometrics,SCIM,2017,high,v1_coverage_30pct,0.3,1
+2925.pdf,Scientometrics,SCIM,2017,high,v1_coverage_30pct,0.3,1
+2927.pdf,Scientometrics,SCIM,2017,high,v1_coverage_30pct,0.3,1
+2934.pdf,Scientometrics,SCIM,2017,high,v1_coverage_30pct,0.3,1
+2980.pdf,Scientometrics,SCIM,2017,high,v1_coverage_30pct,0.3,1
+2869.pdf,Scientometrics,SCIM,2017,low,v1_coverage_30pct,0.3,1
+2879.pdf,Scientometrics,SCIM,2017,low,v1_coverage_30pct,0.3,1
+2905.pdf,Scientometrics,SCIM,2017,low,v1_coverage_30pct,0.3,1
+2908.pdf,Scientometrics,SCIM,2017,low,v1_coverage_30pct,0.3,1
+2909.pdf,Scientometrics,SCIM,2017,low,v1_coverage_30pct,0.3,1
+2920.pdf,Scientometrics,SCIM,2017,low,v1_coverage_30pct,0.3,1
+2922.pdf,Scientometrics,SCIM,2017,low,v1_coverage_30pct,0.3,1
+2923.pdf,Scientometrics,SCIM,2017,low,v1_coverage_30pct,0.3,1
+2941.pdf,Scientometrics,SCIM,2017,low,v1_coverage_30pct,0.3,1
+2953.pdf,Scientometrics,SCIM,2017,low,v1_coverage_30pct,0.3,1
+2957.pdf,Scientometrics,SCIM,2017,low,v1_coverage_30pct,0.3,1
+2967.pdf,Scientometrics,SCIM,2017,low,v1_coverage_30pct,0.3,1
+2969.pdf,Scientometrics,SCIM,2017,low,v1_coverage_30pct,0.3,1
+3010.pdf,Scientometrics,SCIM,2018,high,v1_coverage_30pct,0.3,1
+3019.pdf,Scientometrics,SCIM,2018,high,v1_coverage_30pct,0.3,1
+3028.pdf,Scientometrics,SCIM,2018,high,v1_coverage_30pct,0.3,1
+3041.pdf,Scientometrics,SCIM,2018,high,v1_coverage_30pct,0.3,1
+3057.pdf,Scientometrics,SCIM,2018,high,v1_coverage_30pct,0.3,1
+3062.pdf,Scientometrics,SCIM,2018,high,v1_coverage_30pct,0.3,1
+3074.pdf,Scientometrics,SCIM,2018,high,v1_coverage_30pct,0.3,1
+3087.pdf,Scientometrics,SCIM,2018,high,v1_coverage_30pct,0.3,1
+3089.pdf,Scientometrics,SCIM,2018,high,v1_coverage_30pct,0.3,1
+3090.pdf,Scientometrics,SCIM,2018,high,v1_coverage_30pct,0.3,1
+3012.pdf,Scientometrics,SCIM,2018,low,v1_coverage_30pct,0.3,1
+3014.pdf,Scientometrics,SCIM,2018,low,v1_coverage_30pct,0.3,1
+3022.pdf,Scientometrics,SCIM,2018,low,v1_coverage_30pct,0.3,1
+3024.pdf,Scientometrics,SCIM,2018,low,v1_coverage_30pct,0.3,1
+3026.pdf,Scientometrics,SCIM,2018,low,v1_coverage_30pct,0.3,1
+3044.pdf,Scientometrics,SCIM,2018,low,v1_coverage_30pct,0.3,1
+3054.pdf,Scientometrics,SCIM,2018,low,v1_coverage_30pct,0.3,1
+3064.pdf,Scientometrics,SCIM,2018,low,v1_coverage_30pct,0.3,1
+3067.pdf,Scientometrics,SCIM,2018,low,v1_coverage_30pct,0.3,1
+3079.pdf,Scientometrics,SCIM,2018,low,v1_coverage_30pct,0.3,1
+3120.pdf,Scientometrics,SCIM,2019,high,v1_coverage_30pct,0.3,1
+3130.pdf,Scientometrics,SCIM,2019,high,v1_coverage_30pct,0.3,1
+3133.pdf,Scientometrics,SCIM,2019,high,v1_coverage_30pct,0.3,1
+3144.pdf,Scientometrics,SCIM,2019,high,v1_coverage_30pct,0.3,1
+3145.pdf,Scientometrics,SCIM,2019,high,v1_coverage_30pct,0.3,1
+3147.pdf,Scientometrics,SCIM,2019,high,v1_coverage_30pct,0.3,1
+3158.pdf,Scientometrics,SCIM,2019,high,v1_coverage_30pct,0.3,1
+3164.pdf,Scientometrics,SCIM,2019,high,v1_coverage_30pct,0.3,1
+3194.pdf,Scientometrics,SCIM,2019,high,v1_coverage_30pct,0.3,1
+3195.pdf,Scientometrics,SCIM,2019,high,v1_coverage_30pct,0.3,1
+3199.pdf,Scientometrics,SCIM,2019,high,v1_coverage_30pct,0.3,1
+3095.pdf,Scientometrics,SCIM,2019,low,v1_coverage_30pct,0.3,1
+3108.pdf,Scientometrics,SCIM,2019,low,v1_coverage_30pct,0.3,1
+3119.pdf,Scientometrics,SCIM,2019,low,v1_coverage_30pct,0.3,1
+3124.pdf,Scientometrics,SCIM,2019,low,v1_coverage_30pct,0.3,1
+3125.pdf,Scientometrics,SCIM,2019,low,v1_coverage_30pct,0.3,1
+3134.pdf,Scientometrics,SCIM,2019,low,v1_coverage_30pct,0.3,1
+3141.pdf,Scientometrics,SCIM,2019,low,v1_coverage_30pct,0.3,1
+3152.pdf,Scientometrics,SCIM,2019,low,v1_coverage_30pct,0.3,1
+3168.pdf,Scientometrics,SCIM,2019,low,v1_coverage_30pct,0.3,1
+3179.pdf,Scientometrics,SCIM,2019,low,v1_coverage_30pct,0.3,1
+3186.pdf,Scientometrics,SCIM,2019,low,v1_coverage_30pct,0.3,1
+3215.pdf,Scientometrics,SCIM,2020,high,v1_coverage_30pct,0.3,1
+3216.pdf,Scientometrics,SCIM,2020,high,v1_coverage_30pct,0.3,1
+3229.pdf,Scientometrics,SCIM,2020,high,v1_coverage_30pct,0.3,1
+3235.pdf,Scientometrics,SCIM,2020,high,v1_coverage_30pct,0.3,1
+3237.pdf,Scientometrics,SCIM,2020,high,v1_coverage_30pct,0.3,1
+3252.pdf,Scientometrics,SCIM,2020,high,v1_coverage_30pct,0.3,1
+3263.pdf,Scientometrics,SCIM,2020,high,v1_coverage_30pct,0.3,1
+3265.pdf,Scientometrics,SCIM,2020,high,v1_coverage_30pct,0.3,1
+3276.pdf,Scientometrics,SCIM,2020,high,v1_coverage_30pct,0.3,1
+3279.pdf,Scientometrics,SCIM,2020,high,v1_coverage_30pct,0.3,1
+3297.pdf,Scientometrics,SCIM,2020,high,v1_coverage_30pct,0.3,1
+3315.pdf,Scientometrics,SCIM,2020,high,v1_coverage_30pct,0.3,1
+3329.pdf,Scientometrics,SCIM,2020,high,v1_coverage_30pct,0.3,1
+3335.pdf,Scientometrics,SCIM,2020,high,v1_coverage_30pct,0.3,1
+3355.pdf,Scientometrics,SCIM,2020,high,v1_coverage_30pct,0.3,1
+3372.pdf,Scientometrics,SCIM,2020,high,v1_coverage_30pct,0.3,1
+3375.pdf,Scientometrics,SCIM,2020,high,v1_coverage_30pct,0.3,1
+3378.pdf,Scientometrics,SCIM,2020,high,v1_coverage_30pct,0.3,1
+3210.pdf,Scientometrics,SCIM,2020,low,v1_coverage_30pct,0.3,1
+3212.pdf,Scientometrics,SCIM,2020,low,v1_coverage_30pct,0.3,1
+3213.pdf,Scientometrics,SCIM,2020,low,v1_coverage_30pct,0.3,1
+3219.pdf,Scientometrics,SCIM,2020,low,v1_coverage_30pct,0.3,1
+3227.pdf,Scientometrics,SCIM,2020,low,v1_coverage_30pct,0.3,1
+3239.pdf,Scientometrics,SCIM,2020,low,v1_coverage_30pct,0.3,1
+3248.pdf,Scientometrics,SCIM,2020,low,v1_coverage_30pct,0.3,1
+3259.pdf,Scientometrics,SCIM,2020,low,v1_coverage_30pct,0.3,1
+3261.pdf,Scientometrics,SCIM,2020,low,v1_coverage_30pct,0.3,1
+3270.pdf,Scientometrics,SCIM,2020,low,v1_coverage_30pct,0.3,1
+3316.pdf,Scientometrics,SCIM,2020,low,v1_coverage_30pct,0.3,1
+3322.pdf,Scientometrics,SCIM,2020,low,v1_coverage_30pct,0.3,1
+3325.pdf,Scientometrics,SCIM,2020,low,v1_coverage_30pct,0.3,1
+3341.pdf,Scientometrics,SCIM,2020,low,v1_coverage_30pct,0.3,1
+3353.pdf,Scientometrics,SCIM,2020,low,v1_coverage_30pct,0.3,1
+3357.pdf,Scientometrics,SCIM,2020,low,v1_coverage_30pct,0.3,1
+3363.pdf,Scientometrics,SCIM,2020,low,v1_coverage_30pct,0.3,1
+3376.pdf,Scientometrics,SCIM,2020,low,v1_coverage_30pct,0.3,1
+3385.pdf,Scientometrics,SCIM,2021,high,v1_coverage_30pct,0.3,1
+3391.pdf,Scientometrics,SCIM,2021,high,v1_coverage_30pct,0.3,1
+3412.pdf,Scientometrics,SCIM,2021,high,v1_coverage_30pct,0.3,1
+3415.pdf,Scientometrics,SCIM,2021,high,v1_coverage_30pct,0.3,1
+3419.pdf,Scientometrics,SCIM,2021,high,v1_coverage_30pct,0.3,1
+3432.pdf,Scientometrics,SCIM,2021,high,v1_coverage_30pct,0.3,1
+3434.pdf,Scientometrics,SCIM,2021,high,v1_coverage_30pct,0.3,1
+3453.pdf,Scientometrics,SCIM,2021,high,v1_coverage_30pct,0.3,1
+3458.pdf,Scientometrics,SCIM,2021,high,v1_coverage_30pct,0.3,1
+3476.pdf,Scientometrics,SCIM,2021,high,v1_coverage_30pct,0.3,1
+3480.pdf,Scientometrics,SCIM,2021,high,v1_coverage_30pct,0.3,1
+3498.pdf,Scientometrics,SCIM,2021,high,v1_coverage_30pct,0.3,1
+3508.pdf,Scientometrics,SCIM,2021,high,v1_coverage_30pct,0.3,1
+3511.pdf,Scientometrics,SCIM,2021,high,v1_coverage_30pct,0.3,1
+3537.pdf,Scientometrics,SCIM,2021,high,v1_coverage_30pct,0.3,1
+3538.pdf,Scientometrics,SCIM,2021,high,v1_coverage_30pct,0.3,1
+3539.pdf,Scientometrics,SCIM,2021,high,v1_coverage_30pct,0.3,1
+3550.pdf,Scientometrics,SCIM,2021,high,v1_coverage_30pct,0.3,1
+3384.pdf,Scientometrics,SCIM,2021,low,v1_coverage_30pct,0.3,1
+3393.pdf,Scientometrics,SCIM,2021,low,v1_coverage_30pct,0.3,1
+3400.pdf,Scientometrics,SCIM,2021,low,v1_coverage_30pct,0.3,1
+3406.pdf,Scientometrics,SCIM,2021,low,v1_coverage_30pct,0.3,1
+3410.pdf,Scientometrics,SCIM,2021,low,v1_coverage_30pct,0.3,1
+3426.pdf,Scientometrics,SCIM,2021,low,v1_coverage_30pct,0.3,1
+3431.pdf,Scientometrics,SCIM,2021,low,v1_coverage_30pct,0.3,1
+3451.pdf,Scientometrics,SCIM,2021,low,v1_coverage_30pct,0.3,1
+3460.pdf,Scientometrics,SCIM,2021,low,v1_coverage_30pct,0.3,1
+3478.pdf,Scientometrics,SCIM,2021,low,v1_coverage_30pct,0.3,1
+3491.pdf,Scientometrics,SCIM,2021,low,v1_coverage_30pct,0.3,1
+3503.pdf,Scientometrics,SCIM,2021,low,v1_coverage_30pct,0.3,1
+3515.pdf,Scientometrics,SCIM,2021,low,v1_coverage_30pct,0.3,1
+3516.pdf,Scientometrics,SCIM,2021,low,v1_coverage_30pct,0.3,1
+3523.pdf,Scientometrics,SCIM,2021,low,v1_coverage_30pct,0.3,1
+3528.pdf,Scientometrics,SCIM,2021,low,v1_coverage_30pct,0.3,1
+3530.pdf,Scientometrics,SCIM,2021,low,v1_coverage_30pct,0.3,1
+3556.pdf,Scientometrics,SCIM,2021,low,v1_coverage_30pct,0.3,1
+3558.pdf,Scientometrics,SCIM,2022,high,v1_coverage_30pct,0.3,1
+3561.pdf,Scientometrics,SCIM,2022,high,v1_coverage_30pct,0.3,1
+3564.pdf,Scientometrics,SCIM,2022,high,v1_coverage_30pct,0.3,1
+3572.pdf,Scientometrics,SCIM,2022,high,v1_coverage_30pct,0.3,1
+3573.pdf,Scientometrics,SCIM,2022,high,v1_coverage_30pct,0.3,1
+3582.pdf,Scientometrics,SCIM,2022,high,v1_coverage_30pct,0.3,1
+3585.pdf,Scientometrics,SCIM,2022,high,v1_coverage_30pct,0.3,1
+3597.pdf,Scientometrics,SCIM,2022,high,v1_coverage_30pct,0.3,1
+3606.pdf,Scientometrics,SCIM,2022,high,v1_coverage_30pct,0.3,1
+3625.pdf,Scientometrics,SCIM,2022,high,v1_coverage_30pct,0.3,1
+3637.pdf,Scientometrics,SCIM,2022,high,v1_coverage_30pct,0.3,1
+3649.pdf,Scientometrics,SCIM,2022,high,v1_coverage_30pct,0.3,1
+3670.pdf,Scientometrics,SCIM,2022,high,v1_coverage_30pct,0.3,1
+3685.pdf,Scientometrics,SCIM,2022,high,v1_coverage_30pct,0.3,1
+3688.pdf,Scientometrics,SCIM,2022,high,v1_coverage_30pct,0.3,1
+3717.pdf,Scientometrics,SCIM,2022,high,v1_coverage_30pct,0.3,1
+3726.pdf,Scientometrics,SCIM,2022,high,v1_coverage_30pct,0.3,1
+3734.pdf,Scientometrics,SCIM,2022,high,v1_coverage_30pct,0.3,1
+3569.pdf,Scientometrics,SCIM,2022,low,v1_coverage_30pct,0.3,1
+3570.pdf,Scientometrics,SCIM,2022,low,v1_coverage_30pct,0.3,1
+3580.pdf,Scientometrics,SCIM,2022,low,v1_coverage_30pct,0.3,1
+3581.pdf,Scientometrics,SCIM,2022,low,v1_coverage_30pct,0.3,1
+3592.pdf,Scientometrics,SCIM,2022,low,v1_coverage_30pct,0.3,1
+3602.pdf,Scientometrics,SCIM,2022,low,v1_coverage_30pct,0.3,1
+3615.pdf,Scientometrics,SCIM,2022,low,v1_coverage_30pct,0.3,1
+3622.pdf,Scientometrics,SCIM,2022,low,v1_coverage_30pct,0.3,1
+3627.pdf,Scientometrics,SCIM,2022,low,v1_coverage_30pct,0.3,1
+3629.pdf,Scientometrics,SCIM,2022,low,v1_coverage_30pct,0.3,1
+3642.pdf,Scientometrics,SCIM,2022,low,v1_coverage_30pct,0.3,1
+3651.pdf,Scientometrics,SCIM,2022,low,v1_coverage_30pct,0.3,1
+3655.pdf,Scientometrics,SCIM,2022,low,v1_coverage_30pct,0.3,1
+3657.pdf,Scientometrics,SCIM,2022,low,v1_coverage_30pct,0.3,1
+3663.pdf,Scientometrics,SCIM,2022,low,v1_coverage_30pct,0.3,1
+3684.pdf,Scientometrics,SCIM,2022,low,v1_coverage_30pct,0.3,1
+3720.pdf,Scientometrics,SCIM,2022,low,v1_coverage_30pct,0.3,1
+3730.pdf,Scientometrics,SCIM,2022,low,v1_coverage_30pct,0.3,1
+3.pdf,Frontiers in Communication,FCOMM,2016,high,v2_coverage_50pct,0.5,2
+5.pdf,Frontiers in Communication,FCOMM,2016,low,v2_coverage_50pct,0.5,2
+28.pdf,Frontiers in Communication,FCOMM,2017,high,v2_coverage_50pct,0.5,2
+19.pdf,Frontiers in Communication,FCOMM,2017,low,v2_coverage_50pct,0.5,2
+27.pdf,Frontiers in Communication,FCOMM,2017,low,v2_coverage_50pct,0.5,2
+52.pdf,Frontiers in Communication,FCOMM,2018,high,v2_coverage_50pct,0.5,2
+69.pdf,Frontiers in Communication,FCOMM,2018,high,v2_coverage_50pct,0.5,2
+74.pdf,Frontiers in Communication,FCOMM,2018,high,v2_coverage_50pct,0.5,2
+81.pdf,Frontiers in Communication,FCOMM,2018,high,v2_coverage_50pct,0.5,2
+41.pdf,Frontiers in Communication,FCOMM,2018,low,v2_coverage_50pct,0.5,2
+50.pdf,Frontiers in Communication,FCOMM,2018,low,v2_coverage_50pct,0.5,2
+57.pdf,Frontiers in Communication,FCOMM,2018,low,v2_coverage_50pct,0.5,2
+70.pdf,Frontiers in Communication,FCOMM,2018,low,v2_coverage_50pct,0.5,2
+102.pdf,Frontiers in Communication,FCOMM,2019,high,v2_coverage_50pct,0.5,2
+132.pdf,Frontiers in Communication,FCOMM,2019,high,v2_coverage_50pct,0.5,2
+149.pdf,Frontiers in Communication,FCOMM,2019,high,v2_coverage_50pct,0.5,2
+150.pdf,Frontiers in Communication,FCOMM,2019,high,v2_coverage_50pct,0.5,2
+171.pdf,Frontiers in Communication,FCOMM,2019,high,v2_coverage_50pct,0.5,2
+92.pdf,Frontiers in Communication,FCOMM,2019,high,v2_coverage_50pct,0.5,2
+104.pdf,Frontiers in Communication,FCOMM,2019,low,v2_coverage_50pct,0.5,2
+145.pdf,Frontiers in Communication,FCOMM,2019,low,v2_coverage_50pct,0.5,2
+152.pdf,Frontiers in Communication,FCOMM,2019,low,v2_coverage_50pct,0.5,2
+157.pdf,Frontiers in Communication,FCOMM,2019,low,v2_coverage_50pct,0.5,2
+158.pdf,Frontiers in Communication,FCOMM,2019,low,v2_coverage_50pct,0.5,2
+91.pdf,Frontiers in Communication,FCOMM,2019,low,v2_coverage_50pct,0.5,2
+191.pdf,Frontiers in Communication,FCOMM,2020,high,v2_coverage_50pct,0.5,2
+194.pdf,Frontiers in Communication,FCOMM,2020,high,v2_coverage_50pct,0.5,2
+217.pdf,Frontiers in Communication,FCOMM,2020,high,v2_coverage_50pct,0.5,2
+231.pdf,Frontiers in Communication,FCOMM,2020,high,v2_coverage_50pct,0.5,2
+241.pdf,Frontiers in Communication,FCOMM,2020,high,v2_coverage_50pct,0.5,2
+247.pdf,Frontiers in Communication,FCOMM,2020,high,v2_coverage_50pct,0.5,2
+264.pdf,Frontiers in Communication,FCOMM,2020,high,v2_coverage_50pct,0.5,2
+290.pdf,Frontiers in Communication,FCOMM,2020,high,v2_coverage_50pct,0.5,2
+230.pdf,Frontiers in Communication,FCOMM,2020,low,v2_coverage_50pct,0.5,2
+233.pdf,Frontiers in Communication,FCOMM,2020,low,v2_coverage_50pct,0.5,2
+253.pdf,Frontiers in Communication,FCOMM,2020,low,v2_coverage_50pct,0.5,2
+261.pdf,Frontiers in Communication,FCOMM,2020,low,v2_coverage_50pct,0.5,2
+267.pdf,Frontiers in Communication,FCOMM,2020,low,v2_coverage_50pct,0.5,2
+271.pdf,Frontiers in Communication,FCOMM,2020,low,v2_coverage_50pct,0.5,2
+284.pdf,Frontiers in Communication,FCOMM,2020,low,v2_coverage_50pct,0.5,2
+289.pdf,Frontiers in Communication,FCOMM,2020,low,v2_coverage_50pct,0.5,2
+317.pdf,Frontiers in Communication,FCOMM,2021,high,v2_coverage_50pct,0.5,2
+324.pdf,Frontiers in Communication,FCOMM,2021,high,v2_coverage_50pct,0.5,2
+325.pdf,Frontiers in Communication,FCOMM,2021,high,v2_coverage_50pct,0.5,2
+346.pdf,Frontiers in Communication,FCOMM,2021,high,v2_coverage_50pct,0.5,2
+355.pdf,Frontiers in Communication,FCOMM,2021,high,v2_coverage_50pct,0.5,2
+370.pdf,Frontiers in Communication,FCOMM,2021,high,v2_coverage_50pct,0.5,2
+382.pdf,Frontiers in Communication,FCOMM,2021,high,v2_coverage_50pct,0.5,2
+384.pdf,Frontiers in Communication,FCOMM,2021,high,v2_coverage_50pct,0.5,2
+393.pdf,Frontiers in Communication,FCOMM,2021,high,v2_coverage_50pct,0.5,2
+411.pdf,Frontiers in Communication,FCOMM,2021,high,v2_coverage_50pct,0.5,2
+424.pdf,Frontiers in Communication,FCOMM,2021,high,v2_coverage_50pct,0.5,2
+438.pdf,Frontiers in Communication,FCOMM,2021,high,v2_coverage_50pct,0.5,2
+443.pdf,Frontiers in Communication,FCOMM,2021,high,v2_coverage_50pct,0.5,2
+479.pdf,Frontiers in Communication,FCOMM,2021,high,v2_coverage_50pct,0.5,2
+517.pdf,Frontiers in Communication,FCOMM,2021,high,v2_coverage_50pct,0.5,2
+534.pdf,Frontiers in Communication,FCOMM,2021,high,v2_coverage_50pct,0.5,2
+539.pdf,Frontiers in Communication,FCOMM,2021,high,v2_coverage_50pct,0.5,2
+543.pdf,Frontiers in Communication,FCOMM,2021,high,v2_coverage_50pct,0.5,2
+293.pdf,Frontiers in Communication,FCOMM,2021,low,v2_coverage_50pct,0.5,2
+303.pdf,Frontiers in Communication,FCOMM,2021,low,v2_coverage_50pct,0.5,2
+316.pdf,Frontiers in Communication,FCOMM,2021,low,v2_coverage_50pct,0.5,2
+332.pdf,Frontiers in Communication,FCOMM,2021,low,v2_coverage_50pct,0.5,2
+342.pdf,Frontiers in Communication,FCOMM,2021,low,v2_coverage_50pct,0.5,2
+343.pdf,Frontiers in Communication,FCOMM,2021,low,v2_coverage_50pct,0.5,2
+353.pdf,Frontiers in Communication,FCOMM,2021,low,v2_coverage_50pct,0.5,2
+367.pdf,Frontiers in Communication,FCOMM,2021,low,v2_coverage_50pct,0.5,2
+395.pdf,Frontiers in Communication,FCOMM,2021,low,v2_coverage_50pct,0.5,2
+399.pdf,Frontiers in Communication,FCOMM,2021,low,v2_coverage_50pct,0.5,2
+414.pdf,Frontiers in Communication,FCOMM,2021,low,v2_coverage_50pct,0.5,2
+441.pdf,Frontiers in Communication,FCOMM,2021,low,v2_coverage_50pct,0.5,2
+449.pdf,Frontiers in Communication,FCOMM,2021,low,v2_coverage_50pct,0.5,2
+455.pdf,Frontiers in Communication,FCOMM,2021,low,v2_coverage_50pct,0.5,2
+460.pdf,Frontiers in Communication,FCOMM,2021,low,v2_coverage_50pct,0.5,2
+463.pdf,Frontiers in Communication,FCOMM,2021,low,v2_coverage_50pct,0.5,2
+516.pdf,Frontiers in Communication,FCOMM,2021,low,v2_coverage_50pct,0.5,2
+547.pdf,Frontiers in Communication,FCOMM,2021,low,v2_coverage_50pct,0.5,2
+562.pdf,Frontiers in Communication,FCOMM,2022,high,v2_coverage_50pct,0.5,2
+563.pdf,Frontiers in Communication,FCOMM,2022,high,v2_coverage_50pct,0.5,2
+643.pdf,Frontiers in Communication,FCOMM,2022,high,v2_coverage_50pct,0.5,2
+652.pdf,Frontiers in Communication,FCOMM,2022,high,v2_coverage_50pct,0.5,2
+658.pdf,Frontiers in Communication,FCOMM,2022,high,v2_coverage_50pct,0.5,2
+660.pdf,Frontiers in Communication,FCOMM,2022,high,v2_coverage_50pct,0.5,2
+673.pdf,Frontiers in Communication,FCOMM,2022,high,v2_coverage_50pct,0.5,2
+677.pdf,Frontiers in Communication,FCOMM,2022,high,v2_coverage_50pct,0.5,2
+682.pdf,Frontiers in Communication,FCOMM,2022,high,v2_coverage_50pct,0.5,2
+697.pdf,Frontiers in Communication,FCOMM,2022,high,v2_coverage_50pct,0.5,2
+700.pdf,Frontiers in Communication,FCOMM,2022,high,v2_coverage_50pct,0.5,2
+712.pdf,Frontiers in Communication,FCOMM,2022,high,v2_coverage_50pct,0.5,2
+756.pdf,Frontiers in Communication,FCOMM,2022,high,v2_coverage_50pct,0.5,2
+783.pdf,Frontiers in Communication,FCOMM,2022,high,v2_coverage_50pct,0.5,2
+802.pdf,Frontiers in Communication,FCOMM,2022,high,v2_coverage_50pct,0.5,2
+806.pdf,Frontiers in Communication,FCOMM,2022,high,v2_coverage_50pct,0.5,2
+822.pdf,Frontiers in Communication,FCOMM,2022,high,v2_coverage_50pct,0.5,2
+827.pdf,Frontiers in Communication,FCOMM,2022,high,v2_coverage_50pct,0.5,2
+576.pdf,Frontiers in Communication,FCOMM,2022,low,v2_coverage_50pct,0.5,2
+577.pdf,Frontiers in Communication,FCOMM,2022,low,v2_coverage_50pct,0.5,2
+592.pdf,Frontiers in Communication,FCOMM,2022,low,v2_coverage_50pct,0.5,2
+605.pdf,Frontiers in Communication,FCOMM,2022,low,v2_coverage_50pct,0.5,2
+614.pdf,Frontiers in Communication,FCOMM,2022,low,v2_coverage_50pct,0.5,2
+617.pdf,Frontiers in Communication,FCOMM,2022,low,v2_coverage_50pct,0.5,2
+627.pdf,Frontiers in Communication,FCOMM,2022,low,v2_coverage_50pct,0.5,2
+628.pdf,Frontiers in Communication,FCOMM,2022,low,v2_coverage_50pct,0.5,2
+630.pdf,Frontiers in Communication,FCOMM,2022,low,v2_coverage_50pct,0.5,2
+635.pdf,Frontiers in Communication,FCOMM,2022,low,v2_coverage_50pct,0.5,2
+646.pdf,Frontiers in Communication,FCOMM,2022,low,v2_coverage_50pct,0.5,2
+685.pdf,Frontiers in Communication,FCOMM,2022,low,v2_coverage_50pct,0.5,2
+705.pdf,Frontiers in Communication,FCOMM,2022,low,v2_coverage_50pct,0.5,2
+708.pdf,Frontiers in Communication,FCOMM,2022,low,v2_coverage_50pct,0.5,2
+719.pdf,Frontiers in Communication,FCOMM,2022,low,v2_coverage_50pct,0.5,2
+725.pdf,Frontiers in Communication,FCOMM,2022,low,v2_coverage_50pct,0.5,2
+747.pdf,Frontiers in Communication,FCOMM,2022,low,v2_coverage_50pct,0.5,2
+757.pdf,Frontiers in Communication,FCOMM,2022,low,v2_coverage_50pct,0.5,2
+849.pdf,Frontiers in Research Metrics and Analytics,RMA,2016,low,v2_coverage_50pct,0.5,2
+855.pdf,Frontiers in Research Metrics and Analytics,RMA,2017,low,v2_coverage_50pct,0.5,2
+878.pdf,Frontiers in Research Metrics and Analytics,RMA,2018,high,v2_coverage_50pct,0.5,2
+889.pdf,Frontiers in Research Metrics and Analytics,RMA,2018,high,v2_coverage_50pct,0.5,2
+865.pdf,Frontiers in Research Metrics and Analytics,RMA,2018,low,v2_coverage_50pct,0.5,2
+898.pdf,Frontiers in Research Metrics and Analytics,RMA,2018,low,v2_coverage_50pct,0.5,2
+899.pdf,Frontiers in Research Metrics and Analytics,RMA,2019,high,v2_coverage_50pct,0.5,2
+906.pdf,Frontiers in Research Metrics and Analytics,RMA,2020,high,v2_coverage_50pct,0.5,2
+908.pdf,Frontiers in Research Metrics and Analytics,RMA,2020,high,v2_coverage_50pct,0.5,2
+910.pdf,Frontiers in Research Metrics and Analytics,RMA,2020,low,v2_coverage_50pct,0.5,2
+912.pdf,Frontiers in Research Metrics and Analytics,RMA,2020,low,v2_coverage_50pct,0.5,2
+937.pdf,Frontiers in Research Metrics and Analytics,RMA,2021,high,v2_coverage_50pct,0.5,2
+938.pdf,Frontiers in Research Metrics and Analytics,RMA,2021,high,v2_coverage_50pct,0.5,2
+942.pdf,Frontiers in Research Metrics and Analytics,RMA,2021,high,v2_coverage_50pct,0.5,2
+987.pdf,Frontiers in Research Metrics and Analytics,RMA,2021,high,v2_coverage_50pct,0.5,2
+949.pdf,Frontiers in Research Metrics and Analytics,RMA,2021,low,v2_coverage_50pct,0.5,2
+958.pdf,Frontiers in Research Metrics and Analytics,RMA,2021,low,v2_coverage_50pct,0.5,2
+967.pdf,Frontiers in Research Metrics and Analytics,RMA,2021,low,v2_coverage_50pct,0.5,2
+972.pdf,Frontiers in Research Metrics and Analytics,RMA,2021,low,v2_coverage_50pct,0.5,2
+982.pdf,Frontiers in Research Metrics and Analytics,RMA,2021,low,v2_coverage_50pct,0.5,2
+1015.pdf,Frontiers in Research Metrics and Analytics,RMA,2022,high,v2_coverage_50pct,0.5,2
+1029.pdf,Frontiers in Research Metrics and Analytics,RMA,2022,high,v2_coverage_50pct,0.5,2
+1052.pdf,Frontiers in Research Metrics and Analytics,RMA,2022,high,v2_coverage_50pct,0.5,2
+1059.pdf,Frontiers in Research Metrics and Analytics,RMA,2022,high,v2_coverage_50pct,0.5,2
+1069.pdf,Frontiers in Research Metrics and Analytics,RMA,2022,high,v2_coverage_50pct,0.5,2
+1083.pdf,Frontiers in Research Metrics and Analytics,RMA,2022,high,v2_coverage_50pct,0.5,2
+1098.pdf,Frontiers in Research Metrics and Analytics,RMA,2022,high,v2_coverage_50pct,0.5,2
+1011.pdf,Frontiers in Research Metrics and Analytics,RMA,2022,low,v2_coverage_50pct,0.5,2
+1026.pdf,Frontiers in Research Metrics and Analytics,RMA,2022,low,v2_coverage_50pct,0.5,2
+1040.pdf,Frontiers in Research Metrics and Analytics,RMA,2022,low,v2_coverage_50pct,0.5,2
+1042.pdf,Frontiers in Research Metrics and Analytics,RMA,2022,low,v2_coverage_50pct,0.5,2
+1078.pdf,Frontiers in Research Metrics and Analytics,RMA,2022,low,v2_coverage_50pct,0.5,2
+1082.pdf,Frontiers in Research Metrics and Analytics,RMA,2022,low,v2_coverage_50pct,0.5,2
+1088.pdf,Frontiers in Research Metrics and Analytics,RMA,2022,low,v2_coverage_50pct,0.5,2
+1104.pdf,Iberoamerican Journal of Science Measurement and Communication,IJSMC,2020,high,v2_coverage_50pct,0.5,2
+1106.pdf,Iberoamerican Journal of Science Measurement and Communication,IJSMC,2021,high,v2_coverage_50pct,0.5,2
+1121.pdf,Iberoamerican Journal of Science Measurement and Communication,IJSMC,2022,high,v2_coverage_50pct,0.5,2
+1124.pdf,Iberoamerican Journal of Science Measurement and Communication,IJSMC,2022,low,v2_coverage_50pct,0.5,2
+1138.pdf,Journal of Informetrics,JOI,2008,low,v2_coverage_50pct,0.5,2
+1139.pdf,Journal of Informetrics,JOI,2008,low,v2_coverage_50pct,0.5,2
+1151.pdf,Journal of Informetrics,JOI,2009,low,v2_coverage_50pct,0.5,2
+1154.pdf,Journal of Informetrics,JOI,2009,low,v2_coverage_50pct,0.5,2
+1157.pdf,Journal of Informetrics,JOI,2009,low,v2_coverage_50pct,0.5,2
+1161.pdf,Journal of Informetrics,JOI,2010,high,v2_coverage_50pct,0.5,2
+1159.pdf,Journal of Informetrics,JOI,2010,low,v2_coverage_50pct,0.5,2
+1179.pdf,Journal of Informetrics,JOI,2011,high,v2_coverage_50pct,0.5,2
+1182.pdf,Journal of Informetrics,JOI,2011,high,v2_coverage_50pct,0.5,2
+1192.pdf,Journal of Informetrics,JOI,2012,high,v2_coverage_50pct,0.5,2
+1196.pdf,Journal of Informetrics,JOI,2012,high,v2_coverage_50pct,0.5,2
+1210.pdf,Journal of Informetrics,JOI,2012,high,v2_coverage_50pct,0.5,2
+1220.pdf,Journal of Informetrics,JOI,2013,high,v2_coverage_50pct,0.5,2
+1227.pdf,Journal of Informetrics,JOI,2013,high,v2_coverage_50pct,0.5,2
+1222.pdf,Journal of Informetrics,JOI,2013,low,v2_coverage_50pct,0.5,2
+1223.pdf,Journal of Informetrics,JOI,2013,low,v2_coverage_50pct,0.5,2
+1255.pdf,Journal of Informetrics,JOI,2014,high,v2_coverage_50pct,0.5,2
+1249.pdf,Journal of Informetrics,JOI,2014,low,v2_coverage_50pct,0.5,2
+1259.pdf,Journal of Informetrics,JOI,2014,low,v2_coverage_50pct,0.5,2
+1285.pdf,Journal of Informetrics,JOI,2015,high,v2_coverage_50pct,0.5,2
+1296.pdf,Journal of Informetrics,JOI,2015,high,v2_coverage_50pct,0.5,2
+1295.pdf,Journal of Informetrics,JOI,2015,low,v2_coverage_50pct,0.5,2
+1309.pdf,Journal of Informetrics,JOI,2016,high,v2_coverage_50pct,0.5,2
+1318.pdf,Journal of Informetrics,JOI,2016,high,v2_coverage_50pct,0.5,2
+1338.pdf,Journal of Informetrics,JOI,2016,high,v2_coverage_50pct,0.5,2
+1300.pdf,Journal of Informetrics,JOI,2016,low,v2_coverage_50pct,0.5,2
+1315.pdf,Journal of Informetrics,JOI,2016,low,v2_coverage_50pct,0.5,2
+1344.pdf,Journal of Informetrics,JOI,2016,low,v2_coverage_50pct,0.5,2
+1359.pdf,Journal of Informetrics,JOI,2017,high,v2_coverage_50pct,0.5,2
+1374.pdf,Journal of Informetrics,JOI,2017,high,v2_coverage_50pct,0.5,2
+1376.pdf,Journal of Informetrics,JOI,2017,high,v2_coverage_50pct,0.5,2
+1357.pdf,Journal of Informetrics,JOI,2017,low,v2_coverage_50pct,0.5,2
+1361.pdf,Journal of Informetrics,JOI,2017,low,v2_coverage_50pct,0.5,2
+1381.pdf,Journal of Informetrics,JOI,2017,low,v2_coverage_50pct,0.5,2
+1412.pdf,Journal of Informetrics,JOI,2018,high,v2_coverage_50pct,0.5,2
+1420.pdf,Journal of Informetrics,JOI,2018,high,v2_coverage_50pct,0.5,2
+1430.pdf,Journal of Informetrics,JOI,2018,high,v2_coverage_50pct,0.5,2
+1443.pdf,Journal of Informetrics,JOI,2018,high,v2_coverage_50pct,0.5,2
+1409.pdf,Journal of Informetrics,JOI,2018,low,v2_coverage_50pct,0.5,2
+1427.pdf,Journal of Informetrics,JOI,2018,low,v2_coverage_50pct,0.5,2
+1433.pdf,Journal of Informetrics,JOI,2018,low,v2_coverage_50pct,0.5,2
+1456.pdf,Journal of Informetrics,JOI,2019,high,v2_coverage_50pct,0.5,2
+1461.pdf,Journal of Informetrics,JOI,2019,high,v2_coverage_50pct,0.5,2
+1473.pdf,Journal of Informetrics,JOI,2019,high,v2_coverage_50pct,0.5,2
+1472.pdf,Journal of Informetrics,JOI,2019,low,v2_coverage_50pct,0.5,2
+1486.pdf,Journal of Informetrics,JOI,2019,low,v2_coverage_50pct,0.5,2
+1489.pdf,Journal of Informetrics,JOI,2019,low,v2_coverage_50pct,0.5,2
+1503.pdf,Journal of Informetrics,JOI,2020,high,v2_coverage_50pct,0.5,2
+1518.pdf,Journal of Informetrics,JOI,2020,high,v2_coverage_50pct,0.5,2
+1494.pdf,Journal of Informetrics,JOI,2020,low,v2_coverage_50pct,0.5,2
+1516.pdf,Journal of Informetrics,JOI,2020,low,v2_coverage_50pct,0.5,2
+1532.pdf,Journal of Informetrics,JOI,2021,high,v2_coverage_50pct,0.5,2
+1543.pdf,Journal of Informetrics,JOI,2021,high,v2_coverage_50pct,0.5,2
+1544.pdf,Journal of Informetrics,JOI,2021,high,v2_coverage_50pct,0.5,2
+1530.pdf,Journal of Informetrics,JOI,2021,low,v2_coverage_50pct,0.5,2
+1539.pdf,Journal of Informetrics,JOI,2021,low,v2_coverage_50pct,0.5,2
+1555.pdf,Journal of Informetrics,JOI,2022,high,v2_coverage_50pct,0.5,2
+1571.pdf,Journal of Informetrics,JOI,2022,high,v2_coverage_50pct,0.5,2
+1562.pdf,Journal of Informetrics,JOI,2022,low,v2_coverage_50pct,0.5,2
+1567.pdf,Journal of Informetrics,JOI,2022,low,v2_coverage_50pct,0.5,2
+1587.pdf,Journal of the Association for Information Science and Technology,JASIST,2013,high,v2_coverage_50pct,0.5,2
+1585.pdf,Journal of the Association for Information Science and Technology,JASIST,2013,low,v2_coverage_50pct,0.5,2
+1613.pdf,Journal of the Association for Information Science and Technology,JASIST,2014,high,v2_coverage_50pct,0.5,2
+1614.pdf,Journal of the Association for Information Science and Technology,JASIST,2014,high,v2_coverage_50pct,0.5,2
+1641.pdf,Journal of the Association for Information Science and Technology,JASIST,2014,high,v2_coverage_50pct,0.5,2
+1651.pdf,Journal of the Association for Information Science and Technology,JASIST,2014,high,v2_coverage_50pct,0.5,2
+1601.pdf,Journal of the Association for Information Science and Technology,JASIST,2014,low,v2_coverage_50pct,0.5,2
+1606.pdf,Journal of the Association for Information Science and Technology,JASIST,2014,low,v2_coverage_50pct,0.5,2
+1619.pdf,Journal of the Association for Information Science and Technology,JASIST,2014,low,v2_coverage_50pct,0.5,2
+1624.pdf,Journal of the Association for Information Science and Technology,JASIST,2014,low,v2_coverage_50pct,0.5,2
+1669.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,high,v2_coverage_50pct,0.5,2
+1683.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,high,v2_coverage_50pct,0.5,2
+1695.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,high,v2_coverage_50pct,0.5,2
+1701.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,high,v2_coverage_50pct,0.5,2
+1704.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,high,v2_coverage_50pct,0.5,2
+1706.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,high,v2_coverage_50pct,0.5,2
+1757.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,high,v2_coverage_50pct,0.5,2
+1658.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,low,v2_coverage_50pct,0.5,2
+1662.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,low,v2_coverage_50pct,0.5,2
+1667.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,low,v2_coverage_50pct,0.5,2
+1685.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,low,v2_coverage_50pct,0.5,2
+1719.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,low,v2_coverage_50pct,0.5,2
+1730.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,low,v2_coverage_50pct,0.5,2
+1755.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,low,v2_coverage_50pct,0.5,2
+1760.pdf,Journal of the Association for Information Science and Technology,JASIST,2016,high,v2_coverage_50pct,0.5,2
+1767.pdf,Journal of the Association for Information Science and Technology,JASIST,2016,high,v2_coverage_50pct,0.5,2
+1769.pdf,Journal of the Association for Information Science and Technology,JASIST,2016,high,v2_coverage_50pct,0.5,2
+1778.pdf,Journal of the Association for Information Science and Technology,JASIST,2016,high,v2_coverage_50pct,0.5,2
+1794.pdf,Journal of the Association for Information Science and Technology,JASIST,2016,high,v2_coverage_50pct,0.5,2
+1761.pdf,Journal of the Association for Information Science and Technology,JASIST,2016,low,v2_coverage_50pct,0.5,2
+1770.pdf,Journal of the Association for Information Science and Technology,JASIST,2016,low,v2_coverage_50pct,0.5,2
+1796.pdf,Journal of the Association for Information Science and Technology,JASIST,2016,low,v2_coverage_50pct,0.5,2
+1799.pdf,Journal of the Association for Information Science and Technology,JASIST,2016,low,v2_coverage_50pct,0.5,2
+1804.pdf,Journal of the Association for Information Science and Technology,JASIST,2017,high,v2_coverage_50pct,0.5,2
+1814.pdf,Journal of the Association for Information Science and Technology,JASIST,2017,high,v2_coverage_50pct,0.5,2
+1839.pdf,Journal of the Association for Information Science and Technology,JASIST,2017,high,v2_coverage_50pct,0.5,2
+1812.pdf,Journal of the Association for Information Science and Technology,JASIST,2017,low,v2_coverage_50pct,0.5,2
+1821.pdf,Journal of the Association for Information Science and Technology,JASIST,2017,low,v2_coverage_50pct,0.5,2
+1826.pdf,Journal of the Association for Information Science and Technology,JASIST,2017,low,v2_coverage_50pct,0.5,2
+1858.pdf,Journal of the Association for Information Science and Technology,JASIST,2018,high,v2_coverage_50pct,0.5,2
+1863.pdf,Journal of the Association for Information Science and Technology,JASIST,2018,high,v2_coverage_50pct,0.5,2
+1855.pdf,Journal of the Association for Information Science and Technology,JASIST,2018,low,v2_coverage_50pct,0.5,2
+1870.pdf,Journal of the Association for Information Science and Technology,JASIST,2018,low,v2_coverage_50pct,0.5,2
+1896.pdf,Journal of the Association for Information Science and Technology,JASIST,2019,high,v2_coverage_50pct,0.5,2
+1921.pdf,Journal of the Association for Information Science and Technology,JASIST,2019,high,v2_coverage_50pct,0.5,2
+1934.pdf,Journal of the Association for Information Science and Technology,JASIST,2019,high,v2_coverage_50pct,0.5,2
+1937.pdf,Journal of the Association for Information Science and Technology,JASIST,2019,high,v2_coverage_50pct,0.5,2
+1939.pdf,Journal of the Association for Information Science and Technology,JASIST,2019,high,v2_coverage_50pct,0.5,2
+1908.pdf,Journal of the Association for Information Science and Technology,JASIST,2019,low,v2_coverage_50pct,0.5,2
+1910.pdf,Journal of the Association for Information Science and Technology,JASIST,2019,low,v2_coverage_50pct,0.5,2
+1928.pdf,Journal of the Association for Information Science and Technology,JASIST,2019,low,v2_coverage_50pct,0.5,2
+1938.pdf,Journal of the Association for Information Science and Technology,JASIST,2019,low,v2_coverage_50pct,0.5,2
+1946.pdf,Journal of the Association for Information Science and Technology,JASIST,2019,low,v2_coverage_50pct,0.5,2
+1959.pdf,Journal of the Association for Information Science and Technology,JASIST,2020,high,v2_coverage_50pct,0.5,2
+1978.pdf,Journal of the Association for Information Science and Technology,JASIST,2020,high,v2_coverage_50pct,0.5,2
+1961.pdf,Journal of the Association for Information Science and Technology,JASIST,2020,low,v2_coverage_50pct,0.5,2
+1976.pdf,Journal of the Association for Information Science and Technology,JASIST,2020,low,v2_coverage_50pct,0.5,2
+2006.pdf,Journal of the Association for Information Science and Technology,JASIST,2021,high,v2_coverage_50pct,0.5,2
+2040.pdf,Journal of the Association for Information Science and Technology,JASIST,2021,high,v2_coverage_50pct,0.5,2
+2053.pdf,Journal of the Association for Information Science and Technology,JASIST,2021,high,v2_coverage_50pct,0.5,2
+2059.pdf,Journal of the Association for Information Science and Technology,JASIST,2021,high,v2_coverage_50pct,0.5,2
+1996.pdf,Journal of the Association for Information Science and Technology,JASIST,2021,low,v2_coverage_50pct,0.5,2
+2011.pdf,Journal of the Association for Information Science and Technology,JASIST,2021,low,v2_coverage_50pct,0.5,2
+2013.pdf,Journal of the Association for Information Science and Technology,JASIST,2021,low,v2_coverage_50pct,0.5,2
+2041.pdf,Journal of the Association for Information Science and Technology,JASIST,2021,low,v2_coverage_50pct,0.5,2
+2084.pdf,Journal of the Association for Information Science and Technology,JASIST,2022,high,v2_coverage_50pct,0.5,2
+2098.pdf,Journal of the Association for Information Science and Technology,JASIST,2022,high,v2_coverage_50pct,0.5,2
+2105.pdf,Journal of the Association for Information Science and Technology,JASIST,2022,high,v2_coverage_50pct,0.5,2
+2075.pdf,Journal of the Association for Information Science and Technology,JASIST,2022,low,v2_coverage_50pct,0.5,2
+2081.pdf,Journal of the Association for Information Science and Technology,JASIST,2022,low,v2_coverage_50pct,0.5,2
+2090.pdf,Journal of the Association for Information Science and Technology,JASIST,2022,low,v2_coverage_50pct,0.5,2
+2107.pdf,Journal of the Association for Information Science and Technology,JASIST,2022,low,v2_coverage_50pct,0.5,2
+2125.pdf,Quantitative Science Studies,QSS,2019,high,v2_coverage_50pct,0.5,2
+2113.pdf,Quantitative Science Studies,QSS,2019,low,v2_coverage_50pct,0.5,2
+2134.pdf,Quantitative Science Studies,QSS,2020,high,v2_coverage_50pct,0.5,2
+2157.pdf,Quantitative Science Studies,QSS,2020,high,v2_coverage_50pct,0.5,2
+2173.pdf,Quantitative Science Studies,QSS,2020,high,v2_coverage_50pct,0.5,2
+2180.pdf,Quantitative Science Studies,QSS,2020,high,v2_coverage_50pct,0.5,2
+2199.pdf,Quantitative Science Studies,QSS,2020,high,v2_coverage_50pct,0.5,2
+2130.pdf,Quantitative Science Studies,QSS,2020,low,v2_coverage_50pct,0.5,2
+2135.pdf,Quantitative Science Studies,QSS,2020,low,v2_coverage_50pct,0.5,2
+2136.pdf,Quantitative Science Studies,QSS,2020,low,v2_coverage_50pct,0.5,2
+2156.pdf,Quantitative Science Studies,QSS,2020,low,v2_coverage_50pct,0.5,2
+2164.pdf,Quantitative Science Studies,QSS,2020,low,v2_coverage_50pct,0.5,2
+2190.pdf,Quantitative Science Studies,QSS,2020,low,v2_coverage_50pct,0.5,2
+2221.pdf,Quantitative Science Studies,QSS,2021,high,v2_coverage_50pct,0.5,2
+2244.pdf,Quantitative Science Studies,QSS,2021,high,v2_coverage_50pct,0.5,2
+2256.pdf,Quantitative Science Studies,QSS,2021,high,v2_coverage_50pct,0.5,2
+2259.pdf,Quantitative Science Studies,QSS,2021,high,v2_coverage_50pct,0.5,2
+2204.pdf,Quantitative Science Studies,QSS,2021,low,v2_coverage_50pct,0.5,2
+2222.pdf,Quantitative Science Studies,QSS,2021,low,v2_coverage_50pct,0.5,2
+2231.pdf,Quantitative Science Studies,QSS,2021,low,v2_coverage_50pct,0.5,2
+2246.pdf,Quantitative Science Studies,QSS,2021,low,v2_coverage_50pct,0.5,2
+2290.pdf,Quantitative Science Studies,QSS,2022,high,v2_coverage_50pct,0.5,2
+2291.pdf,Quantitative Science Studies,QSS,2022,high,v2_coverage_50pct,0.5,2
+2306.pdf,Quantitative Science Studies,QSS,2022,high,v2_coverage_50pct,0.5,2
+2319.pdf,Quantitative Science Studies,QSS,2022,high,v2_coverage_50pct,0.5,2
+2331.pdf,Quantitative Science Studies,QSS,2022,high,v2_coverage_50pct,0.5,2
+2292.pdf,Quantitative Science Studies,QSS,2022,low,v2_coverage_50pct,0.5,2
+2307.pdf,Quantitative Science Studies,QSS,2022,low,v2_coverage_50pct,0.5,2
+2314.pdf,Quantitative Science Studies,QSS,2022,low,v2_coverage_50pct,0.5,2
+2320.pdf,Quantitative Science Studies,QSS,2022,low,v2_coverage_50pct,0.5,2
+2403.pdf,Scientometrics,SCIM,2010,high,v2_coverage_50pct,0.5,2
+2414.pdf,Scientometrics,SCIM,2010,high,v2_coverage_50pct,0.5,2
+2434.pdf,Scientometrics,SCIM,2010,high,v2_coverage_50pct,0.5,2
+2412.pdf,Scientometrics,SCIM,2010,low,v2_coverage_50pct,0.5,2
+2422.pdf,Scientometrics,SCIM,2010,low,v2_coverage_50pct,0.5,2
+2426.pdf,Scientometrics,SCIM,2010,low,v2_coverage_50pct,0.5,2
+2444.pdf,Scientometrics,SCIM,2010,low,v2_coverage_50pct,0.5,2
+2464.pdf,Scientometrics,SCIM,2011,high,v2_coverage_50pct,0.5,2
+2472.pdf,Scientometrics,SCIM,2011,high,v2_coverage_50pct,0.5,2
+2495.pdf,Scientometrics,SCIM,2011,high,v2_coverage_50pct,0.5,2
+2468.pdf,Scientometrics,SCIM,2011,low,v2_coverage_50pct,0.5,2
+2490.pdf,Scientometrics,SCIM,2011,low,v2_coverage_50pct,0.5,2
+2492.pdf,Scientometrics,SCIM,2011,low,v2_coverage_50pct,0.5,2
+2518.pdf,Scientometrics,SCIM,2012,high,v2_coverage_50pct,0.5,2
+2523.pdf,Scientometrics,SCIM,2012,high,v2_coverage_50pct,0.5,2
+2547.pdf,Scientometrics,SCIM,2012,high,v2_coverage_50pct,0.5,2
+2555.pdf,Scientometrics,SCIM,2012,high,v2_coverage_50pct,0.5,2
+2514.pdf,Scientometrics,SCIM,2012,low,v2_coverage_50pct,0.5,2
+2543.pdf,Scientometrics,SCIM,2012,low,v2_coverage_50pct,0.5,2
+2546.pdf,Scientometrics,SCIM,2012,low,v2_coverage_50pct,0.5,2
+2551.pdf,Scientometrics,SCIM,2012,low,v2_coverage_50pct,0.5,2
+2554.pdf,Scientometrics,SCIM,2012,low,v2_coverage_50pct,0.5,2
+2569.pdf,Scientometrics,SCIM,2013,high,v2_coverage_50pct,0.5,2
+2575.pdf,Scientometrics,SCIM,2013,high,v2_coverage_50pct,0.5,2
+2596.pdf,Scientometrics,SCIM,2013,high,v2_coverage_50pct,0.5,2
+2614.pdf,Scientometrics,SCIM,2013,high,v2_coverage_50pct,0.5,2
+2564.pdf,Scientometrics,SCIM,2013,low,v2_coverage_50pct,0.5,2
+2589.pdf,Scientometrics,SCIM,2013,low,v2_coverage_50pct,0.5,2
+2599.pdf,Scientometrics,SCIM,2013,low,v2_coverage_50pct,0.5,2
+2618.pdf,Scientometrics,SCIM,2013,low,v2_coverage_50pct,0.5,2
+2647.pdf,Scientometrics,SCIM,2014,high,v2_coverage_50pct,0.5,2
+2650.pdf,Scientometrics,SCIM,2014,high,v2_coverage_50pct,0.5,2
+2672.pdf,Scientometrics,SCIM,2014,high,v2_coverage_50pct,0.5,2
+2679.pdf,Scientometrics,SCIM,2014,high,v2_coverage_50pct,0.5,2
+2635.pdf,Scientometrics,SCIM,2014,low,v2_coverage_50pct,0.5,2
+2637.pdf,Scientometrics,SCIM,2014,low,v2_coverage_50pct,0.5,2
+2656.pdf,Scientometrics,SCIM,2014,low,v2_coverage_50pct,0.5,2
+2682.pdf,Scientometrics,SCIM,2014,low,v2_coverage_50pct,0.5,2
+2706.pdf,Scientometrics,SCIM,2015,high,v2_coverage_50pct,0.5,2
+2710.pdf,Scientometrics,SCIM,2015,high,v2_coverage_50pct,0.5,2
+2728.pdf,Scientometrics,SCIM,2015,high,v2_coverage_50pct,0.5,2
+2740.pdf,Scientometrics,SCIM,2015,high,v2_coverage_50pct,0.5,2
+2692.pdf,Scientometrics,SCIM,2015,low,v2_coverage_50pct,0.5,2
+2701.pdf,Scientometrics,SCIM,2015,low,v2_coverage_50pct,0.5,2
+2702.pdf,Scientometrics,SCIM,2015,low,v2_coverage_50pct,0.5,2
+2703.pdf,Scientometrics,SCIM,2015,low,v2_coverage_50pct,0.5,2
+2747.pdf,Scientometrics,SCIM,2016,high,v2_coverage_50pct,0.5,2
+2798.pdf,Scientometrics,SCIM,2016,high,v2_coverage_50pct,0.5,2
+2801.pdf,Scientometrics,SCIM,2016,high,v2_coverage_50pct,0.5,2
+2805.pdf,Scientometrics,SCIM,2016,high,v2_coverage_50pct,0.5,2
+2807.pdf,Scientometrics,SCIM,2016,high,v2_coverage_50pct,0.5,2
+2816.pdf,Scientometrics,SCIM,2016,high,v2_coverage_50pct,0.5,2
+2824.pdf,Scientometrics,SCIM,2016,high,v2_coverage_50pct,0.5,2
+2830.pdf,Scientometrics,SCIM,2016,high,v2_coverage_50pct,0.5,2
+2860.pdf,Scientometrics,SCIM,2016,high,v2_coverage_50pct,0.5,2
+2862.pdf,Scientometrics,SCIM,2016,high,v2_coverage_50pct,0.5,2
+2754.pdf,Scientometrics,SCIM,2016,low,v2_coverage_50pct,0.5,2
+2756.pdf,Scientometrics,SCIM,2016,low,v2_coverage_50pct,0.5,2
+2759.pdf,Scientometrics,SCIM,2016,low,v2_coverage_50pct,0.5,2
+2785.pdf,Scientometrics,SCIM,2016,low,v2_coverage_50pct,0.5,2
+2808.pdf,Scientometrics,SCIM,2016,low,v2_coverage_50pct,0.5,2
+2812.pdf,Scientometrics,SCIM,2016,low,v2_coverage_50pct,0.5,2
+2825.pdf,Scientometrics,SCIM,2016,low,v2_coverage_50pct,0.5,2
+2829.pdf,Scientometrics,SCIM,2016,low,v2_coverage_50pct,0.5,2
+2881.pdf,Scientometrics,SCIM,2017,high,v2_coverage_50pct,0.5,2
+2887.pdf,Scientometrics,SCIM,2017,high,v2_coverage_50pct,0.5,2
+2890.pdf,Scientometrics,SCIM,2017,high,v2_coverage_50pct,0.5,2
+2912.pdf,Scientometrics,SCIM,2017,high,v2_coverage_50pct,0.5,2
+2938.pdf,Scientometrics,SCIM,2017,high,v2_coverage_50pct,0.5,2
+2949.pdf,Scientometrics,SCIM,2017,high,v2_coverage_50pct,0.5,2
+2954.pdf,Scientometrics,SCIM,2017,high,v2_coverage_50pct,0.5,2
+2962.pdf,Scientometrics,SCIM,2017,high,v2_coverage_50pct,0.5,2
+2985.pdf,Scientometrics,SCIM,2017,high,v2_coverage_50pct,0.5,2
+2904.pdf,Scientometrics,SCIM,2017,low,v2_coverage_50pct,0.5,2
+2913.pdf,Scientometrics,SCIM,2017,low,v2_coverage_50pct,0.5,2
+2924.pdf,Scientometrics,SCIM,2017,low,v2_coverage_50pct,0.5,2
+2931.pdf,Scientometrics,SCIM,2017,low,v2_coverage_50pct,0.5,2
+2951.pdf,Scientometrics,SCIM,2017,low,v2_coverage_50pct,0.5,2
+2959.pdf,Scientometrics,SCIM,2017,low,v2_coverage_50pct,0.5,2
+2986.pdf,Scientometrics,SCIM,2017,low,v2_coverage_50pct,0.5,2
+2989.pdf,Scientometrics,SCIM,2017,low,v2_coverage_50pct,0.5,2
+2995.pdf,Scientometrics,SCIM,2018,high,v2_coverage_50pct,0.5,2
+3005.pdf,Scientometrics,SCIM,2018,high,v2_coverage_50pct,0.5,2
+3031.pdf,Scientometrics,SCIM,2018,high,v2_coverage_50pct,0.5,2
+3051.pdf,Scientometrics,SCIM,2018,high,v2_coverage_50pct,0.5,2
+3053.pdf,Scientometrics,SCIM,2018,high,v2_coverage_50pct,0.5,2
+3066.pdf,Scientometrics,SCIM,2018,high,v2_coverage_50pct,0.5,2
+3088.pdf,Scientometrics,SCIM,2018,high,v2_coverage_50pct,0.5,2
+2994.pdf,Scientometrics,SCIM,2018,low,v2_coverage_50pct,0.5,2
+2996.pdf,Scientometrics,SCIM,2018,low,v2_coverage_50pct,0.5,2
+3000.pdf,Scientometrics,SCIM,2018,low,v2_coverage_50pct,0.5,2
+3009.pdf,Scientometrics,SCIM,2018,low,v2_coverage_50pct,0.5,2
+3027.pdf,Scientometrics,SCIM,2018,low,v2_coverage_50pct,0.5,2
+3043.pdf,Scientometrics,SCIM,2018,low,v2_coverage_50pct,0.5,2
+3098.pdf,Scientometrics,SCIM,2019,high,v2_coverage_50pct,0.5,2
+3112.pdf,Scientometrics,SCIM,2019,high,v2_coverage_50pct,0.5,2
+3114.pdf,Scientometrics,SCIM,2019,high,v2_coverage_50pct,0.5,2
+3117.pdf,Scientometrics,SCIM,2019,high,v2_coverage_50pct,0.5,2
+3136.pdf,Scientometrics,SCIM,2019,high,v2_coverage_50pct,0.5,2
+3154.pdf,Scientometrics,SCIM,2019,high,v2_coverage_50pct,0.5,2
+3162.pdf,Scientometrics,SCIM,2019,high,v2_coverage_50pct,0.5,2
+3110.pdf,Scientometrics,SCIM,2019,low,v2_coverage_50pct,0.5,2
+3116.pdf,Scientometrics,SCIM,2019,low,v2_coverage_50pct,0.5,2
+3131.pdf,Scientometrics,SCIM,2019,low,v2_coverage_50pct,0.5,2
+3132.pdf,Scientometrics,SCIM,2019,low,v2_coverage_50pct,0.5,2
+3143.pdf,Scientometrics,SCIM,2019,low,v2_coverage_50pct,0.5,2
+3160.pdf,Scientometrics,SCIM,2019,low,v2_coverage_50pct,0.5,2
+3167.pdf,Scientometrics,SCIM,2019,low,v2_coverage_50pct,0.5,2
+3207.pdf,Scientometrics,SCIM,2020,high,v2_coverage_50pct,0.5,2
+3271.pdf,Scientometrics,SCIM,2020,high,v2_coverage_50pct,0.5,2
+3275.pdf,Scientometrics,SCIM,2020,high,v2_coverage_50pct,0.5,2
+3278.pdf,Scientometrics,SCIM,2020,high,v2_coverage_50pct,0.5,2
+3296.pdf,Scientometrics,SCIM,2020,high,v2_coverage_50pct,0.5,2
+3306.pdf,Scientometrics,SCIM,2020,high,v2_coverage_50pct,0.5,2
+3318.pdf,Scientometrics,SCIM,2020,high,v2_coverage_50pct,0.5,2
+3326.pdf,Scientometrics,SCIM,2020,high,v2_coverage_50pct,0.5,2
+3328.pdf,Scientometrics,SCIM,2020,high,v2_coverage_50pct,0.5,2
+3350.pdf,Scientometrics,SCIM,2020,high,v2_coverage_50pct,0.5,2
+3356.pdf,Scientometrics,SCIM,2020,high,v2_coverage_50pct,0.5,2
+3358.pdf,Scientometrics,SCIM,2020,high,v2_coverage_50pct,0.5,2
+3373.pdf,Scientometrics,SCIM,2020,high,v2_coverage_50pct,0.5,2
+3204.pdf,Scientometrics,SCIM,2020,low,v2_coverage_50pct,0.5,2
+3206.pdf,Scientometrics,SCIM,2020,low,v2_coverage_50pct,0.5,2
+3208.pdf,Scientometrics,SCIM,2020,low,v2_coverage_50pct,0.5,2
+3211.pdf,Scientometrics,SCIM,2020,low,v2_coverage_50pct,0.5,2
+3286.pdf,Scientometrics,SCIM,2020,low,v2_coverage_50pct,0.5,2
+3307.pdf,Scientometrics,SCIM,2020,low,v2_coverage_50pct,0.5,2
+3313.pdf,Scientometrics,SCIM,2020,low,v2_coverage_50pct,0.5,2
+3331.pdf,Scientometrics,SCIM,2020,low,v2_coverage_50pct,0.5,2
+3332.pdf,Scientometrics,SCIM,2020,low,v2_coverage_50pct,0.5,2
+3336.pdf,Scientometrics,SCIM,2020,low,v2_coverage_50pct,0.5,2
+3349.pdf,Scientometrics,SCIM,2020,low,v2_coverage_50pct,0.5,2
+3369.pdf,Scientometrics,SCIM,2020,low,v2_coverage_50pct,0.5,2
+3414.pdf,Scientometrics,SCIM,2021,high,v2_coverage_50pct,0.5,2
+3442.pdf,Scientometrics,SCIM,2021,high,v2_coverage_50pct,0.5,2
+3463.pdf,Scientometrics,SCIM,2021,high,v2_coverage_50pct,0.5,2
+3494.pdf,Scientometrics,SCIM,2021,high,v2_coverage_50pct,0.5,2
+3500.pdf,Scientometrics,SCIM,2021,high,v2_coverage_50pct,0.5,2
+3513.pdf,Scientometrics,SCIM,2021,high,v2_coverage_50pct,0.5,2
+3514.pdf,Scientometrics,SCIM,2021,high,v2_coverage_50pct,0.5,2
+3519.pdf,Scientometrics,SCIM,2021,high,v2_coverage_50pct,0.5,2
+3524.pdf,Scientometrics,SCIM,2021,high,v2_coverage_50pct,0.5,2
+3526.pdf,Scientometrics,SCIM,2021,high,v2_coverage_50pct,0.5,2
+3540.pdf,Scientometrics,SCIM,2021,high,v2_coverage_50pct,0.5,2
+3395.pdf,Scientometrics,SCIM,2021,low,v2_coverage_50pct,0.5,2
+3430.pdf,Scientometrics,SCIM,2021,low,v2_coverage_50pct,0.5,2
+3464.pdf,Scientometrics,SCIM,2021,low,v2_coverage_50pct,0.5,2
+3473.pdf,Scientometrics,SCIM,2021,low,v2_coverage_50pct,0.5,2
+3474.pdf,Scientometrics,SCIM,2021,low,v2_coverage_50pct,0.5,2
+3482.pdf,Scientometrics,SCIM,2021,low,v2_coverage_50pct,0.5,2
+3486.pdf,Scientometrics,SCIM,2021,low,v2_coverage_50pct,0.5,2
+3509.pdf,Scientometrics,SCIM,2021,low,v2_coverage_50pct,0.5,2
+3529.pdf,Scientometrics,SCIM,2021,low,v2_coverage_50pct,0.5,2
+3532.pdf,Scientometrics,SCIM,2021,low,v2_coverage_50pct,0.5,2
+3555.pdf,Scientometrics,SCIM,2021,low,v2_coverage_50pct,0.5,2
+3565.pdf,Scientometrics,SCIM,2022,high,v2_coverage_50pct,0.5,2
+3571.pdf,Scientometrics,SCIM,2022,high,v2_coverage_50pct,0.5,2
+3612.pdf,Scientometrics,SCIM,2022,high,v2_coverage_50pct,0.5,2
+3640.pdf,Scientometrics,SCIM,2022,high,v2_coverage_50pct,0.5,2
+3650.pdf,Scientometrics,SCIM,2022,high,v2_coverage_50pct,0.5,2
+3658.pdf,Scientometrics,SCIM,2022,high,v2_coverage_50pct,0.5,2
+3675.pdf,Scientometrics,SCIM,2022,high,v2_coverage_50pct,0.5,2
+3682.pdf,Scientometrics,SCIM,2022,high,v2_coverage_50pct,0.5,2
+3698.pdf,Scientometrics,SCIM,2022,high,v2_coverage_50pct,0.5,2
+3710.pdf,Scientometrics,SCIM,2022,high,v2_coverage_50pct,0.5,2
+3716.pdf,Scientometrics,SCIM,2022,high,v2_coverage_50pct,0.5,2
+3723.pdf,Scientometrics,SCIM,2022,high,v2_coverage_50pct,0.5,2
+3559.pdf,Scientometrics,SCIM,2022,low,v2_coverage_50pct,0.5,2
+3563.pdf,Scientometrics,SCIM,2022,low,v2_coverage_50pct,0.5,2
+3568.pdf,Scientometrics,SCIM,2022,low,v2_coverage_50pct,0.5,2
+3586.pdf,Scientometrics,SCIM,2022,low,v2_coverage_50pct,0.5,2
+3594.pdf,Scientometrics,SCIM,2022,low,v2_coverage_50pct,0.5,2
+3618.pdf,Scientometrics,SCIM,2022,low,v2_coverage_50pct,0.5,2
+3636.pdf,Scientometrics,SCIM,2022,low,v2_coverage_50pct,0.5,2
+3681.pdf,Scientometrics,SCIM,2022,low,v2_coverage_50pct,0.5,2
+3687.pdf,Scientometrics,SCIM,2022,low,v2_coverage_50pct,0.5,2
+3701.pdf,Scientometrics,SCIM,2022,low,v2_coverage_50pct,0.5,2
+3704.pdf,Scientometrics,SCIM,2022,low,v2_coverage_50pct,0.5,2
+3707.pdf,Scientometrics,SCIM,2022,low,v2_coverage_50pct,0.5,2
+2.pdf,Frontiers in Communication,FCOMM,2016,high,v3_coverage_70pct,0.7,3
+1.pdf,Frontiers in Communication,FCOMM,2016,low,v3_coverage_70pct,0.7,3
+30.pdf,Frontiers in Communication,FCOMM,2017,high,v3_coverage_70pct,0.7,3
+31.pdf,Frontiers in Communication,FCOMM,2017,high,v3_coverage_70pct,0.7,3
+16.pdf,Frontiers in Communication,FCOMM,2017,low,v3_coverage_70pct,0.7,3
+29.pdf,Frontiers in Communication,FCOMM,2017,low,v3_coverage_70pct,0.7,3
+45.pdf,Frontiers in Communication,FCOMM,2018,high,v3_coverage_70pct,0.7,3
+53.pdf,Frontiers in Communication,FCOMM,2018,high,v3_coverage_70pct,0.7,3
+54.pdf,Frontiers in Communication,FCOMM,2018,high,v3_coverage_70pct,0.7,3
+79.pdf,Frontiers in Communication,FCOMM,2018,high,v3_coverage_70pct,0.7,3
+65.pdf,Frontiers in Communication,FCOMM,2018,low,v3_coverage_70pct,0.7,3
+75.pdf,Frontiers in Communication,FCOMM,2018,low,v3_coverage_70pct,0.7,3
+83.pdf,Frontiers in Communication,FCOMM,2018,low,v3_coverage_70pct,0.7,3
+88.pdf,Frontiers in Communication,FCOMM,2018,low,v3_coverage_70pct,0.7,3
+121.pdf,Frontiers in Communication,FCOMM,2019,high,v3_coverage_70pct,0.7,3
+125.pdf,Frontiers in Communication,FCOMM,2019,high,v3_coverage_70pct,0.7,3
+127.pdf,Frontiers in Communication,FCOMM,2019,high,v3_coverage_70pct,0.7,3
+143.pdf,Frontiers in Communication,FCOMM,2019,high,v3_coverage_70pct,0.7,3
+162.pdf,Frontiers in Communication,FCOMM,2019,high,v3_coverage_70pct,0.7,3
+99.pdf,Frontiers in Communication,FCOMM,2019,high,v3_coverage_70pct,0.7,3
+111.pdf,Frontiers in Communication,FCOMM,2019,low,v3_coverage_70pct,0.7,3
+142.pdf,Frontiers in Communication,FCOMM,2019,low,v3_coverage_70pct,0.7,3
+147.pdf,Frontiers in Communication,FCOMM,2019,low,v3_coverage_70pct,0.7,3
+153.pdf,Frontiers in Communication,FCOMM,2019,low,v3_coverage_70pct,0.7,3
+170.pdf,Frontiers in Communication,FCOMM,2019,low,v3_coverage_70pct,0.7,3
+187.pdf,Frontiers in Communication,FCOMM,2020,high,v3_coverage_70pct,0.7,3
+188.pdf,Frontiers in Communication,FCOMM,2020,high,v3_coverage_70pct,0.7,3
+210.pdf,Frontiers in Communication,FCOMM,2020,high,v3_coverage_70pct,0.7,3
+229.pdf,Frontiers in Communication,FCOMM,2020,high,v3_coverage_70pct,0.7,3
+249.pdf,Frontiers in Communication,FCOMM,2020,high,v3_coverage_70pct,0.7,3
+252.pdf,Frontiers in Communication,FCOMM,2020,high,v3_coverage_70pct,0.7,3
+254.pdf,Frontiers in Communication,FCOMM,2020,high,v3_coverage_70pct,0.7,3
+279.pdf,Frontiers in Communication,FCOMM,2020,high,v3_coverage_70pct,0.7,3
+176.pdf,Frontiers in Communication,FCOMM,2020,low,v3_coverage_70pct,0.7,3
+177.pdf,Frontiers in Communication,FCOMM,2020,low,v3_coverage_70pct,0.7,3
+208.pdf,Frontiers in Communication,FCOMM,2020,low,v3_coverage_70pct,0.7,3
+211.pdf,Frontiers in Communication,FCOMM,2020,low,v3_coverage_70pct,0.7,3
+221.pdf,Frontiers in Communication,FCOMM,2020,low,v3_coverage_70pct,0.7,3
+251.pdf,Frontiers in Communication,FCOMM,2020,low,v3_coverage_70pct,0.7,3
+258.pdf,Frontiers in Communication,FCOMM,2020,low,v3_coverage_70pct,0.7,3
+269.pdf,Frontiers in Communication,FCOMM,2020,low,v3_coverage_70pct,0.7,3
+295.pdf,Frontiers in Communication,FCOMM,2021,high,v3_coverage_70pct,0.7,3
+313.pdf,Frontiers in Communication,FCOMM,2021,high,v3_coverage_70pct,0.7,3
+363.pdf,Frontiers in Communication,FCOMM,2021,high,v3_coverage_70pct,0.7,3
+403.pdf,Frontiers in Communication,FCOMM,2021,high,v3_coverage_70pct,0.7,3
+408.pdf,Frontiers in Communication,FCOMM,2021,high,v3_coverage_70pct,0.7,3
+433.pdf,Frontiers in Communication,FCOMM,2021,high,v3_coverage_70pct,0.7,3
+444.pdf,Frontiers in Communication,FCOMM,2021,high,v3_coverage_70pct,0.7,3
+471.pdf,Frontiers in Communication,FCOMM,2021,high,v3_coverage_70pct,0.7,3
+474.pdf,Frontiers in Communication,FCOMM,2021,high,v3_coverage_70pct,0.7,3
+476.pdf,Frontiers in Communication,FCOMM,2021,high,v3_coverage_70pct,0.7,3
+480.pdf,Frontiers in Communication,FCOMM,2021,high,v3_coverage_70pct,0.7,3
+486.pdf,Frontiers in Communication,FCOMM,2021,high,v3_coverage_70pct,0.7,3
+488.pdf,Frontiers in Communication,FCOMM,2021,high,v3_coverage_70pct,0.7,3
+498.pdf,Frontiers in Communication,FCOMM,2021,high,v3_coverage_70pct,0.7,3
+507.pdf,Frontiers in Communication,FCOMM,2021,high,v3_coverage_70pct,0.7,3
+510.pdf,Frontiers in Communication,FCOMM,2021,high,v3_coverage_70pct,0.7,3
+545.pdf,Frontiers in Communication,FCOMM,2021,high,v3_coverage_70pct,0.7,3
+292.pdf,Frontiers in Communication,FCOMM,2021,low,v3_coverage_70pct,0.7,3
+311.pdf,Frontiers in Communication,FCOMM,2021,low,v3_coverage_70pct,0.7,3
+319.pdf,Frontiers in Communication,FCOMM,2021,low,v3_coverage_70pct,0.7,3
+331.pdf,Frontiers in Communication,FCOMM,2021,low,v3_coverage_70pct,0.7,3
+350.pdf,Frontiers in Communication,FCOMM,2021,low,v3_coverage_70pct,0.7,3
+377.pdf,Frontiers in Communication,FCOMM,2021,low,v3_coverage_70pct,0.7,3
+388.pdf,Frontiers in Communication,FCOMM,2021,low,v3_coverage_70pct,0.7,3
+405.pdf,Frontiers in Communication,FCOMM,2021,low,v3_coverage_70pct,0.7,3
+432.pdf,Frontiers in Communication,FCOMM,2021,low,v3_coverage_70pct,0.7,3
+434.pdf,Frontiers in Communication,FCOMM,2021,low,v3_coverage_70pct,0.7,3
+489.pdf,Frontiers in Communication,FCOMM,2021,low,v3_coverage_70pct,0.7,3
+491.pdf,Frontiers in Communication,FCOMM,2021,low,v3_coverage_70pct,0.7,3
+502.pdf,Frontiers in Communication,FCOMM,2021,low,v3_coverage_70pct,0.7,3
+520.pdf,Frontiers in Communication,FCOMM,2021,low,v3_coverage_70pct,0.7,3
+524.pdf,Frontiers in Communication,FCOMM,2021,low,v3_coverage_70pct,0.7,3
+528.pdf,Frontiers in Communication,FCOMM,2021,low,v3_coverage_70pct,0.7,3
+548.pdf,Frontiers in Communication,FCOMM,2021,low,v3_coverage_70pct,0.7,3
+552.pdf,Frontiers in Communication,FCOMM,2021,low,v3_coverage_70pct,0.7,3
+560.pdf,Frontiers in Communication,FCOMM,2022,high,v3_coverage_70pct,0.7,3
+593.pdf,Frontiers in Communication,FCOMM,2022,high,v3_coverage_70pct,0.7,3
+624.pdf,Frontiers in Communication,FCOMM,2022,high,v3_coverage_70pct,0.7,3
+678.pdf,Frontiers in Communication,FCOMM,2022,high,v3_coverage_70pct,0.7,3
+683.pdf,Frontiers in Communication,FCOMM,2022,high,v3_coverage_70pct,0.7,3
+709.pdf,Frontiers in Communication,FCOMM,2022,high,v3_coverage_70pct,0.7,3
+713.pdf,Frontiers in Communication,FCOMM,2022,high,v3_coverage_70pct,0.7,3
+715.pdf,Frontiers in Communication,FCOMM,2022,high,v3_coverage_70pct,0.7,3
+754.pdf,Frontiers in Communication,FCOMM,2022,high,v3_coverage_70pct,0.7,3
+759.pdf,Frontiers in Communication,FCOMM,2022,high,v3_coverage_70pct,0.7,3
+769.pdf,Frontiers in Communication,FCOMM,2022,high,v3_coverage_70pct,0.7,3
+775.pdf,Frontiers in Communication,FCOMM,2022,high,v3_coverage_70pct,0.7,3
+781.pdf,Frontiers in Communication,FCOMM,2022,high,v3_coverage_70pct,0.7,3
+784.pdf,Frontiers in Communication,FCOMM,2022,high,v3_coverage_70pct,0.7,3
+791.pdf,Frontiers in Communication,FCOMM,2022,high,v3_coverage_70pct,0.7,3
+798.pdf,Frontiers in Communication,FCOMM,2022,high,v3_coverage_70pct,0.7,3
+812.pdf,Frontiers in Communication,FCOMM,2022,high,v3_coverage_70pct,0.7,3
+825.pdf,Frontiers in Communication,FCOMM,2022,high,v3_coverage_70pct,0.7,3
+829.pdf,Frontiers in Communication,FCOMM,2022,high,v3_coverage_70pct,0.7,3
+555.pdf,Frontiers in Communication,FCOMM,2022,low,v3_coverage_70pct,0.7,3
+571.pdf,Frontiers in Communication,FCOMM,2022,low,v3_coverage_70pct,0.7,3
+574.pdf,Frontiers in Communication,FCOMM,2022,low,v3_coverage_70pct,0.7,3
+579.pdf,Frontiers in Communication,FCOMM,2022,low,v3_coverage_70pct,0.7,3
+583.pdf,Frontiers in Communication,FCOMM,2022,low,v3_coverage_70pct,0.7,3
+586.pdf,Frontiers in Communication,FCOMM,2022,low,v3_coverage_70pct,0.7,3
+607.pdf,Frontiers in Communication,FCOMM,2022,low,v3_coverage_70pct,0.7,3
+618.pdf,Frontiers in Communication,FCOMM,2022,low,v3_coverage_70pct,0.7,3
+622.pdf,Frontiers in Communication,FCOMM,2022,low,v3_coverage_70pct,0.7,3
+631.pdf,Frontiers in Communication,FCOMM,2022,low,v3_coverage_70pct,0.7,3
+657.pdf,Frontiers in Communication,FCOMM,2022,low,v3_coverage_70pct,0.7,3
+662.pdf,Frontiers in Communication,FCOMM,2022,low,v3_coverage_70pct,0.7,3
+670.pdf,Frontiers in Communication,FCOMM,2022,low,v3_coverage_70pct,0.7,3
+692.pdf,Frontiers in Communication,FCOMM,2022,low,v3_coverage_70pct,0.7,3
+760.pdf,Frontiers in Communication,FCOMM,2022,low,v3_coverage_70pct,0.7,3
+780.pdf,Frontiers in Communication,FCOMM,2022,low,v3_coverage_70pct,0.7,3
+788.pdf,Frontiers in Communication,FCOMM,2022,low,v3_coverage_70pct,0.7,3
+814.pdf,Frontiers in Communication,FCOMM,2022,low,v3_coverage_70pct,0.7,3
+853.pdf,Frontiers in Research Metrics and Analytics,RMA,2017,high,v3_coverage_70pct,0.7,3
+860.pdf,Frontiers in Research Metrics and Analytics,RMA,2017,high,v3_coverage_70pct,0.7,3
+870.pdf,Frontiers in Research Metrics and Analytics,RMA,2018,high,v3_coverage_70pct,0.7,3
+879.pdf,Frontiers in Research Metrics and Analytics,RMA,2018,high,v3_coverage_70pct,0.7,3
+897.pdf,Frontiers in Research Metrics and Analytics,RMA,2018,high,v3_coverage_70pct,0.7,3
+866.pdf,Frontiers in Research Metrics and Analytics,RMA,2018,low,v3_coverage_70pct,0.7,3
+893.pdf,Frontiers in Research Metrics and Analytics,RMA,2018,low,v3_coverage_70pct,0.7,3
+895.pdf,Frontiers in Research Metrics and Analytics,RMA,2018,low,v3_coverage_70pct,0.7,3
+915.pdf,Frontiers in Research Metrics and Analytics,RMA,2020,high,v3_coverage_70pct,0.7,3
+920.pdf,Frontiers in Research Metrics and Analytics,RMA,2020,low,v3_coverage_70pct,0.7,3
+922.pdf,Frontiers in Research Metrics and Analytics,RMA,2020,low,v3_coverage_70pct,0.7,3
+1003.pdf,Frontiers in Research Metrics and Analytics,RMA,2021,high,v3_coverage_70pct,0.7,3
+955.pdf,Frontiers in Research Metrics and Analytics,RMA,2021,high,v3_coverage_70pct,0.7,3
+956.pdf,Frontiers in Research Metrics and Analytics,RMA,2021,high,v3_coverage_70pct,0.7,3
+970.pdf,Frontiers in Research Metrics and Analytics,RMA,2021,high,v3_coverage_70pct,0.7,3
+977.pdf,Frontiers in Research Metrics and Analytics,RMA,2021,high,v3_coverage_70pct,0.7,3
+995.pdf,Frontiers in Research Metrics and Analytics,RMA,2021,high,v3_coverage_70pct,0.7,3
+934.pdf,Frontiers in Research Metrics and Analytics,RMA,2021,low,v3_coverage_70pct,0.7,3
+944.pdf,Frontiers in Research Metrics and Analytics,RMA,2021,low,v3_coverage_70pct,0.7,3
+978.pdf,Frontiers in Research Metrics and Analytics,RMA,2021,low,v3_coverage_70pct,0.7,3
+984.pdf,Frontiers in Research Metrics and Analytics,RMA,2021,low,v3_coverage_70pct,0.7,3
+990.pdf,Frontiers in Research Metrics and Analytics,RMA,2021,low,v3_coverage_70pct,0.7,3
+1010.pdf,Frontiers in Research Metrics and Analytics,RMA,2022,high,v3_coverage_70pct,0.7,3
+1019.pdf,Frontiers in Research Metrics and Analytics,RMA,2022,high,v3_coverage_70pct,0.7,3
+1027.pdf,Frontiers in Research Metrics and Analytics,RMA,2022,high,v3_coverage_70pct,0.7,3
+1028.pdf,Frontiers in Research Metrics and Analytics,RMA,2022,high,v3_coverage_70pct,0.7,3
+1056.pdf,Frontiers in Research Metrics and Analytics,RMA,2022,high,v3_coverage_70pct,0.7,3
+1072.pdf,Frontiers in Research Metrics and Analytics,RMA,2022,high,v3_coverage_70pct,0.7,3
+1094.pdf,Frontiers in Research Metrics and Analytics,RMA,2022,high,v3_coverage_70pct,0.7,3
+1014.pdf,Frontiers in Research Metrics and Analytics,RMA,2022,low,v3_coverage_70pct,0.7,3
+1053.pdf,Frontiers in Research Metrics and Analytics,RMA,2022,low,v3_coverage_70pct,0.7,3
+1064.pdf,Frontiers in Research Metrics and Analytics,RMA,2022,low,v3_coverage_70pct,0.7,3
+1071.pdf,Frontiers in Research Metrics and Analytics,RMA,2022,low,v3_coverage_70pct,0.7,3
+1087.pdf,Frontiers in Research Metrics and Analytics,RMA,2022,low,v3_coverage_70pct,0.7,3
+1089.pdf,Frontiers in Research Metrics and Analytics,RMA,2022,low,v3_coverage_70pct,0.7,3
+1100.pdf,Iberoamerican Journal of Science Measurement and Communication,IJSMC,2020,low,v3_coverage_70pct,0.7,3
+1113.pdf,Iberoamerican Journal of Science Measurement and Communication,IJSMC,2021,high,v3_coverage_70pct,0.7,3
+1107.pdf,Iberoamerican Journal of Science Measurement and Communication,IJSMC,2021,low,v3_coverage_70pct,0.7,3
+1109.pdf,Iberoamerican Journal of Science Measurement and Communication,IJSMC,2021,low,v3_coverage_70pct,0.7,3
+1128.pdf,Iberoamerican Journal of Science Measurement and Communication,IJSMC,2022,high,v3_coverage_70pct,0.7,3
+1122.pdf,Iberoamerican Journal of Science Measurement and Communication,IJSMC,2022,low,v3_coverage_70pct,0.7,3
+1136.pdf,Journal of Informetrics,JOI,2008,low,v3_coverage_70pct,0.7,3
+1143.pdf,Journal of Informetrics,JOI,2008,low,v3_coverage_70pct,0.7,3
+1146.pdf,Journal of Informetrics,JOI,2009,low,v3_coverage_70pct,0.7,3
+1150.pdf,Journal of Informetrics,JOI,2009,low,v3_coverage_70pct,0.7,3
+1155.pdf,Journal of Informetrics,JOI,2009,low,v3_coverage_70pct,0.7,3
+1158.pdf,Journal of Informetrics,JOI,2010,low,v3_coverage_70pct,0.7,3
+1185.pdf,Journal of Informetrics,JOI,2011,high,v3_coverage_70pct,0.7,3
+1195.pdf,Journal of Informetrics,JOI,2012,high,v3_coverage_70pct,0.7,3
+1207.pdf,Journal of Informetrics,JOI,2012,high,v3_coverage_70pct,0.7,3
+1212.pdf,Journal of Informetrics,JOI,2012,high,v3_coverage_70pct,0.7,3
+1215.pdf,Journal of Informetrics,JOI,2013,high,v3_coverage_70pct,0.7,3
+1231.pdf,Journal of Informetrics,JOI,2013,high,v3_coverage_70pct,0.7,3
+1228.pdf,Journal of Informetrics,JOI,2013,low,v3_coverage_70pct,0.7,3
+1239.pdf,Journal of Informetrics,JOI,2013,low,v3_coverage_70pct,0.7,3
+1247.pdf,Journal of Informetrics,JOI,2014,high,v3_coverage_70pct,0.7,3
+1261.pdf,Journal of Informetrics,JOI,2014,high,v3_coverage_70pct,0.7,3
+1258.pdf,Journal of Informetrics,JOI,2014,low,v3_coverage_70pct,0.7,3
+1278.pdf,Journal of Informetrics,JOI,2015,high,v3_coverage_70pct,0.7,3
+1280.pdf,Journal of Informetrics,JOI,2015,high,v3_coverage_70pct,0.7,3
+1266.pdf,Journal of Informetrics,JOI,2015,low,v3_coverage_70pct,0.7,3
+1286.pdf,Journal of Informetrics,JOI,2015,low,v3_coverage_70pct,0.7,3
+1303.pdf,Journal of Informetrics,JOI,2016,high,v3_coverage_70pct,0.7,3
+1316.pdf,Journal of Informetrics,JOI,2016,high,v3_coverage_70pct,0.7,3
+1323.pdf,Journal of Informetrics,JOI,2016,high,v3_coverage_70pct,0.7,3
+1317.pdf,Journal of Informetrics,JOI,2016,low,v3_coverage_70pct,0.7,3
+1332.pdf,Journal of Informetrics,JOI,2016,low,v3_coverage_70pct,0.7,3
+1340.pdf,Journal of Informetrics,JOI,2016,low,v3_coverage_70pct,0.7,3
+1378.pdf,Journal of Informetrics,JOI,2017,high,v3_coverage_70pct,0.7,3
+1379.pdf,Journal of Informetrics,JOI,2017,high,v3_coverage_70pct,0.7,3
+1386.pdf,Journal of Informetrics,JOI,2017,high,v3_coverage_70pct,0.7,3
+1348.pdf,Journal of Informetrics,JOI,2017,low,v3_coverage_70pct,0.7,3
+1353.pdf,Journal of Informetrics,JOI,2017,low,v3_coverage_70pct,0.7,3
+1387.pdf,Journal of Informetrics,JOI,2017,low,v3_coverage_70pct,0.7,3
+1406.pdf,Journal of Informetrics,JOI,2018,high,v3_coverage_70pct,0.7,3
+1407.pdf,Journal of Informetrics,JOI,2018,high,v3_coverage_70pct,0.7,3
+1411.pdf,Journal of Informetrics,JOI,2018,high,v3_coverage_70pct,0.7,3
+1429.pdf,Journal of Informetrics,JOI,2018,high,v3_coverage_70pct,0.7,3
+1422.pdf,Journal of Informetrics,JOI,2018,low,v3_coverage_70pct,0.7,3
+1428.pdf,Journal of Informetrics,JOI,2018,low,v3_coverage_70pct,0.7,3
+1439.pdf,Journal of Informetrics,JOI,2018,low,v3_coverage_70pct,0.7,3
+1447.pdf,Journal of Informetrics,JOI,2018,low,v3_coverage_70pct,0.7,3
+1475.pdf,Journal of Informetrics,JOI,2019,high,v3_coverage_70pct,0.7,3
+1479.pdf,Journal of Informetrics,JOI,2019,high,v3_coverage_70pct,0.7,3
+1487.pdf,Journal of Informetrics,JOI,2019,high,v3_coverage_70pct,0.7,3
+1452.pdf,Journal of Informetrics,JOI,2019,low,v3_coverage_70pct,0.7,3
+1463.pdf,Journal of Informetrics,JOI,2019,low,v3_coverage_70pct,0.7,3
+1488.pdf,Journal of Informetrics,JOI,2019,low,v3_coverage_70pct,0.7,3
+1491.pdf,Journal of Informetrics,JOI,2020,high,v3_coverage_70pct,0.7,3
+1497.pdf,Journal of Informetrics,JOI,2020,high,v3_coverage_70pct,0.7,3
+1492.pdf,Journal of Informetrics,JOI,2020,low,v3_coverage_70pct,0.7,3
+1504.pdf,Journal of Informetrics,JOI,2020,low,v3_coverage_70pct,0.7,3
+1521.pdf,Journal of Informetrics,JOI,2020,low,v3_coverage_70pct,0.7,3
+1552.pdf,Journal of Informetrics,JOI,2021,high,v3_coverage_70pct,0.7,3
+1553.pdf,Journal of Informetrics,JOI,2021,high,v3_coverage_70pct,0.7,3
+1528.pdf,Journal of Informetrics,JOI,2021,low,v3_coverage_70pct,0.7,3
+1531.pdf,Journal of Informetrics,JOI,2021,low,v3_coverage_70pct,0.7,3
+1558.pdf,Journal of Informetrics,JOI,2022,high,v3_coverage_70pct,0.7,3
+1573.pdf,Journal of Informetrics,JOI,2022,high,v3_coverage_70pct,0.7,3
+1556.pdf,Journal of Informetrics,JOI,2022,low,v3_coverage_70pct,0.7,3
+1568.pdf,Journal of Informetrics,JOI,2022,low,v3_coverage_70pct,0.7,3
+1584.pdf,Journal of the Association for Information Science and Technology,JASIST,2013,high,v3_coverage_70pct,0.7,3
+1595.pdf,Journal of the Association for Information Science and Technology,JASIST,2013,low,v3_coverage_70pct,0.7,3
+1626.pdf,Journal of the Association for Information Science and Technology,JASIST,2014,high,v3_coverage_70pct,0.7,3
+1636.pdf,Journal of the Association for Information Science and Technology,JASIST,2014,high,v3_coverage_70pct,0.7,3
+1654.pdf,Journal of the Association for Information Science and Technology,JASIST,2014,high,v3_coverage_70pct,0.7,3
+1632.pdf,Journal of the Association for Information Science and Technology,JASIST,2014,low,v3_coverage_70pct,0.7,3
+1639.pdf,Journal of the Association for Information Science and Technology,JASIST,2014,low,v3_coverage_70pct,0.7,3
+1647.pdf,Journal of the Association for Information Science and Technology,JASIST,2014,low,v3_coverage_70pct,0.7,3
+1652.pdf,Journal of the Association for Information Science and Technology,JASIST,2014,low,v3_coverage_70pct,0.7,3
+1686.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,high,v3_coverage_70pct,0.7,3
+1689.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,high,v3_coverage_70pct,0.7,3
+1699.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,high,v3_coverage_70pct,0.7,3
+1702.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,high,v3_coverage_70pct,0.7,3
+1707.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,high,v3_coverage_70pct,0.7,3
+1712.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,high,v3_coverage_70pct,0.7,3
+1716.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,high,v3_coverage_70pct,0.7,3
+1723.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,high,v3_coverage_70pct,0.7,3
+1687.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,low,v3_coverage_70pct,0.7,3
+1688.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,low,v3_coverage_70pct,0.7,3
+1698.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,low,v3_coverage_70pct,0.7,3
+1709.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,low,v3_coverage_70pct,0.7,3
+1721.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,low,v3_coverage_70pct,0.7,3
+1744.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,low,v3_coverage_70pct,0.7,3
+1747.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,low,v3_coverage_70pct,0.7,3
+1793.pdf,Journal of the Association for Information Science and Technology,JASIST,2016,high,v3_coverage_70pct,0.7,3
+1775.pdf,Journal of the Association for Information Science and Technology,JASIST,2016,low,v3_coverage_70pct,0.7,3
+1782.pdf,Journal of the Association for Information Science and Technology,JASIST,2016,low,v3_coverage_70pct,0.7,3
+1805.pdf,Journal of the Association for Information Science and Technology,JASIST,2017,high,v3_coverage_70pct,0.7,3
+1828.pdf,Journal of the Association for Information Science and Technology,JASIST,2017,high,v3_coverage_70pct,0.7,3
+1831.pdf,Journal of the Association for Information Science and Technology,JASIST,2017,high,v3_coverage_70pct,0.7,3
+1843.pdf,Journal of the Association for Information Science and Technology,JASIST,2017,high,v3_coverage_70pct,0.7,3
+1827.pdf,Journal of the Association for Information Science and Technology,JASIST,2017,low,v3_coverage_70pct,0.7,3
+1835.pdf,Journal of the Association for Information Science and Technology,JASIST,2017,low,v3_coverage_70pct,0.7,3
+1836.pdf,Journal of the Association for Information Science and Technology,JASIST,2017,low,v3_coverage_70pct,0.7,3
+1844.pdf,Journal of the Association for Information Science and Technology,JASIST,2017,low,v3_coverage_70pct,0.7,3
+1874.pdf,Journal of the Association for Information Science and Technology,JASIST,2018,high,v3_coverage_70pct,0.7,3
+1876.pdf,Journal of the Association for Information Science and Technology,JASIST,2018,high,v3_coverage_70pct,0.7,3
+1877.pdf,Journal of the Association for Information Science and Technology,JASIST,2018,high,v3_coverage_70pct,0.7,3
+1871.pdf,Journal of the Association for Information Science and Technology,JASIST,2018,low,v3_coverage_70pct,0.7,3
+1886.pdf,Journal of the Association for Information Science and Technology,JASIST,2018,low,v3_coverage_70pct,0.7,3
+1894.pdf,Journal of the Association for Information Science and Technology,JASIST,2019,high,v3_coverage_70pct,0.7,3
+1931.pdf,Journal of the Association for Information Science and Technology,JASIST,2019,high,v3_coverage_70pct,0.7,3
+1944.pdf,Journal of the Association for Information Science and Technology,JASIST,2019,high,v3_coverage_70pct,0.7,3
+1950.pdf,Journal of the Association for Information Science and Technology,JASIST,2019,high,v3_coverage_70pct,0.7,3
+1914.pdf,Journal of the Association for Information Science and Technology,JASIST,2019,low,v3_coverage_70pct,0.7,3
+1927.pdf,Journal of the Association for Information Science and Technology,JASIST,2019,low,v3_coverage_70pct,0.7,3
+1929.pdf,Journal of the Association for Information Science and Technology,JASIST,2019,low,v3_coverage_70pct,0.7,3
+1933.pdf,Journal of the Association for Information Science and Technology,JASIST,2019,low,v3_coverage_70pct,0.7,3
+1969.pdf,Journal of the Association for Information Science and Technology,JASIST,2020,high,v3_coverage_70pct,0.7,3
+1979.pdf,Journal of the Association for Information Science and Technology,JASIST,2020,high,v3_coverage_70pct,0.7,3
+1981.pdf,Journal of the Association for Information Science and Technology,JASIST,2020,high,v3_coverage_70pct,0.7,3
+1964.pdf,Journal of the Association for Information Science and Technology,JASIST,2020,low,v3_coverage_70pct,0.7,3
+1990.pdf,Journal of the Association for Information Science and Technology,JASIST,2020,low,v3_coverage_70pct,0.7,3
+2004.pdf,Journal of the Association for Information Science and Technology,JASIST,2021,high,v3_coverage_70pct,0.7,3
+2027.pdf,Journal of the Association for Information Science and Technology,JASIST,2021,high,v3_coverage_70pct,0.7,3
+2029.pdf,Journal of the Association for Information Science and Technology,JASIST,2021,high,v3_coverage_70pct,0.7,3
+2031.pdf,Journal of the Association for Information Science and Technology,JASIST,2021,high,v3_coverage_70pct,0.7,3
+1998.pdf,Journal of the Association for Information Science and Technology,JASIST,2021,low,v3_coverage_70pct,0.7,3
+2014.pdf,Journal of the Association for Information Science and Technology,JASIST,2021,low,v3_coverage_70pct,0.7,3
+2021.pdf,Journal of the Association for Information Science and Technology,JASIST,2021,low,v3_coverage_70pct,0.7,3
+2032.pdf,Journal of the Association for Information Science and Technology,JASIST,2021,low,v3_coverage_70pct,0.7,3
+2051.pdf,Journal of the Association for Information Science and Technology,JASIST,2021,low,v3_coverage_70pct,0.7,3
+2068.pdf,Journal of the Association for Information Science and Technology,JASIST,2022,high,v3_coverage_70pct,0.7,3
+2074.pdf,Journal of the Association for Information Science and Technology,JASIST,2022,high,v3_coverage_70pct,0.7,3
+2085.pdf,Journal of the Association for Information Science and Technology,JASIST,2022,high,v3_coverage_70pct,0.7,3
+2093.pdf,Journal of the Association for Information Science and Technology,JASIST,2022,high,v3_coverage_70pct,0.7,3
+2061.pdf,Journal of the Association for Information Science and Technology,JASIST,2022,low,v3_coverage_70pct,0.7,3
+2064.pdf,Journal of the Association for Information Science and Technology,JASIST,2022,low,v3_coverage_70pct,0.7,3
+2089.pdf,Journal of the Association for Information Science and Technology,JASIST,2022,low,v3_coverage_70pct,0.7,3
+2104.pdf,Journal of the Association for Information Science and Technology,JASIST,2022,low,v3_coverage_70pct,0.7,3
+2115.pdf,Quantitative Science Studies,QSS,2019,high,v3_coverage_70pct,0.7,3
+2122.pdf,Quantitative Science Studies,QSS,2019,low,v3_coverage_70pct,0.7,3
+2142.pdf,Quantitative Science Studies,QSS,2020,high,v3_coverage_70pct,0.7,3
+2147.pdf,Quantitative Science Studies,QSS,2020,high,v3_coverage_70pct,0.7,3
+2181.pdf,Quantitative Science Studies,QSS,2020,high,v3_coverage_70pct,0.7,3
+2183.pdf,Quantitative Science Studies,QSS,2020,high,v3_coverage_70pct,0.7,3
+2133.pdf,Quantitative Science Studies,QSS,2020,low,v3_coverage_70pct,0.7,3
+2139.pdf,Quantitative Science Studies,QSS,2020,low,v3_coverage_70pct,0.7,3
+2155.pdf,Quantitative Science Studies,QSS,2020,low,v3_coverage_70pct,0.7,3
+2189.pdf,Quantitative Science Studies,QSS,2020,low,v3_coverage_70pct,0.7,3
+2205.pdf,Quantitative Science Studies,QSS,2021,high,v3_coverage_70pct,0.7,3
+2210.pdf,Quantitative Science Studies,QSS,2021,high,v3_coverage_70pct,0.7,3
+2211.pdf,Quantitative Science Studies,QSS,2021,high,v3_coverage_70pct,0.7,3
+2219.pdf,Quantitative Science Studies,QSS,2021,high,v3_coverage_70pct,0.7,3
+2258.pdf,Quantitative Science Studies,QSS,2021,high,v3_coverage_70pct,0.7,3
+2265.pdf,Quantitative Science Studies,QSS,2021,high,v3_coverage_70pct,0.7,3
+2214.pdf,Quantitative Science Studies,QSS,2021,low,v3_coverage_70pct,0.7,3
+2217.pdf,Quantitative Science Studies,QSS,2021,low,v3_coverage_70pct,0.7,3
+2224.pdf,Quantitative Science Studies,QSS,2021,low,v3_coverage_70pct,0.7,3
+2243.pdf,Quantitative Science Studies,QSS,2021,low,v3_coverage_70pct,0.7,3
+2249.pdf,Quantitative Science Studies,QSS,2021,low,v3_coverage_70pct,0.7,3
+2255.pdf,Quantitative Science Studies,QSS,2021,low,v3_coverage_70pct,0.7,3
+2278.pdf,Quantitative Science Studies,QSS,2022,high,v3_coverage_70pct,0.7,3
+2287.pdf,Quantitative Science Studies,QSS,2022,high,v3_coverage_70pct,0.7,3
+2293.pdf,Quantitative Science Studies,QSS,2022,high,v3_coverage_70pct,0.7,3
+2309.pdf,Quantitative Science Studies,QSS,2022,high,v3_coverage_70pct,0.7,3
+2282.pdf,Quantitative Science Studies,QSS,2022,low,v3_coverage_70pct,0.7,3
+2298.pdf,Quantitative Science Studies,QSS,2022,low,v3_coverage_70pct,0.7,3
+2302.pdf,Quantitative Science Studies,QSS,2022,low,v3_coverage_70pct,0.7,3
+2313.pdf,Quantitative Science Studies,QSS,2022,low,v3_coverage_70pct,0.7,3
+2408.pdf,Scientometrics,SCIM,2010,high,v3_coverage_70pct,0.7,3
+2421.pdf,Scientometrics,SCIM,2010,high,v3_coverage_70pct,0.7,3
+2446.pdf,Scientometrics,SCIM,2010,high,v3_coverage_70pct,0.7,3
+2406.pdf,Scientometrics,SCIM,2010,low,v3_coverage_70pct,0.7,3
+2431.pdf,Scientometrics,SCIM,2010,low,v3_coverage_70pct,0.7,3
+2461.pdf,Scientometrics,SCIM,2011,high,v3_coverage_70pct,0.7,3
+2463.pdf,Scientometrics,SCIM,2011,high,v3_coverage_70pct,0.7,3
+2480.pdf,Scientometrics,SCIM,2011,high,v3_coverage_70pct,0.7,3
+2482.pdf,Scientometrics,SCIM,2011,high,v3_coverage_70pct,0.7,3
+2460.pdf,Scientometrics,SCIM,2011,low,v3_coverage_70pct,0.7,3
+2466.pdf,Scientometrics,SCIM,2011,low,v3_coverage_70pct,0.7,3
+2470.pdf,Scientometrics,SCIM,2011,low,v3_coverage_70pct,0.7,3
+2489.pdf,Scientometrics,SCIM,2011,low,v3_coverage_70pct,0.7,3
+2524.pdf,Scientometrics,SCIM,2012,high,v3_coverage_70pct,0.7,3
+2539.pdf,Scientometrics,SCIM,2012,high,v3_coverage_70pct,0.7,3
+2544.pdf,Scientometrics,SCIM,2012,high,v3_coverage_70pct,0.7,3
+2550.pdf,Scientometrics,SCIM,2012,high,v3_coverage_70pct,0.7,3
+2561.pdf,Scientometrics,SCIM,2012,high,v3_coverage_70pct,0.7,3
+2530.pdf,Scientometrics,SCIM,2012,low,v3_coverage_70pct,0.7,3
+2532.pdf,Scientometrics,SCIM,2012,low,v3_coverage_70pct,0.7,3
+2540.pdf,Scientometrics,SCIM,2012,low,v3_coverage_70pct,0.7,3
+2542.pdf,Scientometrics,SCIM,2012,low,v3_coverage_70pct,0.7,3
+2576.pdf,Scientometrics,SCIM,2013,high,v3_coverage_70pct,0.7,3
+2590.pdf,Scientometrics,SCIM,2013,high,v3_coverage_70pct,0.7,3
+2597.pdf,Scientometrics,SCIM,2013,high,v3_coverage_70pct,0.7,3
+2602.pdf,Scientometrics,SCIM,2013,high,v3_coverage_70pct,0.7,3
+2571.pdf,Scientometrics,SCIM,2013,low,v3_coverage_70pct,0.7,3
+2587.pdf,Scientometrics,SCIM,2013,low,v3_coverage_70pct,0.7,3
+2617.pdf,Scientometrics,SCIM,2013,low,v3_coverage_70pct,0.7,3
+2626.pdf,Scientometrics,SCIM,2014,high,v3_coverage_70pct,0.7,3
+2632.pdf,Scientometrics,SCIM,2014,high,v3_coverage_70pct,0.7,3
+2640.pdf,Scientometrics,SCIM,2014,high,v3_coverage_70pct,0.7,3
+2643.pdf,Scientometrics,SCIM,2014,high,v3_coverage_70pct,0.7,3
+2666.pdf,Scientometrics,SCIM,2014,high,v3_coverage_70pct,0.7,3
+2630.pdf,Scientometrics,SCIM,2014,low,v3_coverage_70pct,0.7,3
+2631.pdf,Scientometrics,SCIM,2014,low,v3_coverage_70pct,0.7,3
+2633.pdf,Scientometrics,SCIM,2014,low,v3_coverage_70pct,0.7,3
+2646.pdf,Scientometrics,SCIM,2014,low,v3_coverage_70pct,0.7,3
+2674.pdf,Scientometrics,SCIM,2014,low,v3_coverage_70pct,0.7,3
+2684.pdf,Scientometrics,SCIM,2015,high,v3_coverage_70pct,0.7,3
+2716.pdf,Scientometrics,SCIM,2015,high,v3_coverage_70pct,0.7,3
+2717.pdf,Scientometrics,SCIM,2015,high,v3_coverage_70pct,0.7,3
+2745.pdf,Scientometrics,SCIM,2015,high,v3_coverage_70pct,0.7,3
+2683.pdf,Scientometrics,SCIM,2015,low,v3_coverage_70pct,0.7,3
+2693.pdf,Scientometrics,SCIM,2015,low,v3_coverage_70pct,0.7,3
+2718.pdf,Scientometrics,SCIM,2015,low,v3_coverage_70pct,0.7,3
+2733.pdf,Scientometrics,SCIM,2015,low,v3_coverage_70pct,0.7,3
+2739.pdf,Scientometrics,SCIM,2015,low,v3_coverage_70pct,0.7,3
+2764.pdf,Scientometrics,SCIM,2016,high,v3_coverage_70pct,0.7,3
+2790.pdf,Scientometrics,SCIM,2016,high,v3_coverage_70pct,0.7,3
+2800.pdf,Scientometrics,SCIM,2016,high,v3_coverage_70pct,0.7,3
+2818.pdf,Scientometrics,SCIM,2016,high,v3_coverage_70pct,0.7,3
+2831.pdf,Scientometrics,SCIM,2016,high,v3_coverage_70pct,0.7,3
+2849.pdf,Scientometrics,SCIM,2016,high,v3_coverage_70pct,0.7,3
+2750.pdf,Scientometrics,SCIM,2016,low,v3_coverage_70pct,0.7,3
+2772.pdf,Scientometrics,SCIM,2016,low,v3_coverage_70pct,0.7,3
+2786.pdf,Scientometrics,SCIM,2016,low,v3_coverage_70pct,0.7,3
+2794.pdf,Scientometrics,SCIM,2016,low,v3_coverage_70pct,0.7,3
+2806.pdf,Scientometrics,SCIM,2016,low,v3_coverage_70pct,0.7,3
+2834.pdf,Scientometrics,SCIM,2016,low,v3_coverage_70pct,0.7,3
+2853.pdf,Scientometrics,SCIM,2016,low,v3_coverage_70pct,0.7,3
+2861.pdf,Scientometrics,SCIM,2016,low,v3_coverage_70pct,0.7,3
+2878.pdf,Scientometrics,SCIM,2017,high,v3_coverage_70pct,0.7,3
+2894.pdf,Scientometrics,SCIM,2017,high,v3_coverage_70pct,0.7,3
+2914.pdf,Scientometrics,SCIM,2017,high,v3_coverage_70pct,0.7,3
+2928.pdf,Scientometrics,SCIM,2017,high,v3_coverage_70pct,0.7,3
+2971.pdf,Scientometrics,SCIM,2017,high,v3_coverage_70pct,0.7,3
+2972.pdf,Scientometrics,SCIM,2017,high,v3_coverage_70pct,0.7,3
+2988.pdf,Scientometrics,SCIM,2017,high,v3_coverage_70pct,0.7,3
+2873.pdf,Scientometrics,SCIM,2017,low,v3_coverage_70pct,0.7,3
+2884.pdf,Scientometrics,SCIM,2017,low,v3_coverage_70pct,0.7,3
+2895.pdf,Scientometrics,SCIM,2017,low,v3_coverage_70pct,0.7,3
+2900.pdf,Scientometrics,SCIM,2017,low,v3_coverage_70pct,0.7,3
+2943.pdf,Scientometrics,SCIM,2017,low,v3_coverage_70pct,0.7,3
+2952.pdf,Scientometrics,SCIM,2017,low,v3_coverage_70pct,0.7,3
+2963.pdf,Scientometrics,SCIM,2017,low,v3_coverage_70pct,0.7,3
+2982.pdf,Scientometrics,SCIM,2017,low,v3_coverage_70pct,0.7,3
+3017.pdf,Scientometrics,SCIM,2018,high,v3_coverage_70pct,0.7,3
+3032.pdf,Scientometrics,SCIM,2018,high,v3_coverage_70pct,0.7,3
+3045.pdf,Scientometrics,SCIM,2018,high,v3_coverage_70pct,0.7,3
+3071.pdf,Scientometrics,SCIM,2018,high,v3_coverage_70pct,0.7,3
+3076.pdf,Scientometrics,SCIM,2018,high,v3_coverage_70pct,0.7,3
+3081.pdf,Scientometrics,SCIM,2018,high,v3_coverage_70pct,0.7,3
+3084.pdf,Scientometrics,SCIM,2018,high,v3_coverage_70pct,0.7,3
+2997.pdf,Scientometrics,SCIM,2018,low,v3_coverage_70pct,0.7,3
+2999.pdf,Scientometrics,SCIM,2018,low,v3_coverage_70pct,0.7,3
+3021.pdf,Scientometrics,SCIM,2018,low,v3_coverage_70pct,0.7,3
+3037.pdf,Scientometrics,SCIM,2018,low,v3_coverage_70pct,0.7,3
+3046.pdf,Scientometrics,SCIM,2018,low,v3_coverage_70pct,0.7,3
+3055.pdf,Scientometrics,SCIM,2018,low,v3_coverage_70pct,0.7,3
+3065.pdf,Scientometrics,SCIM,2018,low,v3_coverage_70pct,0.7,3
+3093.pdf,Scientometrics,SCIM,2019,high,v3_coverage_70pct,0.7,3
+3102.pdf,Scientometrics,SCIM,2019,high,v3_coverage_70pct,0.7,3
+3104.pdf,Scientometrics,SCIM,2019,high,v3_coverage_70pct,0.7,3
+3107.pdf,Scientometrics,SCIM,2019,high,v3_coverage_70pct,0.7,3
+3111.pdf,Scientometrics,SCIM,2019,high,v3_coverage_70pct,0.7,3
+3161.pdf,Scientometrics,SCIM,2019,high,v3_coverage_70pct,0.7,3
+3171.pdf,Scientometrics,SCIM,2019,high,v3_coverage_70pct,0.7,3
+3200.pdf,Scientometrics,SCIM,2019,high,v3_coverage_70pct,0.7,3
+3101.pdf,Scientometrics,SCIM,2019,low,v3_coverage_70pct,0.7,3
+3151.pdf,Scientometrics,SCIM,2019,low,v3_coverage_70pct,0.7,3
+3169.pdf,Scientometrics,SCIM,2019,low,v3_coverage_70pct,0.7,3
+3175.pdf,Scientometrics,SCIM,2019,low,v3_coverage_70pct,0.7,3
+3193.pdf,Scientometrics,SCIM,2019,low,v3_coverage_70pct,0.7,3
+3197.pdf,Scientometrics,SCIM,2019,low,v3_coverage_70pct,0.7,3
+3217.pdf,Scientometrics,SCIM,2020,high,v3_coverage_70pct,0.7,3
+3242.pdf,Scientometrics,SCIM,2020,high,v3_coverage_70pct,0.7,3
+3249.pdf,Scientometrics,SCIM,2020,high,v3_coverage_70pct,0.7,3
+3284.pdf,Scientometrics,SCIM,2020,high,v3_coverage_70pct,0.7,3
+3285.pdf,Scientometrics,SCIM,2020,high,v3_coverage_70pct,0.7,3
+3339.pdf,Scientometrics,SCIM,2020,high,v3_coverage_70pct,0.7,3
+3340.pdf,Scientometrics,SCIM,2020,high,v3_coverage_70pct,0.7,3
+3359.pdf,Scientometrics,SCIM,2020,high,v3_coverage_70pct,0.7,3
+3362.pdf,Scientometrics,SCIM,2020,high,v3_coverage_70pct,0.7,3
+3371.pdf,Scientometrics,SCIM,2020,high,v3_coverage_70pct,0.7,3
+3377.pdf,Scientometrics,SCIM,2020,high,v3_coverage_70pct,0.7,3
+3379.pdf,Scientometrics,SCIM,2020,high,v3_coverage_70pct,0.7,3
+3214.pdf,Scientometrics,SCIM,2020,low,v3_coverage_70pct,0.7,3
+3232.pdf,Scientometrics,SCIM,2020,low,v3_coverage_70pct,0.7,3
+3241.pdf,Scientometrics,SCIM,2020,low,v3_coverage_70pct,0.7,3
+3243.pdf,Scientometrics,SCIM,2020,low,v3_coverage_70pct,0.7,3
+3272.pdf,Scientometrics,SCIM,2020,low,v3_coverage_70pct,0.7,3
+3273.pdf,Scientometrics,SCIM,2020,low,v3_coverage_70pct,0.7,3
+3282.pdf,Scientometrics,SCIM,2020,low,v3_coverage_70pct,0.7,3
+3321.pdf,Scientometrics,SCIM,2020,low,v3_coverage_70pct,0.7,3
+3323.pdf,Scientometrics,SCIM,2020,low,v3_coverage_70pct,0.7,3
+3338.pdf,Scientometrics,SCIM,2020,low,v3_coverage_70pct,0.7,3
+3342.pdf,Scientometrics,SCIM,2020,low,v3_coverage_70pct,0.7,3
+3348.pdf,Scientometrics,SCIM,2020,low,v3_coverage_70pct,0.7,3
+3364.pdf,Scientometrics,SCIM,2020,low,v3_coverage_70pct,0.7,3
+3452.pdf,Scientometrics,SCIM,2021,high,v3_coverage_70pct,0.7,3
+3456.pdf,Scientometrics,SCIM,2021,high,v3_coverage_70pct,0.7,3
+3466.pdf,Scientometrics,SCIM,2021,high,v3_coverage_70pct,0.7,3
+3493.pdf,Scientometrics,SCIM,2021,high,v3_coverage_70pct,0.7,3
+3504.pdf,Scientometrics,SCIM,2021,high,v3_coverage_70pct,0.7,3
+3507.pdf,Scientometrics,SCIM,2021,high,v3_coverage_70pct,0.7,3
+3527.pdf,Scientometrics,SCIM,2021,high,v3_coverage_70pct,0.7,3
+3533.pdf,Scientometrics,SCIM,2021,high,v3_coverage_70pct,0.7,3
+3541.pdf,Scientometrics,SCIM,2021,high,v3_coverage_70pct,0.7,3
+3546.pdf,Scientometrics,SCIM,2021,high,v3_coverage_70pct,0.7,3
+3551.pdf,Scientometrics,SCIM,2021,high,v3_coverage_70pct,0.7,3
+3553.pdf,Scientometrics,SCIM,2021,high,v3_coverage_70pct,0.7,3
+3396.pdf,Scientometrics,SCIM,2021,low,v3_coverage_70pct,0.7,3
+3397.pdf,Scientometrics,SCIM,2021,low,v3_coverage_70pct,0.7,3
+3401.pdf,Scientometrics,SCIM,2021,low,v3_coverage_70pct,0.7,3
+3423.pdf,Scientometrics,SCIM,2021,low,v3_coverage_70pct,0.7,3
+3449.pdf,Scientometrics,SCIM,2021,low,v3_coverage_70pct,0.7,3
+3461.pdf,Scientometrics,SCIM,2021,low,v3_coverage_70pct,0.7,3
+3467.pdf,Scientometrics,SCIM,2021,low,v3_coverage_70pct,0.7,3
+3501.pdf,Scientometrics,SCIM,2021,low,v3_coverage_70pct,0.7,3
+3517.pdf,Scientometrics,SCIM,2021,low,v3_coverage_70pct,0.7,3
+3525.pdf,Scientometrics,SCIM,2021,low,v3_coverage_70pct,0.7,3
+3543.pdf,Scientometrics,SCIM,2021,low,v3_coverage_70pct,0.7,3
+3545.pdf,Scientometrics,SCIM,2021,low,v3_coverage_70pct,0.7,3
+3578.pdf,Scientometrics,SCIM,2022,high,v3_coverage_70pct,0.7,3
+3583.pdf,Scientometrics,SCIM,2022,high,v3_coverage_70pct,0.7,3
+3584.pdf,Scientometrics,SCIM,2022,high,v3_coverage_70pct,0.7,3
+3595.pdf,Scientometrics,SCIM,2022,high,v3_coverage_70pct,0.7,3
+3611.pdf,Scientometrics,SCIM,2022,high,v3_coverage_70pct,0.7,3
+3619.pdf,Scientometrics,SCIM,2022,high,v3_coverage_70pct,0.7,3
+3639.pdf,Scientometrics,SCIM,2022,high,v3_coverage_70pct,0.7,3
+3656.pdf,Scientometrics,SCIM,2022,high,v3_coverage_70pct,0.7,3
+3664.pdf,Scientometrics,SCIM,2022,high,v3_coverage_70pct,0.7,3
+3672.pdf,Scientometrics,SCIM,2022,high,v3_coverage_70pct,0.7,3
+3722.pdf,Scientometrics,SCIM,2022,high,v3_coverage_70pct,0.7,3
+3731.pdf,Scientometrics,SCIM,2022,high,v3_coverage_70pct,0.7,3
+3733.pdf,Scientometrics,SCIM,2022,high,v3_coverage_70pct,0.7,3
+3566.pdf,Scientometrics,SCIM,2022,low,v3_coverage_70pct,0.7,3
+3576.pdf,Scientometrics,SCIM,2022,low,v3_coverage_70pct,0.7,3
+3587.pdf,Scientometrics,SCIM,2022,low,v3_coverage_70pct,0.7,3
+3589.pdf,Scientometrics,SCIM,2022,low,v3_coverage_70pct,0.7,3
+3591.pdf,Scientometrics,SCIM,2022,low,v3_coverage_70pct,0.7,3
+3600.pdf,Scientometrics,SCIM,2022,low,v3_coverage_70pct,0.7,3
+3631.pdf,Scientometrics,SCIM,2022,low,v3_coverage_70pct,0.7,3
+3673.pdf,Scientometrics,SCIM,2022,low,v3_coverage_70pct,0.7,3
+3697.pdf,Scientometrics,SCIM,2022,low,v3_coverage_70pct,0.7,3
+3700.pdf,Scientometrics,SCIM,2022,low,v3_coverage_70pct,0.7,3
+3738.pdf,Scientometrics,SCIM,2022,low,v3_coverage_70pct,0.7,3
+3739.pdf,Scientometrics,SCIM,2022,low,v3_coverage_70pct,0.7,3
+9.pdf,Frontiers in Communication,FCOMM,2016,high,v4_coverage_100pct,1.0,4
+13.pdf,Frontiers in Communication,FCOMM,2016,low,v4_coverage_100pct,1.0,4
+14.pdf,Frontiers in Communication,FCOMM,2017,high,v4_coverage_100pct,1.0,4
+17.pdf,Frontiers in Communication,FCOMM,2017,high,v4_coverage_100pct,1.0,4
+37.pdf,Frontiers in Communication,FCOMM,2017,high,v4_coverage_100pct,1.0,4
+18.pdf,Frontiers in Communication,FCOMM,2017,low,v4_coverage_100pct,1.0,4
+33.pdf,Frontiers in Communication,FCOMM,2017,low,v4_coverage_100pct,1.0,4
+44.pdf,Frontiers in Communication,FCOMM,2018,high,v4_coverage_100pct,1.0,4
+56.pdf,Frontiers in Communication,FCOMM,2018,high,v4_coverage_100pct,1.0,4
+61.pdf,Frontiers in Communication,FCOMM,2018,high,v4_coverage_100pct,1.0,4
+71.pdf,Frontiers in Communication,FCOMM,2018,high,v4_coverage_100pct,1.0,4
+78.pdf,Frontiers in Communication,FCOMM,2018,high,v4_coverage_100pct,1.0,4
+39.pdf,Frontiers in Communication,FCOMM,2018,low,v4_coverage_100pct,1.0,4
+40.pdf,Frontiers in Communication,FCOMM,2018,low,v4_coverage_100pct,1.0,4
+46.pdf,Frontiers in Communication,FCOMM,2018,low,v4_coverage_100pct,1.0,4
+49.pdf,Frontiers in Communication,FCOMM,2018,low,v4_coverage_100pct,1.0,4
+67.pdf,Frontiers in Communication,FCOMM,2018,low,v4_coverage_100pct,1.0,4
+100.pdf,Frontiers in Communication,FCOMM,2019,high,v4_coverage_100pct,1.0,4
+107.pdf,Frontiers in Communication,FCOMM,2019,high,v4_coverage_100pct,1.0,4
+126.pdf,Frontiers in Communication,FCOMM,2019,high,v4_coverage_100pct,1.0,4
+130.pdf,Frontiers in Communication,FCOMM,2019,high,v4_coverage_100pct,1.0,4
+156.pdf,Frontiers in Communication,FCOMM,2019,high,v4_coverage_100pct,1.0,4
+163.pdf,Frontiers in Communication,FCOMM,2019,high,v4_coverage_100pct,1.0,4
+164.pdf,Frontiers in Communication,FCOMM,2019,high,v4_coverage_100pct,1.0,4
+94.pdf,Frontiers in Communication,FCOMM,2019,high,v4_coverage_100pct,1.0,4
+115.pdf,Frontiers in Communication,FCOMM,2019,low,v4_coverage_100pct,1.0,4
+118.pdf,Frontiers in Communication,FCOMM,2019,low,v4_coverage_100pct,1.0,4
+129.pdf,Frontiers in Communication,FCOMM,2019,low,v4_coverage_100pct,1.0,4
+136.pdf,Frontiers in Communication,FCOMM,2019,low,v4_coverage_100pct,1.0,4
+140.pdf,Frontiers in Communication,FCOMM,2019,low,v4_coverage_100pct,1.0,4
+154.pdf,Frontiers in Communication,FCOMM,2019,low,v4_coverage_100pct,1.0,4
+172.pdf,Frontiers in Communication,FCOMM,2019,low,v4_coverage_100pct,1.0,4
+97.pdf,Frontiers in Communication,FCOMM,2019,low,v4_coverage_100pct,1.0,4
+174.pdf,Frontiers in Communication,FCOMM,2020,high,v4_coverage_100pct,1.0,4
+179.pdf,Frontiers in Communication,FCOMM,2020,high,v4_coverage_100pct,1.0,4
+186.pdf,Frontiers in Communication,FCOMM,2020,high,v4_coverage_100pct,1.0,4
+189.pdf,Frontiers in Communication,FCOMM,2020,high,v4_coverage_100pct,1.0,4
+193.pdf,Frontiers in Communication,FCOMM,2020,high,v4_coverage_100pct,1.0,4
+234.pdf,Frontiers in Communication,FCOMM,2020,high,v4_coverage_100pct,1.0,4
+240.pdf,Frontiers in Communication,FCOMM,2020,high,v4_coverage_100pct,1.0,4
+246.pdf,Frontiers in Communication,FCOMM,2020,high,v4_coverage_100pct,1.0,4
+257.pdf,Frontiers in Communication,FCOMM,2020,high,v4_coverage_100pct,1.0,4
+259.pdf,Frontiers in Communication,FCOMM,2020,high,v4_coverage_100pct,1.0,4
+277.pdf,Frontiers in Communication,FCOMM,2020,high,v4_coverage_100pct,1.0,4
+281.pdf,Frontiers in Communication,FCOMM,2020,high,v4_coverage_100pct,1.0,4
+175.pdf,Frontiers in Communication,FCOMM,2020,low,v4_coverage_100pct,1.0,4
+181.pdf,Frontiers in Communication,FCOMM,2020,low,v4_coverage_100pct,1.0,4
+209.pdf,Frontiers in Communication,FCOMM,2020,low,v4_coverage_100pct,1.0,4
+213.pdf,Frontiers in Communication,FCOMM,2020,low,v4_coverage_100pct,1.0,4
+222.pdf,Frontiers in Communication,FCOMM,2020,low,v4_coverage_100pct,1.0,4
+228.pdf,Frontiers in Communication,FCOMM,2020,low,v4_coverage_100pct,1.0,4
+232.pdf,Frontiers in Communication,FCOMM,2020,low,v4_coverage_100pct,1.0,4
+236.pdf,Frontiers in Communication,FCOMM,2020,low,v4_coverage_100pct,1.0,4
+248.pdf,Frontiers in Communication,FCOMM,2020,low,v4_coverage_100pct,1.0,4
+275.pdf,Frontiers in Communication,FCOMM,2020,low,v4_coverage_100pct,1.0,4
+276.pdf,Frontiers in Communication,FCOMM,2020,low,v4_coverage_100pct,1.0,4
+283.pdf,Frontiers in Communication,FCOMM,2020,low,v4_coverage_100pct,1.0,4
+301.pdf,Frontiers in Communication,FCOMM,2021,high,v4_coverage_100pct,1.0,4
+307.pdf,Frontiers in Communication,FCOMM,2021,high,v4_coverage_100pct,1.0,4
+323.pdf,Frontiers in Communication,FCOMM,2021,high,v4_coverage_100pct,1.0,4
+329.pdf,Frontiers in Communication,FCOMM,2021,high,v4_coverage_100pct,1.0,4
+330.pdf,Frontiers in Communication,FCOMM,2021,high,v4_coverage_100pct,1.0,4
+336.pdf,Frontiers in Communication,FCOMM,2021,high,v4_coverage_100pct,1.0,4
+360.pdf,Frontiers in Communication,FCOMM,2021,high,v4_coverage_100pct,1.0,4
+385.pdf,Frontiers in Communication,FCOMM,2021,high,v4_coverage_100pct,1.0,4
+401.pdf,Frontiers in Communication,FCOMM,2021,high,v4_coverage_100pct,1.0,4
+404.pdf,Frontiers in Communication,FCOMM,2021,high,v4_coverage_100pct,1.0,4
+420.pdf,Frontiers in Communication,FCOMM,2021,high,v4_coverage_100pct,1.0,4
+423.pdf,Frontiers in Communication,FCOMM,2021,high,v4_coverage_100pct,1.0,4
+427.pdf,Frontiers in Communication,FCOMM,2021,high,v4_coverage_100pct,1.0,4
+428.pdf,Frontiers in Communication,FCOMM,2021,high,v4_coverage_100pct,1.0,4
+429.pdf,Frontiers in Communication,FCOMM,2021,high,v4_coverage_100pct,1.0,4
+442.pdf,Frontiers in Communication,FCOMM,2021,high,v4_coverage_100pct,1.0,4
+447.pdf,Frontiers in Communication,FCOMM,2021,high,v4_coverage_100pct,1.0,4
+477.pdf,Frontiers in Communication,FCOMM,2021,high,v4_coverage_100pct,1.0,4
+484.pdf,Frontiers in Communication,FCOMM,2021,high,v4_coverage_100pct,1.0,4
+495.pdf,Frontiers in Communication,FCOMM,2021,high,v4_coverage_100pct,1.0,4
+506.pdf,Frontiers in Communication,FCOMM,2021,high,v4_coverage_100pct,1.0,4
+523.pdf,Frontiers in Communication,FCOMM,2021,high,v4_coverage_100pct,1.0,4
+526.pdf,Frontiers in Communication,FCOMM,2021,high,v4_coverage_100pct,1.0,4
+531.pdf,Frontiers in Communication,FCOMM,2021,high,v4_coverage_100pct,1.0,4
+532.pdf,Frontiers in Communication,FCOMM,2021,high,v4_coverage_100pct,1.0,4
+549.pdf,Frontiers in Communication,FCOMM,2021,high,v4_coverage_100pct,1.0,4
+554.pdf,Frontiers in Communication,FCOMM,2021,high,v4_coverage_100pct,1.0,4
+345.pdf,Frontiers in Communication,FCOMM,2021,low,v4_coverage_100pct,1.0,4
+352.pdf,Frontiers in Communication,FCOMM,2021,low,v4_coverage_100pct,1.0,4
+357.pdf,Frontiers in Communication,FCOMM,2021,low,v4_coverage_100pct,1.0,4
+358.pdf,Frontiers in Communication,FCOMM,2021,low,v4_coverage_100pct,1.0,4
+369.pdf,Frontiers in Communication,FCOMM,2021,low,v4_coverage_100pct,1.0,4
+378.pdf,Frontiers in Communication,FCOMM,2021,low,v4_coverage_100pct,1.0,4
+389.pdf,Frontiers in Communication,FCOMM,2021,low,v4_coverage_100pct,1.0,4
+392.pdf,Frontiers in Communication,FCOMM,2021,low,v4_coverage_100pct,1.0,4
+425.pdf,Frontiers in Communication,FCOMM,2021,low,v4_coverage_100pct,1.0,4
+426.pdf,Frontiers in Communication,FCOMM,2021,low,v4_coverage_100pct,1.0,4
+436.pdf,Frontiers in Communication,FCOMM,2021,low,v4_coverage_100pct,1.0,4
+437.pdf,Frontiers in Communication,FCOMM,2021,low,v4_coverage_100pct,1.0,4
+440.pdf,Frontiers in Communication,FCOMM,2021,low,v4_coverage_100pct,1.0,4
+445.pdf,Frontiers in Communication,FCOMM,2021,low,v4_coverage_100pct,1.0,4
+448.pdf,Frontiers in Communication,FCOMM,2021,low,v4_coverage_100pct,1.0,4
+451.pdf,Frontiers in Communication,FCOMM,2021,low,v4_coverage_100pct,1.0,4
+454.pdf,Frontiers in Communication,FCOMM,2021,low,v4_coverage_100pct,1.0,4
+458.pdf,Frontiers in Communication,FCOMM,2021,low,v4_coverage_100pct,1.0,4
+461.pdf,Frontiers in Communication,FCOMM,2021,low,v4_coverage_100pct,1.0,4
+466.pdf,Frontiers in Communication,FCOMM,2021,low,v4_coverage_100pct,1.0,4
+468.pdf,Frontiers in Communication,FCOMM,2021,low,v4_coverage_100pct,1.0,4
+485.pdf,Frontiers in Communication,FCOMM,2021,low,v4_coverage_100pct,1.0,4
+490.pdf,Frontiers in Communication,FCOMM,2021,low,v4_coverage_100pct,1.0,4
+492.pdf,Frontiers in Communication,FCOMM,2021,low,v4_coverage_100pct,1.0,4
+501.pdf,Frontiers in Communication,FCOMM,2021,low,v4_coverage_100pct,1.0,4
+553.pdf,Frontiers in Communication,FCOMM,2021,low,v4_coverage_100pct,1.0,4
+570.pdf,Frontiers in Communication,FCOMM,2022,high,v4_coverage_100pct,1.0,4
+580.pdf,Frontiers in Communication,FCOMM,2022,high,v4_coverage_100pct,1.0,4
+581.pdf,Frontiers in Communication,FCOMM,2022,high,v4_coverage_100pct,1.0,4
+595.pdf,Frontiers in Communication,FCOMM,2022,high,v4_coverage_100pct,1.0,4
+598.pdf,Frontiers in Communication,FCOMM,2022,high,v4_coverage_100pct,1.0,4
+608.pdf,Frontiers in Communication,FCOMM,2022,high,v4_coverage_100pct,1.0,4
+610.pdf,Frontiers in Communication,FCOMM,2022,high,v4_coverage_100pct,1.0,4
+629.pdf,Frontiers in Communication,FCOMM,2022,high,v4_coverage_100pct,1.0,4
+656.pdf,Frontiers in Communication,FCOMM,2022,high,v4_coverage_100pct,1.0,4
+666.pdf,Frontiers in Communication,FCOMM,2022,high,v4_coverage_100pct,1.0,4
+689.pdf,Frontiers in Communication,FCOMM,2022,high,v4_coverage_100pct,1.0,4
+718.pdf,Frontiers in Communication,FCOMM,2022,high,v4_coverage_100pct,1.0,4
+720.pdf,Frontiers in Communication,FCOMM,2022,high,v4_coverage_100pct,1.0,4
+722.pdf,Frontiers in Communication,FCOMM,2022,high,v4_coverage_100pct,1.0,4
+727.pdf,Frontiers in Communication,FCOMM,2022,high,v4_coverage_100pct,1.0,4
+731.pdf,Frontiers in Communication,FCOMM,2022,high,v4_coverage_100pct,1.0,4
+736.pdf,Frontiers in Communication,FCOMM,2022,high,v4_coverage_100pct,1.0,4
+738.pdf,Frontiers in Communication,FCOMM,2022,high,v4_coverage_100pct,1.0,4
+772.pdf,Frontiers in Communication,FCOMM,2022,high,v4_coverage_100pct,1.0,4
+789.pdf,Frontiers in Communication,FCOMM,2022,high,v4_coverage_100pct,1.0,4
+790.pdf,Frontiers in Communication,FCOMM,2022,high,v4_coverage_100pct,1.0,4
+809.pdf,Frontiers in Communication,FCOMM,2022,high,v4_coverage_100pct,1.0,4
+810.pdf,Frontiers in Communication,FCOMM,2022,high,v4_coverage_100pct,1.0,4
+818.pdf,Frontiers in Communication,FCOMM,2022,high,v4_coverage_100pct,1.0,4
+820.pdf,Frontiers in Communication,FCOMM,2022,high,v4_coverage_100pct,1.0,4
+821.pdf,Frontiers in Communication,FCOMM,2022,high,v4_coverage_100pct,1.0,4
+838.pdf,Frontiers in Communication,FCOMM,2022,high,v4_coverage_100pct,1.0,4
+839.pdf,Frontiers in Communication,FCOMM,2022,high,v4_coverage_100pct,1.0,4
+840.pdf,Frontiers in Communication,FCOMM,2022,high,v4_coverage_100pct,1.0,4
+556.pdf,Frontiers in Communication,FCOMM,2022,low,v4_coverage_100pct,1.0,4
+557.pdf,Frontiers in Communication,FCOMM,2022,low,v4_coverage_100pct,1.0,4
+567.pdf,Frontiers in Communication,FCOMM,2022,low,v4_coverage_100pct,1.0,4
+568.pdf,Frontiers in Communication,FCOMM,2022,low,v4_coverage_100pct,1.0,4
+582.pdf,Frontiers in Communication,FCOMM,2022,low,v4_coverage_100pct,1.0,4
+584.pdf,Frontiers in Communication,FCOMM,2022,low,v4_coverage_100pct,1.0,4
+589.pdf,Frontiers in Communication,FCOMM,2022,low,v4_coverage_100pct,1.0,4
+597.pdf,Frontiers in Communication,FCOMM,2022,low,v4_coverage_100pct,1.0,4
+647.pdf,Frontiers in Communication,FCOMM,2022,low,v4_coverage_100pct,1.0,4
+651.pdf,Frontiers in Communication,FCOMM,2022,low,v4_coverage_100pct,1.0,4
+659.pdf,Frontiers in Communication,FCOMM,2022,low,v4_coverage_100pct,1.0,4
+669.pdf,Frontiers in Communication,FCOMM,2022,low,v4_coverage_100pct,1.0,4
+674.pdf,Frontiers in Communication,FCOMM,2022,low,v4_coverage_100pct,1.0,4
+675.pdf,Frontiers in Communication,FCOMM,2022,low,v4_coverage_100pct,1.0,4
+687.pdf,Frontiers in Communication,FCOMM,2022,low,v4_coverage_100pct,1.0,4
+693.pdf,Frontiers in Communication,FCOMM,2022,low,v4_coverage_100pct,1.0,4
+698.pdf,Frontiers in Communication,FCOMM,2022,low,v4_coverage_100pct,1.0,4
+710.pdf,Frontiers in Communication,FCOMM,2022,low,v4_coverage_100pct,1.0,4
+716.pdf,Frontiers in Communication,FCOMM,2022,low,v4_coverage_100pct,1.0,4
+728.pdf,Frontiers in Communication,FCOMM,2022,low,v4_coverage_100pct,1.0,4
+734.pdf,Frontiers in Communication,FCOMM,2022,low,v4_coverage_100pct,1.0,4
+744.pdf,Frontiers in Communication,FCOMM,2022,low,v4_coverage_100pct,1.0,4
+745.pdf,Frontiers in Communication,FCOMM,2022,low,v4_coverage_100pct,1.0,4
+750.pdf,Frontiers in Communication,FCOMM,2022,low,v4_coverage_100pct,1.0,4
+755.pdf,Frontiers in Communication,FCOMM,2022,low,v4_coverage_100pct,1.0,4
+761.pdf,Frontiers in Communication,FCOMM,2022,low,v4_coverage_100pct,1.0,4
+767.pdf,Frontiers in Communication,FCOMM,2022,low,v4_coverage_100pct,1.0,4
+776.pdf,Frontiers in Communication,FCOMM,2022,low,v4_coverage_100pct,1.0,4
+777.pdf,Frontiers in Communication,FCOMM,2022,low,v4_coverage_100pct,1.0,4
+803.pdf,Frontiers in Communication,FCOMM,2022,low,v4_coverage_100pct,1.0,4
+843.pdf,Frontiers in Research Metrics and Analytics,RMA,2016,high,v4_coverage_100pct,1.0,4
+844.pdf,Frontiers in Research Metrics and Analytics,RMA,2016,low,v4_coverage_100pct,1.0,4
+857.pdf,Frontiers in Research Metrics and Analytics,RMA,2017,high,v4_coverage_100pct,1.0,4
+852.pdf,Frontiers in Research Metrics and Analytics,RMA,2017,low,v4_coverage_100pct,1.0,4
+874.pdf,Frontiers in Research Metrics and Analytics,RMA,2018,high,v4_coverage_100pct,1.0,4
+885.pdf,Frontiers in Research Metrics and Analytics,RMA,2018,high,v4_coverage_100pct,1.0,4
+886.pdf,Frontiers in Research Metrics and Analytics,RMA,2018,high,v4_coverage_100pct,1.0,4
+896.pdf,Frontiers in Research Metrics and Analytics,RMA,2018,high,v4_coverage_100pct,1.0,4
+875.pdf,Frontiers in Research Metrics and Analytics,RMA,2018,low,v4_coverage_100pct,1.0,4
+876.pdf,Frontiers in Research Metrics and Analytics,RMA,2018,low,v4_coverage_100pct,1.0,4
+881.pdf,Frontiers in Research Metrics and Analytics,RMA,2018,low,v4_coverage_100pct,1.0,4
+884.pdf,Frontiers in Research Metrics and Analytics,RMA,2018,low,v4_coverage_100pct,1.0,4
+905.pdf,Frontiers in Research Metrics and Analytics,RMA,2019,high,v4_coverage_100pct,1.0,4
+900.pdf,Frontiers in Research Metrics and Analytics,RMA,2019,low,v4_coverage_100pct,1.0,4
+911.pdf,Frontiers in Research Metrics and Analytics,RMA,2020,high,v4_coverage_100pct,1.0,4
+918.pdf,Frontiers in Research Metrics and Analytics,RMA,2020,high,v4_coverage_100pct,1.0,4
+921.pdf,Frontiers in Research Metrics and Analytics,RMA,2020,low,v4_coverage_100pct,1.0,4
+928.pdf,Frontiers in Research Metrics and Analytics,RMA,2020,low,v4_coverage_100pct,1.0,4
+1005.pdf,Frontiers in Research Metrics and Analytics,RMA,2021,high,v4_coverage_100pct,1.0,4
+930.pdf,Frontiers in Research Metrics and Analytics,RMA,2021,high,v4_coverage_100pct,1.0,4
+947.pdf,Frontiers in Research Metrics and Analytics,RMA,2021,high,v4_coverage_100pct,1.0,4
+957.pdf,Frontiers in Research Metrics and Analytics,RMA,2021,high,v4_coverage_100pct,1.0,4
+975.pdf,Frontiers in Research Metrics and Analytics,RMA,2021,high,v4_coverage_100pct,1.0,4
+985.pdf,Frontiers in Research Metrics and Analytics,RMA,2021,high,v4_coverage_100pct,1.0,4
+996.pdf,Frontiers in Research Metrics and Analytics,RMA,2021,high,v4_coverage_100pct,1.0,4
+998.pdf,Frontiers in Research Metrics and Analytics,RMA,2021,high,v4_coverage_100pct,1.0,4
+929.pdf,Frontiers in Research Metrics and Analytics,RMA,2021,low,v4_coverage_100pct,1.0,4
+932.pdf,Frontiers in Research Metrics and Analytics,RMA,2021,low,v4_coverage_100pct,1.0,4
+954.pdf,Frontiers in Research Metrics and Analytics,RMA,2021,low,v4_coverage_100pct,1.0,4
+959.pdf,Frontiers in Research Metrics and Analytics,RMA,2021,low,v4_coverage_100pct,1.0,4
+962.pdf,Frontiers in Research Metrics and Analytics,RMA,2021,low,v4_coverage_100pct,1.0,4
+971.pdf,Frontiers in Research Metrics and Analytics,RMA,2021,low,v4_coverage_100pct,1.0,4
+976.pdf,Frontiers in Research Metrics and Analytics,RMA,2021,low,v4_coverage_100pct,1.0,4
+981.pdf,Frontiers in Research Metrics and Analytics,RMA,2021,low,v4_coverage_100pct,1.0,4
+1013.pdf,Frontiers in Research Metrics and Analytics,RMA,2022,high,v4_coverage_100pct,1.0,4
+1035.pdf,Frontiers in Research Metrics and Analytics,RMA,2022,high,v4_coverage_100pct,1.0,4
+1037.pdf,Frontiers in Research Metrics and Analytics,RMA,2022,high,v4_coverage_100pct,1.0,4
+1043.pdf,Frontiers in Research Metrics and Analytics,RMA,2022,high,v4_coverage_100pct,1.0,4
+1044.pdf,Frontiers in Research Metrics and Analytics,RMA,2022,high,v4_coverage_100pct,1.0,4
+1065.pdf,Frontiers in Research Metrics and Analytics,RMA,2022,high,v4_coverage_100pct,1.0,4
+1080.pdf,Frontiers in Research Metrics and Analytics,RMA,2022,high,v4_coverage_100pct,1.0,4
+1084.pdf,Frontiers in Research Metrics and Analytics,RMA,2022,high,v4_coverage_100pct,1.0,4
+1090.pdf,Frontiers in Research Metrics and Analytics,RMA,2022,high,v4_coverage_100pct,1.0,4
+1007.pdf,Frontiers in Research Metrics and Analytics,RMA,2022,low,v4_coverage_100pct,1.0,4
+1018.pdf,Frontiers in Research Metrics and Analytics,RMA,2022,low,v4_coverage_100pct,1.0,4
+1023.pdf,Frontiers in Research Metrics and Analytics,RMA,2022,low,v4_coverage_100pct,1.0,4
+1024.pdf,Frontiers in Research Metrics and Analytics,RMA,2022,low,v4_coverage_100pct,1.0,4
+1032.pdf,Frontiers in Research Metrics and Analytics,RMA,2022,low,v4_coverage_100pct,1.0,4
+1034.pdf,Frontiers in Research Metrics and Analytics,RMA,2022,low,v4_coverage_100pct,1.0,4
+1063.pdf,Frontiers in Research Metrics and Analytics,RMA,2022,low,v4_coverage_100pct,1.0,4
+1091.pdf,Frontiers in Research Metrics and Analytics,RMA,2022,low,v4_coverage_100pct,1.0,4
+1097.pdf,Frontiers in Research Metrics and Analytics,RMA,2022,low,v4_coverage_100pct,1.0,4
+1102.pdf,Iberoamerican Journal of Science Measurement and Communication,IJSMC,2020,high,v4_coverage_100pct,1.0,4
+1112.pdf,Iberoamerican Journal of Science Measurement and Communication,IJSMC,2021,high,v4_coverage_100pct,1.0,4
+1111.pdf,Iberoamerican Journal of Science Measurement and Communication,IJSMC,2021,low,v4_coverage_100pct,1.0,4
+1118.pdf,Iberoamerican Journal of Science Measurement and Communication,IJSMC,2022,high,v4_coverage_100pct,1.0,4
+1123.pdf,Iberoamerican Journal of Science Measurement and Communication,IJSMC,2022,high,v4_coverage_100pct,1.0,4
+1129.pdf,Iberoamerican Journal of Science Measurement and Communication,IJSMC,2022,low,v4_coverage_100pct,1.0,4
+1132.pdf,Iberoamerican Journal of Science Measurement and Communication,IJSMC,2022,low,v4_coverage_100pct,1.0,4
+1137.pdf,Journal of Informetrics,JOI,2008,low,v4_coverage_100pct,1.0,4
+1142.pdf,Journal of Informetrics,JOI,2008,low,v4_coverage_100pct,1.0,4
+1145.pdf,Journal of Informetrics,JOI,2009,low,v4_coverage_100pct,1.0,4
+1148.pdf,Journal of Informetrics,JOI,2009,low,v4_coverage_100pct,1.0,4
+1149.pdf,Journal of Informetrics,JOI,2009,low,v4_coverage_100pct,1.0,4
+1152.pdf,Journal of Informetrics,JOI,2009,low,v4_coverage_100pct,1.0,4
+1164.pdf,Journal of Informetrics,JOI,2010,high,v4_coverage_100pct,1.0,4
+1162.pdf,Journal of Informetrics,JOI,2010,low,v4_coverage_100pct,1.0,4
+1183.pdf,Journal of Informetrics,JOI,2011,high,v4_coverage_100pct,1.0,4
+1190.pdf,Journal of Informetrics,JOI,2011,high,v4_coverage_100pct,1.0,4
+1193.pdf,Journal of Informetrics,JOI,2012,high,v4_coverage_100pct,1.0,4
+1194.pdf,Journal of Informetrics,JOI,2012,high,v4_coverage_100pct,1.0,4
+1198.pdf,Journal of Informetrics,JOI,2012,high,v4_coverage_100pct,1.0,4
+1202.pdf,Journal of Informetrics,JOI,2012,high,v4_coverage_100pct,1.0,4
+1209.pdf,Journal of Informetrics,JOI,2012,high,v4_coverage_100pct,1.0,4
+1214.pdf,Journal of Informetrics,JOI,2013,high,v4_coverage_100pct,1.0,4
+1238.pdf,Journal of Informetrics,JOI,2013,high,v4_coverage_100pct,1.0,4
+1229.pdf,Journal of Informetrics,JOI,2013,low,v4_coverage_100pct,1.0,4
+1236.pdf,Journal of Informetrics,JOI,2013,low,v4_coverage_100pct,1.0,4
+1237.pdf,Journal of Informetrics,JOI,2013,low,v4_coverage_100pct,1.0,4
+1248.pdf,Journal of Informetrics,JOI,2014,high,v4_coverage_100pct,1.0,4
+1254.pdf,Journal of Informetrics,JOI,2014,high,v4_coverage_100pct,1.0,4
+1257.pdf,Journal of Informetrics,JOI,2014,high,v4_coverage_100pct,1.0,4
+1262.pdf,Journal of Informetrics,JOI,2014,low,v4_coverage_100pct,1.0,4
+1263.pdf,Journal of Informetrics,JOI,2014,low,v4_coverage_100pct,1.0,4
+1267.pdf,Journal of Informetrics,JOI,2015,high,v4_coverage_100pct,1.0,4
+1271.pdf,Journal of Informetrics,JOI,2015,high,v4_coverage_100pct,1.0,4
+1282.pdf,Journal of Informetrics,JOI,2015,high,v4_coverage_100pct,1.0,4
+1284.pdf,Journal of Informetrics,JOI,2015,high,v4_coverage_100pct,1.0,4
+1264.pdf,Journal of Informetrics,JOI,2015,low,v4_coverage_100pct,1.0,4
+1293.pdf,Journal of Informetrics,JOI,2015,low,v4_coverage_100pct,1.0,4
+1298.pdf,Journal of Informetrics,JOI,2015,low,v4_coverage_100pct,1.0,4
+1299.pdf,Journal of Informetrics,JOI,2015,low,v4_coverage_100pct,1.0,4
+1311.pdf,Journal of Informetrics,JOI,2016,high,v4_coverage_100pct,1.0,4
+1324.pdf,Journal of Informetrics,JOI,2016,high,v4_coverage_100pct,1.0,4
+1325.pdf,Journal of Informetrics,JOI,2016,high,v4_coverage_100pct,1.0,4
+1336.pdf,Journal of Informetrics,JOI,2016,high,v4_coverage_100pct,1.0,4
+1339.pdf,Journal of Informetrics,JOI,2016,high,v4_coverage_100pct,1.0,4
+1304.pdf,Journal of Informetrics,JOI,2016,low,v4_coverage_100pct,1.0,4
+1308.pdf,Journal of Informetrics,JOI,2016,low,v4_coverage_100pct,1.0,4
+1320.pdf,Journal of Informetrics,JOI,2016,low,v4_coverage_100pct,1.0,4
+1322.pdf,Journal of Informetrics,JOI,2016,low,v4_coverage_100pct,1.0,4
+1330.pdf,Journal of Informetrics,JOI,2016,low,v4_coverage_100pct,1.0,4
+1356.pdf,Journal of Informetrics,JOI,2017,high,v4_coverage_100pct,1.0,4
+1367.pdf,Journal of Informetrics,JOI,2017,high,v4_coverage_100pct,1.0,4
+1371.pdf,Journal of Informetrics,JOI,2017,high,v4_coverage_100pct,1.0,4
+1389.pdf,Journal of Informetrics,JOI,2017,high,v4_coverage_100pct,1.0,4
+1393.pdf,Journal of Informetrics,JOI,2017,high,v4_coverage_100pct,1.0,4
+1349.pdf,Journal of Informetrics,JOI,2017,low,v4_coverage_100pct,1.0,4
+1354.pdf,Journal of Informetrics,JOI,2017,low,v4_coverage_100pct,1.0,4
+1362.pdf,Journal of Informetrics,JOI,2017,low,v4_coverage_100pct,1.0,4
+1380.pdf,Journal of Informetrics,JOI,2017,low,v4_coverage_100pct,1.0,4
+1382.pdf,Journal of Informetrics,JOI,2017,low,v4_coverage_100pct,1.0,4
+1395.pdf,Journal of Informetrics,JOI,2018,high,v4_coverage_100pct,1.0,4
+1416.pdf,Journal of Informetrics,JOI,2018,high,v4_coverage_100pct,1.0,4
+1418.pdf,Journal of Informetrics,JOI,2018,high,v4_coverage_100pct,1.0,4
+1425.pdf,Journal of Informetrics,JOI,2018,high,v4_coverage_100pct,1.0,4
+1444.pdf,Journal of Informetrics,JOI,2018,high,v4_coverage_100pct,1.0,4
+1405.pdf,Journal of Informetrics,JOI,2018,low,v4_coverage_100pct,1.0,4
+1413.pdf,Journal of Informetrics,JOI,2018,low,v4_coverage_100pct,1.0,4
+1426.pdf,Journal of Informetrics,JOI,2018,low,v4_coverage_100pct,1.0,4
+1440.pdf,Journal of Informetrics,JOI,2018,low,v4_coverage_100pct,1.0,4
+1441.pdf,Journal of Informetrics,JOI,2018,low,v4_coverage_100pct,1.0,4
+1442.pdf,Journal of Informetrics,JOI,2018,low,v4_coverage_100pct,1.0,4
+1453.pdf,Journal of Informetrics,JOI,2019,high,v4_coverage_100pct,1.0,4
+1458.pdf,Journal of Informetrics,JOI,2019,high,v4_coverage_100pct,1.0,4
+1469.pdf,Journal of Informetrics,JOI,2019,high,v4_coverage_100pct,1.0,4
+1470.pdf,Journal of Informetrics,JOI,2019,high,v4_coverage_100pct,1.0,4
+1451.pdf,Journal of Informetrics,JOI,2019,low,v4_coverage_100pct,1.0,4
+1462.pdf,Journal of Informetrics,JOI,2019,low,v4_coverage_100pct,1.0,4
+1480.pdf,Journal of Informetrics,JOI,2019,low,v4_coverage_100pct,1.0,4
+1484.pdf,Journal of Informetrics,JOI,2019,low,v4_coverage_100pct,1.0,4
+1505.pdf,Journal of Informetrics,JOI,2020,high,v4_coverage_100pct,1.0,4
+1508.pdf,Journal of Informetrics,JOI,2020,high,v4_coverage_100pct,1.0,4
+1520.pdf,Journal of Informetrics,JOI,2020,high,v4_coverage_100pct,1.0,4
+1522.pdf,Journal of Informetrics,JOI,2020,high,v4_coverage_100pct,1.0,4
+1493.pdf,Journal of Informetrics,JOI,2020,low,v4_coverage_100pct,1.0,4
+1513.pdf,Journal of Informetrics,JOI,2020,low,v4_coverage_100pct,1.0,4
+1519.pdf,Journal of Informetrics,JOI,2020,low,v4_coverage_100pct,1.0,4
+1525.pdf,Journal of Informetrics,JOI,2021,high,v4_coverage_100pct,1.0,4
+1535.pdf,Journal of Informetrics,JOI,2021,high,v4_coverage_100pct,1.0,4
+1545.pdf,Journal of Informetrics,JOI,2021,high,v4_coverage_100pct,1.0,4
+1529.pdf,Journal of Informetrics,JOI,2021,low,v4_coverage_100pct,1.0,4
+1533.pdf,Journal of Informetrics,JOI,2021,low,v4_coverage_100pct,1.0,4
+1549.pdf,Journal of Informetrics,JOI,2021,low,v4_coverage_100pct,1.0,4
+1557.pdf,Journal of Informetrics,JOI,2022,high,v4_coverage_100pct,1.0,4
+1578.pdf,Journal of Informetrics,JOI,2022,high,v4_coverage_100pct,1.0,4
+1579.pdf,Journal of Informetrics,JOI,2022,high,v4_coverage_100pct,1.0,4
+1559.pdf,Journal of Informetrics,JOI,2022,low,v4_coverage_100pct,1.0,4
+1560.pdf,Journal of Informetrics,JOI,2022,low,v4_coverage_100pct,1.0,4
+1566.pdf,Journal of Informetrics,JOI,2022,low,v4_coverage_100pct,1.0,4
+1597.pdf,Journal of the Association for Information Science and Technology,JASIST,2013,high,v4_coverage_100pct,1.0,4
+1599.pdf,Journal of the Association for Information Science and Technology,JASIST,2013,high,v4_coverage_100pct,1.0,4
+1586.pdf,Journal of the Association for Information Science and Technology,JASIST,2013,low,v4_coverage_100pct,1.0,4
+1592.pdf,Journal of the Association for Information Science and Technology,JASIST,2013,low,v4_coverage_100pct,1.0,4
+1604.pdf,Journal of the Association for Information Science and Technology,JASIST,2014,high,v4_coverage_100pct,1.0,4
+1616.pdf,Journal of the Association for Information Science and Technology,JASIST,2014,high,v4_coverage_100pct,1.0,4
+1623.pdf,Journal of the Association for Information Science and Technology,JASIST,2014,high,v4_coverage_100pct,1.0,4
+1635.pdf,Journal of the Association for Information Science and Technology,JASIST,2014,high,v4_coverage_100pct,1.0,4
+1638.pdf,Journal of the Association for Information Science and Technology,JASIST,2014,high,v4_coverage_100pct,1.0,4
+1648.pdf,Journal of the Association for Information Science and Technology,JASIST,2014,high,v4_coverage_100pct,1.0,4
+1622.pdf,Journal of the Association for Information Science and Technology,JASIST,2014,low,v4_coverage_100pct,1.0,4
+1628.pdf,Journal of the Association for Information Science and Technology,JASIST,2014,low,v4_coverage_100pct,1.0,4
+1634.pdf,Journal of the Association for Information Science and Technology,JASIST,2014,low,v4_coverage_100pct,1.0,4
+1653.pdf,Journal of the Association for Information Science and Technology,JASIST,2014,low,v4_coverage_100pct,1.0,4
+1656.pdf,Journal of the Association for Information Science and Technology,JASIST,2014,low,v4_coverage_100pct,1.0,4
+1664.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,high,v4_coverage_100pct,1.0,4
+1665.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,high,v4_coverage_100pct,1.0,4
+1671.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,high,v4_coverage_100pct,1.0,4
+1677.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,high,v4_coverage_100pct,1.0,4
+1681.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,high,v4_coverage_100pct,1.0,4
+1690.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,high,v4_coverage_100pct,1.0,4
+1703.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,high,v4_coverage_100pct,1.0,4
+1729.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,high,v4_coverage_100pct,1.0,4
+1753.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,high,v4_coverage_100pct,1.0,4
+1676.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,low,v4_coverage_100pct,1.0,4
+1680.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,low,v4_coverage_100pct,1.0,4
+1682.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,low,v4_coverage_100pct,1.0,4
+1697.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,low,v4_coverage_100pct,1.0,4
+1700.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,low,v4_coverage_100pct,1.0,4
+1710.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,low,v4_coverage_100pct,1.0,4
+1717.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,low,v4_coverage_100pct,1.0,4
+1728.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,low,v4_coverage_100pct,1.0,4
+1737.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,low,v4_coverage_100pct,1.0,4
+1754.pdf,Journal of the Association for Information Science and Technology,JASIST,2015,low,v4_coverage_100pct,1.0,4
+1762.pdf,Journal of the Association for Information Science and Technology,JASIST,2016,high,v4_coverage_100pct,1.0,4
+1773.pdf,Journal of the Association for Information Science and Technology,JASIST,2016,high,v4_coverage_100pct,1.0,4
+1774.pdf,Journal of the Association for Information Science and Technology,JASIST,2016,high,v4_coverage_100pct,1.0,4
+1787.pdf,Journal of the Association for Information Science and Technology,JASIST,2016,high,v4_coverage_100pct,1.0,4
+1790.pdf,Journal of the Association for Information Science and Technology,JASIST,2016,high,v4_coverage_100pct,1.0,4
+1766.pdf,Journal of the Association for Information Science and Technology,JASIST,2016,low,v4_coverage_100pct,1.0,4
+1780.pdf,Journal of the Association for Information Science and Technology,JASIST,2016,low,v4_coverage_100pct,1.0,4
+1781.pdf,Journal of the Association for Information Science and Technology,JASIST,2016,low,v4_coverage_100pct,1.0,4
+1788.pdf,Journal of the Association for Information Science and Technology,JASIST,2016,low,v4_coverage_100pct,1.0,4
+1789.pdf,Journal of the Association for Information Science and Technology,JASIST,2016,low,v4_coverage_100pct,1.0,4
+1813.pdf,Journal of the Association for Information Science and Technology,JASIST,2017,high,v4_coverage_100pct,1.0,4
+1822.pdf,Journal of the Association for Information Science and Technology,JASIST,2017,high,v4_coverage_100pct,1.0,4
+1833.pdf,Journal of the Association for Information Science and Technology,JASIST,2017,high,v4_coverage_100pct,1.0,4
+1848.pdf,Journal of the Association for Information Science and Technology,JASIST,2017,high,v4_coverage_100pct,1.0,4
+1849.pdf,Journal of the Association for Information Science and Technology,JASIST,2017,high,v4_coverage_100pct,1.0,4
+1816.pdf,Journal of the Association for Information Science and Technology,JASIST,2017,low,v4_coverage_100pct,1.0,4
+1824.pdf,Journal of the Association for Information Science and Technology,JASIST,2017,low,v4_coverage_100pct,1.0,4
+1834.pdf,Journal of the Association for Information Science and Technology,JASIST,2017,low,v4_coverage_100pct,1.0,4
+1840.pdf,Journal of the Association for Information Science and Technology,JASIST,2017,low,v4_coverage_100pct,1.0,4
+1842.pdf,Journal of the Association for Information Science and Technology,JASIST,2017,low,v4_coverage_100pct,1.0,4
+1865.pdf,Journal of the Association for Information Science and Technology,JASIST,2018,high,v4_coverage_100pct,1.0,4
+1873.pdf,Journal of the Association for Information Science and Technology,JASIST,2018,high,v4_coverage_100pct,1.0,4
+1880.pdf,Journal of the Association for Information Science and Technology,JASIST,2018,high,v4_coverage_100pct,1.0,4
+1881.pdf,Journal of the Association for Information Science and Technology,JASIST,2018,high,v4_coverage_100pct,1.0,4
+1867.pdf,Journal of the Association for Information Science and Technology,JASIST,2018,low,v4_coverage_100pct,1.0,4
+1869.pdf,Journal of the Association for Information Science and Technology,JASIST,2018,low,v4_coverage_100pct,1.0,4
+1885.pdf,Journal of the Association for Information Science and Technology,JASIST,2018,low,v4_coverage_100pct,1.0,4
+1890.pdf,Journal of the Association for Information Science and Technology,JASIST,2018,low,v4_coverage_100pct,1.0,4
+1924.pdf,Journal of the Association for Information Science and Technology,JASIST,2019,high,v4_coverage_100pct,1.0,4
+1949.pdf,Journal of the Association for Information Science and Technology,JASIST,2019,high,v4_coverage_100pct,1.0,4
+1952.pdf,Journal of the Association for Information Science and Technology,JASIST,2019,high,v4_coverage_100pct,1.0,4
+1953.pdf,Journal of the Association for Information Science and Technology,JASIST,2019,high,v4_coverage_100pct,1.0,4
+1954.pdf,Journal of the Association for Information Science and Technology,JASIST,2019,high,v4_coverage_100pct,1.0,4
+1956.pdf,Journal of the Association for Information Science and Technology,JASIST,2019,high,v4_coverage_100pct,1.0,4
+1958.pdf,Journal of the Association for Information Science and Technology,JASIST,2019,high,v4_coverage_100pct,1.0,4
+1899.pdf,Journal of the Association for Information Science and Technology,JASIST,2019,low,v4_coverage_100pct,1.0,4
+1902.pdf,Journal of the Association for Information Science and Technology,JASIST,2019,low,v4_coverage_100pct,1.0,4
+1909.pdf,Journal of the Association for Information Science and Technology,JASIST,2019,low,v4_coverage_100pct,1.0,4
+1920.pdf,Journal of the Association for Information Science and Technology,JASIST,2019,low,v4_coverage_100pct,1.0,4
+1932.pdf,Journal of the Association for Information Science and Technology,JASIST,2019,low,v4_coverage_100pct,1.0,4
+1936.pdf,Journal of the Association for Information Science and Technology,JASIST,2019,low,v4_coverage_100pct,1.0,4
+1941.pdf,Journal of the Association for Information Science and Technology,JASIST,2019,low,v4_coverage_100pct,1.0,4
+1973.pdf,Journal of the Association for Information Science and Technology,JASIST,2020,high,v4_coverage_100pct,1.0,4
+1980.pdf,Journal of the Association for Information Science and Technology,JASIST,2020,high,v4_coverage_100pct,1.0,4
+1993.pdf,Journal of the Association for Information Science and Technology,JASIST,2020,high,v4_coverage_100pct,1.0,4
+1995.pdf,Journal of the Association for Information Science and Technology,JASIST,2020,high,v4_coverage_100pct,1.0,4
+1963.pdf,Journal of the Association for Information Science and Technology,JASIST,2020,low,v4_coverage_100pct,1.0,4
+1965.pdf,Journal of the Association for Information Science and Technology,JASIST,2020,low,v4_coverage_100pct,1.0,4
+1972.pdf,Journal of the Association for Information Science and Technology,JASIST,2020,low,v4_coverage_100pct,1.0,4
+1984.pdf,Journal of the Association for Information Science and Technology,JASIST,2020,low,v4_coverage_100pct,1.0,4
+2003.pdf,Journal of the Association for Information Science and Technology,JASIST,2021,high,v4_coverage_100pct,1.0,4
+2022.pdf,Journal of the Association for Information Science and Technology,JASIST,2021,high,v4_coverage_100pct,1.0,4
+2024.pdf,Journal of the Association for Information Science and Technology,JASIST,2021,high,v4_coverage_100pct,1.0,4
+2026.pdf,Journal of the Association for Information Science and Technology,JASIST,2021,high,v4_coverage_100pct,1.0,4
+2034.pdf,Journal of the Association for Information Science and Technology,JASIST,2021,high,v4_coverage_100pct,1.0,4
+2048.pdf,Journal of the Association for Information Science and Technology,JASIST,2021,high,v4_coverage_100pct,1.0,4
+2052.pdf,Journal of the Association for Information Science and Technology,JASIST,2021,high,v4_coverage_100pct,1.0,4
+2001.pdf,Journal of the Association for Information Science and Technology,JASIST,2021,low,v4_coverage_100pct,1.0,4
+2005.pdf,Journal of the Association for Information Science and Technology,JASIST,2021,low,v4_coverage_100pct,1.0,4
+2007.pdf,Journal of the Association for Information Science and Technology,JASIST,2021,low,v4_coverage_100pct,1.0,4
+2012.pdf,Journal of the Association for Information Science and Technology,JASIST,2021,low,v4_coverage_100pct,1.0,4
+2016.pdf,Journal of the Association for Information Science and Technology,JASIST,2021,low,v4_coverage_100pct,1.0,4
+2045.pdf,Journal of the Association for Information Science and Technology,JASIST,2021,low,v4_coverage_100pct,1.0,4
+2069.pdf,Journal of the Association for Information Science and Technology,JASIST,2022,high,v4_coverage_100pct,1.0,4
+2096.pdf,Journal of the Association for Information Science and Technology,JASIST,2022,high,v4_coverage_100pct,1.0,4
+2102.pdf,Journal of the Association for Information Science and Technology,JASIST,2022,high,v4_coverage_100pct,1.0,4
+2106.pdf,Journal of the Association for Information Science and Technology,JASIST,2022,high,v4_coverage_100pct,1.0,4
+2109.pdf,Journal of the Association for Information Science and Technology,JASIST,2022,high,v4_coverage_100pct,1.0,4
+2063.pdf,Journal of the Association for Information Science and Technology,JASIST,2022,low,v4_coverage_100pct,1.0,4
+2065.pdf,Journal of the Association for Information Science and Technology,JASIST,2022,low,v4_coverage_100pct,1.0,4
+2066.pdf,Journal of the Association for Information Science and Technology,JASIST,2022,low,v4_coverage_100pct,1.0,4
+2094.pdf,Journal of the Association for Information Science and Technology,JASIST,2022,low,v4_coverage_100pct,1.0,4
+2103.pdf,Journal of the Association for Information Science and Technology,JASIST,2022,low,v4_coverage_100pct,1.0,4
+2118.pdf,Quantitative Science Studies,QSS,2019,high,v4_coverage_100pct,1.0,4
+2123.pdf,Quantitative Science Studies,QSS,2019,high,v4_coverage_100pct,1.0,4
+2120.pdf,Quantitative Science Studies,QSS,2019,low,v4_coverage_100pct,1.0,4
+2121.pdf,Quantitative Science Studies,QSS,2019,low,v4_coverage_100pct,1.0,4
+2143.pdf,Quantitative Science Studies,QSS,2020,high,v4_coverage_100pct,1.0,4
+2151.pdf,Quantitative Science Studies,QSS,2020,high,v4_coverage_100pct,1.0,4
+2169.pdf,Quantitative Science Studies,QSS,2020,high,v4_coverage_100pct,1.0,4
+2171.pdf,Quantitative Science Studies,QSS,2020,high,v4_coverage_100pct,1.0,4
+2174.pdf,Quantitative Science Studies,QSS,2020,high,v4_coverage_100pct,1.0,4
+2182.pdf,Quantitative Science Studies,QSS,2020,high,v4_coverage_100pct,1.0,4
+2192.pdf,Quantitative Science Studies,QSS,2020,high,v4_coverage_100pct,1.0,4
+2196.pdf,Quantitative Science Studies,QSS,2020,high,v4_coverage_100pct,1.0,4
+2202.pdf,Quantitative Science Studies,QSS,2020,high,v4_coverage_100pct,1.0,4
+2128.pdf,Quantitative Science Studies,QSS,2020,low,v4_coverage_100pct,1.0,4
+2129.pdf,Quantitative Science Studies,QSS,2020,low,v4_coverage_100pct,1.0,4
+2149.pdf,Quantitative Science Studies,QSS,2020,low,v4_coverage_100pct,1.0,4
+2161.pdf,Quantitative Science Studies,QSS,2020,low,v4_coverage_100pct,1.0,4
+2168.pdf,Quantitative Science Studies,QSS,2020,low,v4_coverage_100pct,1.0,4
+2176.pdf,Quantitative Science Studies,QSS,2020,low,v4_coverage_100pct,1.0,4
+2187.pdf,Quantitative Science Studies,QSS,2020,low,v4_coverage_100pct,1.0,4
+2203.pdf,Quantitative Science Studies,QSS,2020,low,v4_coverage_100pct,1.0,4
+2207.pdf,Quantitative Science Studies,QSS,2021,high,v4_coverage_100pct,1.0,4
+2226.pdf,Quantitative Science Studies,QSS,2021,high,v4_coverage_100pct,1.0,4
+2233.pdf,Quantitative Science Studies,QSS,2021,high,v4_coverage_100pct,1.0,4
+2247.pdf,Quantitative Science Studies,QSS,2021,high,v4_coverage_100pct,1.0,4
+2264.pdf,Quantitative Science Studies,QSS,2021,high,v4_coverage_100pct,1.0,4
+2274.pdf,Quantitative Science Studies,QSS,2021,high,v4_coverage_100pct,1.0,4
+2275.pdf,Quantitative Science Studies,QSS,2021,high,v4_coverage_100pct,1.0,4
+2213.pdf,Quantitative Science Studies,QSS,2021,low,v4_coverage_100pct,1.0,4
+2230.pdf,Quantitative Science Studies,QSS,2021,low,v4_coverage_100pct,1.0,4
+2235.pdf,Quantitative Science Studies,QSS,2021,low,v4_coverage_100pct,1.0,4
+2239.pdf,Quantitative Science Studies,QSS,2021,low,v4_coverage_100pct,1.0,4
+2242.pdf,Quantitative Science Studies,QSS,2021,low,v4_coverage_100pct,1.0,4
+2251.pdf,Quantitative Science Studies,QSS,2021,low,v4_coverage_100pct,1.0,4
+2261.pdf,Quantitative Science Studies,QSS,2021,low,v4_coverage_100pct,1.0,4
+2280.pdf,Quantitative Science Studies,QSS,2022,high,v4_coverage_100pct,1.0,4
+2300.pdf,Quantitative Science Studies,QSS,2022,high,v4_coverage_100pct,1.0,4
+2304.pdf,Quantitative Science Studies,QSS,2022,high,v4_coverage_100pct,1.0,4
+2312.pdf,Quantitative Science Studies,QSS,2022,high,v4_coverage_100pct,1.0,4
+2315.pdf,Quantitative Science Studies,QSS,2022,high,v4_coverage_100pct,1.0,4
+2286.pdf,Quantitative Science Studies,QSS,2022,low,v4_coverage_100pct,1.0,4
+2296.pdf,Quantitative Science Studies,QSS,2022,low,v4_coverage_100pct,1.0,4
+2328.pdf,Quantitative Science Studies,QSS,2022,low,v4_coverage_100pct,1.0,4
+2329.pdf,Quantitative Science Studies,QSS,2022,low,v4_coverage_100pct,1.0,4
+2330.pdf,Quantitative Science Studies,QSS,2022,low,v4_coverage_100pct,1.0,4
+2401.pdf,Scientometrics,SCIM,2010,high,v4_coverage_100pct,1.0,4
+2411.pdf,Scientometrics,SCIM,2010,high,v4_coverage_100pct,1.0,4
+2423.pdf,Scientometrics,SCIM,2010,high,v4_coverage_100pct,1.0,4
+2425.pdf,Scientometrics,SCIM,2010,high,v4_coverage_100pct,1.0,4
+2442.pdf,Scientometrics,SCIM,2010,high,v4_coverage_100pct,1.0,4
+2415.pdf,Scientometrics,SCIM,2010,low,v4_coverage_100pct,1.0,4
+2416.pdf,Scientometrics,SCIM,2010,low,v4_coverage_100pct,1.0,4
+2417.pdf,Scientometrics,SCIM,2010,low,v4_coverage_100pct,1.0,4
+2424.pdf,Scientometrics,SCIM,2010,low,v4_coverage_100pct,1.0,4
+2440.pdf,Scientometrics,SCIM,2010,low,v4_coverage_100pct,1.0,4
+2462.pdf,Scientometrics,SCIM,2011,high,v4_coverage_100pct,1.0,4
+2467.pdf,Scientometrics,SCIM,2011,high,v4_coverage_100pct,1.0,4
+2469.pdf,Scientometrics,SCIM,2011,high,v4_coverage_100pct,1.0,4
+2479.pdf,Scientometrics,SCIM,2011,high,v4_coverage_100pct,1.0,4
+2497.pdf,Scientometrics,SCIM,2011,high,v4_coverage_100pct,1.0,4
+2453.pdf,Scientometrics,SCIM,2011,low,v4_coverage_100pct,1.0,4
+2481.pdf,Scientometrics,SCIM,2011,low,v4_coverage_100pct,1.0,4
+2483.pdf,Scientometrics,SCIM,2011,low,v4_coverage_100pct,1.0,4
+2491.pdf,Scientometrics,SCIM,2011,low,v4_coverage_100pct,1.0,4
+2493.pdf,Scientometrics,SCIM,2011,low,v4_coverage_100pct,1.0,4
+2510.pdf,Scientometrics,SCIM,2012,high,v4_coverage_100pct,1.0,4
+2515.pdf,Scientometrics,SCIM,2012,high,v4_coverage_100pct,1.0,4
+2528.pdf,Scientometrics,SCIM,2012,high,v4_coverage_100pct,1.0,4
+2529.pdf,Scientometrics,SCIM,2012,high,v4_coverage_100pct,1.0,4
+2531.pdf,Scientometrics,SCIM,2012,high,v4_coverage_100pct,1.0,4
+2545.pdf,Scientometrics,SCIM,2012,high,v4_coverage_100pct,1.0,4
+2506.pdf,Scientometrics,SCIM,2012,low,v4_coverage_100pct,1.0,4
+2511.pdf,Scientometrics,SCIM,2012,low,v4_coverage_100pct,1.0,4
+2517.pdf,Scientometrics,SCIM,2012,low,v4_coverage_100pct,1.0,4
+2519.pdf,Scientometrics,SCIM,2012,low,v4_coverage_100pct,1.0,4
+2533.pdf,Scientometrics,SCIM,2012,low,v4_coverage_100pct,1.0,4
+2562.pdf,Scientometrics,SCIM,2012,low,v4_coverage_100pct,1.0,4
+2567.pdf,Scientometrics,SCIM,2013,high,v4_coverage_100pct,1.0,4
+2586.pdf,Scientometrics,SCIM,2013,high,v4_coverage_100pct,1.0,4
+2591.pdf,Scientometrics,SCIM,2013,high,v4_coverage_100pct,1.0,4
+2594.pdf,Scientometrics,SCIM,2013,high,v4_coverage_100pct,1.0,4
+2604.pdf,Scientometrics,SCIM,2013,high,v4_coverage_100pct,1.0,4
+2607.pdf,Scientometrics,SCIM,2013,high,v4_coverage_100pct,1.0,4
+2574.pdf,Scientometrics,SCIM,2013,low,v4_coverage_100pct,1.0,4
+2577.pdf,Scientometrics,SCIM,2013,low,v4_coverage_100pct,1.0,4
+2578.pdf,Scientometrics,SCIM,2013,low,v4_coverage_100pct,1.0,4
+2582.pdf,Scientometrics,SCIM,2013,low,v4_coverage_100pct,1.0,4
+2600.pdf,Scientometrics,SCIM,2013,low,v4_coverage_100pct,1.0,4
+2605.pdf,Scientometrics,SCIM,2013,low,v4_coverage_100pct,1.0,4
+2623.pdf,Scientometrics,SCIM,2014,high,v4_coverage_100pct,1.0,4
+2634.pdf,Scientometrics,SCIM,2014,high,v4_coverage_100pct,1.0,4
+2638.pdf,Scientometrics,SCIM,2014,high,v4_coverage_100pct,1.0,4
+2653.pdf,Scientometrics,SCIM,2014,high,v4_coverage_100pct,1.0,4
+2663.pdf,Scientometrics,SCIM,2014,high,v4_coverage_100pct,1.0,4
+2677.pdf,Scientometrics,SCIM,2014,high,v4_coverage_100pct,1.0,4
+2629.pdf,Scientometrics,SCIM,2014,low,v4_coverage_100pct,1.0,4
+2636.pdf,Scientometrics,SCIM,2014,low,v4_coverage_100pct,1.0,4
+2641.pdf,Scientometrics,SCIM,2014,low,v4_coverage_100pct,1.0,4
+2664.pdf,Scientometrics,SCIM,2014,low,v4_coverage_100pct,1.0,4
+2667.pdf,Scientometrics,SCIM,2014,low,v4_coverage_100pct,1.0,4
+2680.pdf,Scientometrics,SCIM,2014,low,v4_coverage_100pct,1.0,4
+2688.pdf,Scientometrics,SCIM,2015,high,v4_coverage_100pct,1.0,4
+2691.pdf,Scientometrics,SCIM,2015,high,v4_coverage_100pct,1.0,4
+2700.pdf,Scientometrics,SCIM,2015,high,v4_coverage_100pct,1.0,4
+2704.pdf,Scientometrics,SCIM,2015,high,v4_coverage_100pct,1.0,4
+2725.pdf,Scientometrics,SCIM,2015,high,v4_coverage_100pct,1.0,4
+2732.pdf,Scientometrics,SCIM,2015,high,v4_coverage_100pct,1.0,4
+2741.pdf,Scientometrics,SCIM,2015,high,v4_coverage_100pct,1.0,4
+2686.pdf,Scientometrics,SCIM,2015,low,v4_coverage_100pct,1.0,4
+2690.pdf,Scientometrics,SCIM,2015,low,v4_coverage_100pct,1.0,4
+2727.pdf,Scientometrics,SCIM,2015,low,v4_coverage_100pct,1.0,4
+2729.pdf,Scientometrics,SCIM,2015,low,v4_coverage_100pct,1.0,4
+2736.pdf,Scientometrics,SCIM,2015,low,v4_coverage_100pct,1.0,4
+2738.pdf,Scientometrics,SCIM,2015,low,v4_coverage_100pct,1.0,4
+2748.pdf,Scientometrics,SCIM,2016,high,v4_coverage_100pct,1.0,4
+2751.pdf,Scientometrics,SCIM,2016,high,v4_coverage_100pct,1.0,4
+2768.pdf,Scientometrics,SCIM,2016,high,v4_coverage_100pct,1.0,4
+2778.pdf,Scientometrics,SCIM,2016,high,v4_coverage_100pct,1.0,4
+2780.pdf,Scientometrics,SCIM,2016,high,v4_coverage_100pct,1.0,4
+2782.pdf,Scientometrics,SCIM,2016,high,v4_coverage_100pct,1.0,4
+2793.pdf,Scientometrics,SCIM,2016,high,v4_coverage_100pct,1.0,4
+2804.pdf,Scientometrics,SCIM,2016,high,v4_coverage_100pct,1.0,4
+2819.pdf,Scientometrics,SCIM,2016,high,v4_coverage_100pct,1.0,4
+2823.pdf,Scientometrics,SCIM,2016,high,v4_coverage_100pct,1.0,4
+2842.pdf,Scientometrics,SCIM,2016,high,v4_coverage_100pct,1.0,4
+2863.pdf,Scientometrics,SCIM,2016,high,v4_coverage_100pct,1.0,4
+2758.pdf,Scientometrics,SCIM,2016,low,v4_coverage_100pct,1.0,4
+2760.pdf,Scientometrics,SCIM,2016,low,v4_coverage_100pct,1.0,4
+2783.pdf,Scientometrics,SCIM,2016,low,v4_coverage_100pct,1.0,4
+2788.pdf,Scientometrics,SCIM,2016,low,v4_coverage_100pct,1.0,4
+2796.pdf,Scientometrics,SCIM,2016,low,v4_coverage_100pct,1.0,4
+2826.pdf,Scientometrics,SCIM,2016,low,v4_coverage_100pct,1.0,4
+2828.pdf,Scientometrics,SCIM,2016,low,v4_coverage_100pct,1.0,4
+2833.pdf,Scientometrics,SCIM,2016,low,v4_coverage_100pct,1.0,4
+2835.pdf,Scientometrics,SCIM,2016,low,v4_coverage_100pct,1.0,4
+2851.pdf,Scientometrics,SCIM,2016,low,v4_coverage_100pct,1.0,4
+2852.pdf,Scientometrics,SCIM,2016,low,v4_coverage_100pct,1.0,4
+2856.pdf,Scientometrics,SCIM,2016,low,v4_coverage_100pct,1.0,4
+2877.pdf,Scientometrics,SCIM,2017,high,v4_coverage_100pct,1.0,4
+2882.pdf,Scientometrics,SCIM,2017,high,v4_coverage_100pct,1.0,4
+2891.pdf,Scientometrics,SCIM,2017,high,v4_coverage_100pct,1.0,4
+2896.pdf,Scientometrics,SCIM,2017,high,v4_coverage_100pct,1.0,4
+2902.pdf,Scientometrics,SCIM,2017,high,v4_coverage_100pct,1.0,4
+2935.pdf,Scientometrics,SCIM,2017,high,v4_coverage_100pct,1.0,4
+2940.pdf,Scientometrics,SCIM,2017,high,v4_coverage_100pct,1.0,4
+2942.pdf,Scientometrics,SCIM,2017,high,v4_coverage_100pct,1.0,4
+2948.pdf,Scientometrics,SCIM,2017,high,v4_coverage_100pct,1.0,4
+2950.pdf,Scientometrics,SCIM,2017,high,v4_coverage_100pct,1.0,4
+2960.pdf,Scientometrics,SCIM,2017,high,v4_coverage_100pct,1.0,4
+2968.pdf,Scientometrics,SCIM,2017,high,v4_coverage_100pct,1.0,4
+2991.pdf,Scientometrics,SCIM,2017,high,v4_coverage_100pct,1.0,4
+2867.pdf,Scientometrics,SCIM,2017,low,v4_coverage_100pct,1.0,4
+2871.pdf,Scientometrics,SCIM,2017,low,v4_coverage_100pct,1.0,4
+2876.pdf,Scientometrics,SCIM,2017,low,v4_coverage_100pct,1.0,4
+2898.pdf,Scientometrics,SCIM,2017,low,v4_coverage_100pct,1.0,4
+2911.pdf,Scientometrics,SCIM,2017,low,v4_coverage_100pct,1.0,4
+2915.pdf,Scientometrics,SCIM,2017,low,v4_coverage_100pct,1.0,4
+2918.pdf,Scientometrics,SCIM,2017,low,v4_coverage_100pct,1.0,4
+2933.pdf,Scientometrics,SCIM,2017,low,v4_coverage_100pct,1.0,4
+2936.pdf,Scientometrics,SCIM,2017,low,v4_coverage_100pct,1.0,4
+2975.pdf,Scientometrics,SCIM,2017,low,v4_coverage_100pct,1.0,4
+2976.pdf,Scientometrics,SCIM,2017,low,v4_coverage_100pct,1.0,4
+2981.pdf,Scientometrics,SCIM,2017,low,v4_coverage_100pct,1.0,4
+2987.pdf,Scientometrics,SCIM,2017,low,v4_coverage_100pct,1.0,4
+3006.pdf,Scientometrics,SCIM,2018,high,v4_coverage_100pct,1.0,4
+3013.pdf,Scientometrics,SCIM,2018,high,v4_coverage_100pct,1.0,4
+3016.pdf,Scientometrics,SCIM,2018,high,v4_coverage_100pct,1.0,4
+3020.pdf,Scientometrics,SCIM,2018,high,v4_coverage_100pct,1.0,4
+3040.pdf,Scientometrics,SCIM,2018,high,v4_coverage_100pct,1.0,4
+3060.pdf,Scientometrics,SCIM,2018,high,v4_coverage_100pct,1.0,4
+3069.pdf,Scientometrics,SCIM,2018,high,v4_coverage_100pct,1.0,4
+3070.pdf,Scientometrics,SCIM,2018,high,v4_coverage_100pct,1.0,4
+3072.pdf,Scientometrics,SCIM,2018,high,v4_coverage_100pct,1.0,4
+3073.pdf,Scientometrics,SCIM,2018,high,v4_coverage_100pct,1.0,4
+3003.pdf,Scientometrics,SCIM,2018,low,v4_coverage_100pct,1.0,4
+3007.pdf,Scientometrics,SCIM,2018,low,v4_coverage_100pct,1.0,4
+3011.pdf,Scientometrics,SCIM,2018,low,v4_coverage_100pct,1.0,4
+3023.pdf,Scientometrics,SCIM,2018,low,v4_coverage_100pct,1.0,4
+3033.pdf,Scientometrics,SCIM,2018,low,v4_coverage_100pct,1.0,4
+3042.pdf,Scientometrics,SCIM,2018,low,v4_coverage_100pct,1.0,4
+3056.pdf,Scientometrics,SCIM,2018,low,v4_coverage_100pct,1.0,4
+3063.pdf,Scientometrics,SCIM,2018,low,v4_coverage_100pct,1.0,4
+3083.pdf,Scientometrics,SCIM,2018,low,v4_coverage_100pct,1.0,4
+3091.pdf,Scientometrics,SCIM,2018,low,v4_coverage_100pct,1.0,4
+3105.pdf,Scientometrics,SCIM,2019,high,v4_coverage_100pct,1.0,4
+3113.pdf,Scientometrics,SCIM,2019,high,v4_coverage_100pct,1.0,4
+3118.pdf,Scientometrics,SCIM,2019,high,v4_coverage_100pct,1.0,4
+3129.pdf,Scientometrics,SCIM,2019,high,v4_coverage_100pct,1.0,4
+3140.pdf,Scientometrics,SCIM,2019,high,v4_coverage_100pct,1.0,4
+3153.pdf,Scientometrics,SCIM,2019,high,v4_coverage_100pct,1.0,4
+3156.pdf,Scientometrics,SCIM,2019,high,v4_coverage_100pct,1.0,4
+3166.pdf,Scientometrics,SCIM,2019,high,v4_coverage_100pct,1.0,4
+3172.pdf,Scientometrics,SCIM,2019,high,v4_coverage_100pct,1.0,4
+3183.pdf,Scientometrics,SCIM,2019,high,v4_coverage_100pct,1.0,4
+3198.pdf,Scientometrics,SCIM,2019,high,v4_coverage_100pct,1.0,4
+3094.pdf,Scientometrics,SCIM,2019,low,v4_coverage_100pct,1.0,4
+3100.pdf,Scientometrics,SCIM,2019,low,v4_coverage_100pct,1.0,4
+3106.pdf,Scientometrics,SCIM,2019,low,v4_coverage_100pct,1.0,4
+3139.pdf,Scientometrics,SCIM,2019,low,v4_coverage_100pct,1.0,4
+3148.pdf,Scientometrics,SCIM,2019,low,v4_coverage_100pct,1.0,4
+3149.pdf,Scientometrics,SCIM,2019,low,v4_coverage_100pct,1.0,4
+3159.pdf,Scientometrics,SCIM,2019,low,v4_coverage_100pct,1.0,4
+3173.pdf,Scientometrics,SCIM,2019,low,v4_coverage_100pct,1.0,4
+3174.pdf,Scientometrics,SCIM,2019,low,v4_coverage_100pct,1.0,4
+3177.pdf,Scientometrics,SCIM,2019,low,v4_coverage_100pct,1.0,4
+3189.pdf,Scientometrics,SCIM,2019,low,v4_coverage_100pct,1.0,4
+3192.pdf,Scientometrics,SCIM,2019,low,v4_coverage_100pct,1.0,4
+3222.pdf,Scientometrics,SCIM,2020,high,v4_coverage_100pct,1.0,4
+3225.pdf,Scientometrics,SCIM,2020,high,v4_coverage_100pct,1.0,4
+3226.pdf,Scientometrics,SCIM,2020,high,v4_coverage_100pct,1.0,4
+3231.pdf,Scientometrics,SCIM,2020,high,v4_coverage_100pct,1.0,4
+3236.pdf,Scientometrics,SCIM,2020,high,v4_coverage_100pct,1.0,4
+3256.pdf,Scientometrics,SCIM,2020,high,v4_coverage_100pct,1.0,4
+3258.pdf,Scientometrics,SCIM,2020,high,v4_coverage_100pct,1.0,4
+3277.pdf,Scientometrics,SCIM,2020,high,v4_coverage_100pct,1.0,4
+3289.pdf,Scientometrics,SCIM,2020,high,v4_coverage_100pct,1.0,4
+3290.pdf,Scientometrics,SCIM,2020,high,v4_coverage_100pct,1.0,4
+3302.pdf,Scientometrics,SCIM,2020,high,v4_coverage_100pct,1.0,4
+3303.pdf,Scientometrics,SCIM,2020,high,v4_coverage_100pct,1.0,4
+3304.pdf,Scientometrics,SCIM,2020,high,v4_coverage_100pct,1.0,4
+3320.pdf,Scientometrics,SCIM,2020,high,v4_coverage_100pct,1.0,4
+3334.pdf,Scientometrics,SCIM,2020,high,v4_coverage_100pct,1.0,4
+3344.pdf,Scientometrics,SCIM,2020,high,v4_coverage_100pct,1.0,4
+3361.pdf,Scientometrics,SCIM,2020,high,v4_coverage_100pct,1.0,4
+3381.pdf,Scientometrics,SCIM,2020,high,v4_coverage_100pct,1.0,4
+3202.pdf,Scientometrics,SCIM,2020,low,v4_coverage_100pct,1.0,4
+3203.pdf,Scientometrics,SCIM,2020,low,v4_coverage_100pct,1.0,4
+3221.pdf,Scientometrics,SCIM,2020,low,v4_coverage_100pct,1.0,4
+3246.pdf,Scientometrics,SCIM,2020,low,v4_coverage_100pct,1.0,4
+3247.pdf,Scientometrics,SCIM,2020,low,v4_coverage_100pct,1.0,4
+3262.pdf,Scientometrics,SCIM,2020,low,v4_coverage_100pct,1.0,4
+3264.pdf,Scientometrics,SCIM,2020,low,v4_coverage_100pct,1.0,4
+3280.pdf,Scientometrics,SCIM,2020,low,v4_coverage_100pct,1.0,4
+3298.pdf,Scientometrics,SCIM,2020,low,v4_coverage_100pct,1.0,4
+3300.pdf,Scientometrics,SCIM,2020,low,v4_coverage_100pct,1.0,4
+3301.pdf,Scientometrics,SCIM,2020,low,v4_coverage_100pct,1.0,4
+3305.pdf,Scientometrics,SCIM,2020,low,v4_coverage_100pct,1.0,4
+3309.pdf,Scientometrics,SCIM,2020,low,v4_coverage_100pct,1.0,4
+3319.pdf,Scientometrics,SCIM,2020,low,v4_coverage_100pct,1.0,4
+3324.pdf,Scientometrics,SCIM,2020,low,v4_coverage_100pct,1.0,4
+3327.pdf,Scientometrics,SCIM,2020,low,v4_coverage_100pct,1.0,4
+3346.pdf,Scientometrics,SCIM,2020,low,v4_coverage_100pct,1.0,4
+3382.pdf,Scientometrics,SCIM,2020,low,v4_coverage_100pct,1.0,4
+3386.pdf,Scientometrics,SCIM,2021,high,v4_coverage_100pct,1.0,4
+3388.pdf,Scientometrics,SCIM,2021,high,v4_coverage_100pct,1.0,4
+3399.pdf,Scientometrics,SCIM,2021,high,v4_coverage_100pct,1.0,4
+3402.pdf,Scientometrics,SCIM,2021,high,v4_coverage_100pct,1.0,4
+3411.pdf,Scientometrics,SCIM,2021,high,v4_coverage_100pct,1.0,4
+3421.pdf,Scientometrics,SCIM,2021,high,v4_coverage_100pct,1.0,4
+3422.pdf,Scientometrics,SCIM,2021,high,v4_coverage_100pct,1.0,4
+3425.pdf,Scientometrics,SCIM,2021,high,v4_coverage_100pct,1.0,4
+3475.pdf,Scientometrics,SCIM,2021,high,v4_coverage_100pct,1.0,4
+3477.pdf,Scientometrics,SCIM,2021,high,v4_coverage_100pct,1.0,4
+3479.pdf,Scientometrics,SCIM,2021,high,v4_coverage_100pct,1.0,4
+3495.pdf,Scientometrics,SCIM,2021,high,v4_coverage_100pct,1.0,4
+3499.pdf,Scientometrics,SCIM,2021,high,v4_coverage_100pct,1.0,4
+3512.pdf,Scientometrics,SCIM,2021,high,v4_coverage_100pct,1.0,4
+3534.pdf,Scientometrics,SCIM,2021,high,v4_coverage_100pct,1.0,4
+3544.pdf,Scientometrics,SCIM,2021,high,v4_coverage_100pct,1.0,4
+3552.pdf,Scientometrics,SCIM,2021,high,v4_coverage_100pct,1.0,4
+3383.pdf,Scientometrics,SCIM,2021,low,v4_coverage_100pct,1.0,4
+3392.pdf,Scientometrics,SCIM,2021,low,v4_coverage_100pct,1.0,4
+3398.pdf,Scientometrics,SCIM,2021,low,v4_coverage_100pct,1.0,4
+3404.pdf,Scientometrics,SCIM,2021,low,v4_coverage_100pct,1.0,4
+3408.pdf,Scientometrics,SCIM,2021,low,v4_coverage_100pct,1.0,4
+3417.pdf,Scientometrics,SCIM,2021,low,v4_coverage_100pct,1.0,4
+3424.pdf,Scientometrics,SCIM,2021,low,v4_coverage_100pct,1.0,4
+3427.pdf,Scientometrics,SCIM,2021,low,v4_coverage_100pct,1.0,4
+3439.pdf,Scientometrics,SCIM,2021,low,v4_coverage_100pct,1.0,4
+3443.pdf,Scientometrics,SCIM,2021,low,v4_coverage_100pct,1.0,4
+3459.pdf,Scientometrics,SCIM,2021,low,v4_coverage_100pct,1.0,4
+3469.pdf,Scientometrics,SCIM,2021,low,v4_coverage_100pct,1.0,4
+3481.pdf,Scientometrics,SCIM,2021,low,v4_coverage_100pct,1.0,4
+3488.pdf,Scientometrics,SCIM,2021,low,v4_coverage_100pct,1.0,4
+3490.pdf,Scientometrics,SCIM,2021,low,v4_coverage_100pct,1.0,4
+3502.pdf,Scientometrics,SCIM,2021,low,v4_coverage_100pct,1.0,4
+3542.pdf,Scientometrics,SCIM,2021,low,v4_coverage_100pct,1.0,4
+3560.pdf,Scientometrics,SCIM,2022,high,v4_coverage_100pct,1.0,4
+3590.pdf,Scientometrics,SCIM,2022,high,v4_coverage_100pct,1.0,4
+3614.pdf,Scientometrics,SCIM,2022,high,v4_coverage_100pct,1.0,4
+3621.pdf,Scientometrics,SCIM,2022,high,v4_coverage_100pct,1.0,4
+3624.pdf,Scientometrics,SCIM,2022,high,v4_coverage_100pct,1.0,4
+3626.pdf,Scientometrics,SCIM,2022,high,v4_coverage_100pct,1.0,4
+3633.pdf,Scientometrics,SCIM,2022,high,v4_coverage_100pct,1.0,4
+3635.pdf,Scientometrics,SCIM,2022,high,v4_coverage_100pct,1.0,4
+3646.pdf,Scientometrics,SCIM,2022,high,v4_coverage_100pct,1.0,4
+3659.pdf,Scientometrics,SCIM,2022,high,v4_coverage_100pct,1.0,4
+3666.pdf,Scientometrics,SCIM,2022,high,v4_coverage_100pct,1.0,4
+3680.pdf,Scientometrics,SCIM,2022,high,v4_coverage_100pct,1.0,4
+3691.pdf,Scientometrics,SCIM,2022,high,v4_coverage_100pct,1.0,4
+3699.pdf,Scientometrics,SCIM,2022,high,v4_coverage_100pct,1.0,4
+3705.pdf,Scientometrics,SCIM,2022,high,v4_coverage_100pct,1.0,4
+3708.pdf,Scientometrics,SCIM,2022,high,v4_coverage_100pct,1.0,4
+3725.pdf,Scientometrics,SCIM,2022,high,v4_coverage_100pct,1.0,4
+3736.pdf,Scientometrics,SCIM,2022,high,v4_coverage_100pct,1.0,4
+3562.pdf,Scientometrics,SCIM,2022,low,v4_coverage_100pct,1.0,4
+3575.pdf,Scientometrics,SCIM,2022,low,v4_coverage_100pct,1.0,4
+3579.pdf,Scientometrics,SCIM,2022,low,v4_coverage_100pct,1.0,4
+3596.pdf,Scientometrics,SCIM,2022,low,v4_coverage_100pct,1.0,4
+3607.pdf,Scientometrics,SCIM,2022,low,v4_coverage_100pct,1.0,4
+3608.pdf,Scientometrics,SCIM,2022,low,v4_coverage_100pct,1.0,4
+3610.pdf,Scientometrics,SCIM,2022,low,v4_coverage_100pct,1.0,4
+3616.pdf,Scientometrics,SCIM,2022,low,v4_coverage_100pct,1.0,4
+3645.pdf,Scientometrics,SCIM,2022,low,v4_coverage_100pct,1.0,4
+3648.pdf,Scientometrics,SCIM,2022,low,v4_coverage_100pct,1.0,4
+3665.pdf,Scientometrics,SCIM,2022,low,v4_coverage_100pct,1.0,4
+3696.pdf,Scientometrics,SCIM,2022,low,v4_coverage_100pct,1.0,4
+3702.pdf,Scientometrics,SCIM,2022,low,v4_coverage_100pct,1.0,4
+3703.pdf,Scientometrics,SCIM,2022,low,v4_coverage_100pct,1.0,4
+3714.pdf,Scientometrics,SCIM,2022,low,v4_coverage_100pct,1.0,4
+3715.pdf,Scientometrics,SCIM,2022,low,v4_coverage_100pct,1.0,4
+3718.pdf,Scientometrics,SCIM,2022,low,v4_coverage_100pct,1.0,4
+3719.pdf,Scientometrics,SCIM,2022,low,v4_coverage_100pct,1.0,4
+3737.pdf,Scientometrics,SCIM,2022,low,v4_coverage_100pct,1.0,4

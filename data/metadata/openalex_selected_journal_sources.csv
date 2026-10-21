@@ -1,0 +1,8 @@
+query_name,source_id,source_id_short,display_name,issn_l,publisher,works_count,cited_by_count
+Scientometrics,https://openalex.org/S148561398,S148561398,Scientometrics,0138-9130,Springer Nature (Netherlands),8493,322799
+Journal of Informetrics,https://openalex.org/S205292342,S205292342,Journal of Informetrics,1751-1577,Elsevier BV,1721,85211
+Quantitative Science Studies,https://openalex.org/S4210195326,S4210195326,Quantitative Science Studies,2641-3337,The MIT Press,473,12312
+Journal of the Association for Information Science and Technology,https://openalex.org/S4210197613,S4210197613,Journal of the Association for Information Science and Technology,2330-1635,Wiley,2327,61884
+Frontiers in Research Metrics and Analytics,https://openalex.org/S2596295431,S2596295431,Frontiers in Research Metrics and Analytics,2504-0537,Frontiers Media,541,6611
+Iberoamerican Journal of Science Measurement and Communication,https://openalex.org/S4210199169,S4210199169,Iberoamerican Journal of Science Measurement and Communication,2709-3158,,165,765
+Frontiers in Communication,https://openalex.org/S2596093566,S2596093566,Frontiers in Communication,2297-900X,Frontiers Media,2267,19789
