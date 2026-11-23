@@ -1,6 +1,6 @@
 # Paper 4 — Citation Analysis and Scientometric Inference
 
-**Research code and selected aggregate outputs — draft repository (not a completed reproducibility release).**
+**Research code and selected aggregate outputs**
 
 This repository draft organizes the supplied research notebooks for acquiring OpenAlex records, downloading scholarly PDFs, constructing citation datasets, training sentiment and citation-function classifiers, extracting citation information, and performing paper-level analyses with **LFCR** (less-frequent citation ratio) and **LFC**, including milestone-based early-impact and delayed-recognition analyses.
 
